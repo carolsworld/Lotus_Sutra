@@ -1,8 +1,8 @@
-A translation of Lotus Sutra from Chinese to English using ChatGPT  (date: 4 Feb 2023)
+A translation of Lotus Sutra from Chinese to English using ChatGPT  (date: 5 Feb 2023)
 
 妙法蓮華經譬喻品第三
 
-The third chapter of the Parables.
+The Lotus Sutra, Chapter on the Parables, Chapter 3.
 
 爾時舍利弗踊躍歡喜，
 
@@ -32,67 +32,261 @@ and saw the Bodhisattvas receive predictions of becoming a Buddha, but I did not
 
 I deeply regret that I have lost out on the immeasurable knowledge and understanding of the Tathāgata. 
 
-世尊！我常獨處山林樹下，若坐若行，每作是念：『我等同入法性，云何如來以小乘法而見濟度？是我等咎，非世尊也。所以者何？若我等待說所因成就阿耨多羅三藐三菩提者，必以大乘而得度脫。然我等不解方便隨宜所說，初聞佛法，遇便信受、思惟、取證。』世尊！我從昔來，終日竟夜每自剋責，而今從佛聞所未聞未曾有法，斷諸疑悔，身意泰然，快得安隱。今日乃知真是佛子，從佛口生，從法化生，得佛法分。」
+世尊！我常獨處山林樹下，若坐若行，
 
+World-Honored One, I often spend time alone under trees in the mountains, sitting or walking, 
 
-World-Honored One, I often spend time alone under trees in the mountains, sitting or walking, and always think to myself, "We are the same in regards to the nature of the Dharma. How is it that the Tathāgata can save people through the teachings of the Hinayana? This must be our fault, not the World-Honored One's. Why is that so? If we were to explain the causes and conditions that lead to the achievement of the unsurpassed, true, complete enlightenment of the anuttarā-samyak-saṃbodhi, we would do so through the Mahayana, and attain liberation. However, we do not understand the appropriate and convenient ways of speaking, and upon hearing the teachings of the Buddha for the first time, we simply believe, think, and verify. World-Honored One, from ancient times until now, I have always blamed and criticized myself day and night, but today I have heard teachings that I have never heard before, and my doubts and regrets are dispelled. My body and mind are at peace, and I have quickly found peace and comfort. Today, I know that one truly becomes a Buddha's child, born from the mouth of the Buddha, born from the transformation of the Dharma, and obtains the teachings of the Buddha.'
+每作是念：『我等同入法性，
 
-At that time, Śāriputra wanted to further explain this meaning and spoke the following verse:"
+and always think to myself, "We are the same in regards to the nature of the Dharma. 
+
+云何如來以小乘法而見濟度？
+
+How is it that the Tathāgata can save people through the teachings of the Hinayana? 
+
+是我等咎，非世尊也。
+
+This must be our fault, not the World-Honored One's. 
+
+所以者何？
+
+Why is that so? 
+
+若我等待說所因成就阿耨多羅三藐三菩提者，
+
+If we were to explain the causes and conditions that lead to the achievement of the unsurpassed, true, complete enlightenment of the anuttarā-samyak-saṃbodhi, 
+
+必以大乘而得度脫。
+
+we would do so through the Mahayana, and attain liberation. 
+
+然我等不解方便隨宜所說，
+
+However, we do not understand the appropriate and convenient ways of speaking, 
+
+初聞佛法，遇便信受、思惟、取證。』
+
+and upon hearing the teachings of the Buddha for the first time, we simply believe, think, and verify. 
+
+世尊！我從昔來，終日竟夜每自剋責，
+
+World-Honored One, from ancient times until now, I have always blamed and criticized myself day and night, 
+
+而今從佛聞所未聞未曾有法，斷諸疑悔，
+
+but today I have heard teachings that I have never heard before, and my doubts and regrets are dispelled. 
+
+身意泰然，快得安隱。
+
+My body and mind are at peace, and I have quickly found peace and comfort. 
+
+今日乃知真是佛子，
+
+Today, I know that one truly becomes a Buddha's child, 
+
+從佛口生，從法化生，得佛法分。」
+
+born from the mouth of the Buddha, born from the transformation of the Dharma, and obtains the teachings of the Buddha.'
 
 
 爾時舍利弗欲重宣此義，而說偈言：
 
-「我聞是法音，　　得所未曾有，
-心懷大歡喜，　　疑網皆已除。
-昔來蒙佛教，　　不失於大乘，
-佛音甚希有，　　能除眾生惱，
-我已得漏盡，　　聞亦除憂惱。
-我處於山谷，　　或在林樹下，
-若坐若經行，　　常思惟是事，
-嗚呼深自責，　　云何而自欺？
-我等亦佛子，　　同入無漏法，
-不能於未來，　　演說無上道。
-金色三十二，　　十力諸解脫，
-同共一法中，　　而不得此事；
-八十種妙好，　　十八不共法，
-如是等功德，　　而我皆已失。
-我獨經行時，　　見佛在大眾，
-名聞滿十方，　　廣饒益眾生。
-自惟失此利，　　我為自欺誑。
-我常於日夜，　　每思惟是事，
-欲以問世尊，　　為失為不失？
-我常見世尊，　　稱讚諸菩薩，
-以是於日夜，　　籌量如此事。
-今聞佛音聲，　　隨宜而說法，
-無漏難思議，　　令眾至道場。
-我本著邪見，　　為諸梵志師，
-世尊知我心，　　拔邪說涅槃。
-我悉除邪見，　　於空法得證，
-爾時心自謂，　　得至於滅度；
-而今乃自覺，　　非是實滅度。
-若得作佛時，　　具三十二相，
-天人夜叉眾，　　龍神等恭敬，
-是時乃可謂，　　永盡滅無餘。
-佛於大眾中，　　說我當作佛，
-聞如是法音，　　疑悔悉已除。
-初聞佛所說，　　心中大驚疑，
-將非魔作佛，　　惱亂我心耶？
-佛以種種緣、　　譬喻巧言說，
-其心安如海，　　我聞疑網斷。
-佛說過去世，　　無量滅度佛，
-安住方便中，　　亦皆說是法。
-現在未來佛，　　其數無有量，
-亦以諸方便，　　演說如是法。
-如今者世尊，　　從生及出家、
-得道轉法輪，　　亦以方便說。
-世尊說實道，　　波旬無此事，
-以是我定知，　　非是魔作佛。
-我墮疑網故，　　謂是魔所為，
-聞佛柔軟音，　　深遠甚微妙，
-演暢清淨法。　　我心大歡喜，
-疑悔永已盡，　　安住實智中。
-我定當作佛，　　為天人所敬，
-轉無上法輪，　　教化諸菩薩。」
+At that time, Śāriputra wanted to further explain this meaning and spoke the following verse:"
+
+「我聞是法音，得所未曾有，
+
+"I heard the teachings of the Buddha, gaining what I never had before. 
+
+心懷大歡喜，疑網皆已除。
+
+My heart is filled with great joy, and all doubts have been cleared.
+
+昔來蒙佛教，不失於大乘，
+
+I was previously shrouded in Buddhism, not deviating from the Mahayana. 
+
+佛音甚希有，能除眾生惱，
+
+The teachings of the Buddha are rare and precious, able to alleviate the suffering of all beings.
+
+我已得漏盡，聞亦除憂惱。
+
+I have exhausted my negative karma and hearing the teachings has also removed my worries and afflictions.
+
+我處於山谷，或在林樹下，若坐若經行，常思惟是事，
+
+Whether I am in the valley or under the trees, sitting or walking, I often think of this matter. 
+
+嗚呼深自責，云何而自欺？
+
+Alas, I deeply blame myself, why did I deceive myself?
+
+我等亦佛子，同入無漏法，
+
+We too are the children of the Buddha, entering the teachings of no-outflows. 
+
+不能於未來，演說無上道。
+
+But we are unable to speak of the supreme path in the future.
+
+金色三十二，十力諸解脫，
+
+The thirty-two marks of a great man and the ten powers of understanding, 
+
+同共一法中，而不得此事；
+
+all belong to the same teachings, yet I have not realized this.
+
+八十種妙好，十八不共法，
+
+The eighty noble qualities and the eighteen unique characteristics, 
+
+如是等功德，而我皆已失。
+
+such merits, but I have lost them all.
+
+我獨經行時，見佛在大眾，
+
+I saw the Buddha in the midst of the masses, 
+
+名聞滿十方，廣饒益眾生。
+
+his name and fame known in all ten directions, benefiting countless beings.
+
+自惟失此利，我為自欺誑。
+
+Thinking of missing such benefits, I deceive myself.
+
+我常於日夜，每思惟是事，
+
+Day and night I constantly think of this matter, 
+
+欲以問世尊，為失為不失？
+
+wishing to ask the World Honored One, did I lose or did I not lose?"
+
+我常見世尊，稱讚諸菩薩，
+
+I often see the World-Honored One, praising all the bodhisattvas.
+
+以是於日夜，籌量如此事。
+
+I ponder this day and night, contemplating these things.
+
+今聞佛音聲，隨宜而說法，
+
+Now, hearing the voice of the Buddha, speaking the Dharma according to my needs,
+
+無漏難思議，令眾至道場。
+
+The incomparable and inconceivable non-outflow, leads all to the Way's field.
+
+我本著邪見，為諸梵志師，
+
+I once held wrong views, following the teachers of the Brahmins,
+
+世尊知我心，拔邪說涅槃。
+
+But the World-Honored One knows my heart and removes my evil, speaking of nirvana.
+
+我悉除邪見，於空法得證，
+
+I dispel all my wrong views, attain verification in the Dharma of emptiness,
+
+爾時心自謂，得至於滅度；
+
+At that time, I thought I had reached extinction,
+
+而今乃自覺，非是實滅度。
+
+But now I am aware, it is not the true extinction.
+
+若得作佛時，具三十二相，
+
+If I become a Buddha, I will have the 32 marks,
+
+天人夜叉眾，龍神等恭敬，
+
+The gods, humans, asuras, and others in the assembly will respectfully greet me,
+
+是時乃可謂，永盡滅無餘。
+
+And then I can truly say that extinction is forever without residue.
+
+佛於大眾中，說我當作佛，
+
+The Buddha spoke in the assembly, saying that I will become a Buddha,
+
+聞如是法音，疑悔悉已除。
+
+Hearing such a Dharma voice, all doubts and regret are removed.
+
+初聞佛所說，心中大驚疑，
+
+When I first heard the Buddha's words, my heart was greatly shocked and skeptical,
+
+將非魔作佛，惱亂我心耶？
+
+Could it be that magic makes one a Buddha, causing confusion in my heart?
+
+佛以種種緣、譬喻巧言說，
+
+The Buddha spoke with various causes and clever analogies, 
+
+其心安如海，我聞疑網斷。
+
+and my mind became peaceful like the ocean after hearing them. 
+
+佛說過去世，無量滅度佛，安住方便中，亦皆說是法。
+
+He spoke of countless extinct buddhas in the past who resided in expedient means, 
+
+現在未來佛，其數無有量，亦以諸方便，演說如是法。
+
+and that present and future buddhas are countless and speak the Dharma in various expedient means as well. 
+
+如今者世尊，從生及出家、得道轉法輪，亦以方便說。
+
+The present World-Honored One has been born, became a monk, attained the Way, and turned the Dharma wheel, also speaking in expedient means. 
+
+世尊說實道，波旬無此事，
+
+The World-Honored One speaks of the true path, but there are no such things as waves and tempests. 
+
+以是我定知，非是魔作佛。
+
+Because of this, I have firmly believed that this is not the work of a demon. 
+
+我墮疑網故，謂是魔所為，
+
+I had fallen into a net of doubt, thinking that it was the work of a demon, 
+
+聞佛柔軟音，深遠甚微妙，
+
+but upon hearing the Buddha's gentle and deep voice, which is far and subtle, 
+
+演暢清淨法。我心大歡喜，疑悔永已盡，安住實智中。
+
+I was greatly joyous and my doubts and regrets were forever gone. 
+
+我定當作佛，為天人所敬，
+
+I firmly resolve to become a buddha, honored by heavenly beings and humans, 
+
+轉無上法輪，教化諸菩薩。」
+
+and turn the supreme Dharma wheel, teaching and transforming bodhisattvas.
+
+
+
+
+
+
+
+
+
+
+
 
 爾時佛告舍利弗：「吾今於天、人、沙門、婆羅門等大眾中說，我昔曾於二萬億佛所，為無上道故，常教化汝，汝亦長夜隨我受學。我以方便引導汝故，生我法中。舍利弗！我昔教汝志願佛道，汝今悉忘，而便自謂已得滅度。我今還欲令汝憶念本願所行道故，為諸聲聞說是大乘經，名妙法蓮華，教菩薩法，佛所護念。
 
