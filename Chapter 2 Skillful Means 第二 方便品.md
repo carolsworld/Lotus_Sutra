@@ -1,5 +1,5 @@
 A translation of Lotus Sutra from Chinese to English using ChatGPT  (date: 4 Feb 2023)
-
+ 
 妙法蓮華經方便品第二
 
 The Lotus Sutra, Chapter on Skillful Means, Chapter 2.
