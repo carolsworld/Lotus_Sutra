@@ -1,4 +1,3 @@
-# Lotus_Sutra
 Use ChatGPT to Translate the Lotus Sutra (妙法蓮華經)
 
 【經文資訊】大正藏第 9 冊 No. 262 妙法蓮華經
