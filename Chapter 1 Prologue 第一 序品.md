@@ -1,16 +1,6 @@
 A translation of Lotus Sutra from Chinese to English using ChatGPT  (date: 4 Feb 2023)
 
-妙法蓮華經卷第一
-
-Lotus Sūtra, Roll 1.
-
-
-後秦龜茲國三藏法師鳩摩羅什奉　詔譯
-
-Later Qin Guizhou State Tripitaka Master Kumārajīva received an imperial edict to translate it.
-
-
-序品第一
+妙法蓮華經序品第一
 
 Prologue, Chapter 1.
 
