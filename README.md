@@ -5,6 +5,9 @@ Use ChatGPT to Translate the Lotus Sutra (妙法蓮華經)
 
 "Scripture Information: Taishō Tripiṭaka Volume 9 No. 262 Lotus Sūtra.
 
+# 後秦龜茲國三藏法師鳩摩羅什奉　詔譯
+
+The Tripitaka Master Kumārajīva was commissioned to translate by Emperor Wu of the Later Qin Dynasty.
 
 #【版本記錄】發行日期：2022-10，最後更新：2022-10-15
 
