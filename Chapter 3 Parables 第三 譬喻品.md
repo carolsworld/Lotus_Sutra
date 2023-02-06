@@ -1,4 +1,4 @@
-A translation of Lotus Sutra from Chinese to English using ChatGPT  (date: 5 Feb 2023)
+A translation of Lotus Sutra from Chinese to English using ChatGPT  (date: 6 Feb 2023)
 
 妙法蓮華經譬喻品第三
 
@@ -573,48 +573,385 @@ The Buddha lived for twelve small kalpas
 
 and the people of his country lived for eight small kalpas.
 
-
-
-
-
-
-
 佛滅度之後，正法住於世，
+
+After the Buddha's enlightenment, the true teachings remained in the world.
+
 三十二小劫，廣度諸眾生。
+
+During the thirty-two minor kalpas, he enlightened all living beings.
+
 正法滅盡已，像法三十二，
+
+When the true teachings have disappeared, the teachings in form will persist for thirty-two kalpas.
+
 舍利廣流布，天人普供養。
+
+Relics will spread widely, and gods and humans will make offerings.
+
 華光佛所為，其事皆如是，
+
+The Buddha's brilliant light is thus. These things are all like this.
+
 其兩足聖尊，最勝無倫匹。
+
+The revered two feet of the saint is the most supreme, incomparable.
+
 彼即是汝身，宜應自欣慶。」
 
+That is your own body, it is fitting to rejoice in it.
 
-爾時四部眾，比丘、比丘尼、優婆塞、優婆夷，天、龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽等大眾，見舍利弗於佛前受阿耨多羅三藐三菩提記，心大歡喜，踊躍無量，各各脫身所著上衣、以供養佛。釋提桓因、梵天王等，與無數天子，亦以天妙衣、天曼陀羅華、摩訶曼陀羅華等，供養於佛——所散天衣，住虛空中，而自迴轉；諸天伎樂百千萬種，於虛空中一時俱作，雨眾天華——而作是言：「佛昔於波羅㮈初轉法輪，今乃復轉無上最大法輪。」
+爾時四部眾，比丘、比丘尼、優婆塞、優婆夷，
+
+At that time, the four assemblies of monastics - bhiksus, bhiksunis, laymen and laywomen, 
+
+天、龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽等大眾，
+
+gods, dragons, asuras, gandharvas, demons, garudas, kinnaras, and mahoragas, 
+
+見舍利弗於佛前受阿耨多羅三藐三菩提記，心大歡喜，踊躍無量，
+
+saw Sariputra receive the Anuttarasamyaksambodhi record in front of the Buddha and were overjoyed. 
+
+各各脫身所著上衣、以供養佛。
+
+They all took off their upper garments and offered them to the Buddha. 
+
+釋提桓因、梵天王等，與無數天子，
+
+The Shakyamuni, the king of the gods, and countless celestial sons 
+
+亦以天妙衣、天曼陀羅華、摩訶曼陀羅華等，供養於佛
+
+also offered their celestial robes, mandalas, and other offerings to the Buddha. 
+
+所散天衣，住虛空中，而自迴轉；
+
+The scattered celestial robes floated in the sky and spun around, 
+
+諸天伎樂百千萬種，於虛空中一時俱作，
+
+and various celestial music and performances were performed at the same time in the sky. 
+
+雨眾天華——而作是言：
+
+It rained celestial flowers and they said, 
+
+「佛昔於波羅㮈初轉法輪，
+
+"The Buddha previously turned the Dharma wheel in the land of Kapilavastu, 
+
+今乃復轉無上最大法輪。」
+
+and now he has again turned the incomparable and supreme Dharma wheel."
 
 爾時諸天子欲重宣此義，而說偈言：
 
-「昔於波羅㮈，　　轉四諦法輪，
-分別說諸法，　　五眾之生滅。
-今復轉最妙，　　無上大法輪，
-是法甚深奧，　　少有能信者。
-我等從昔來，　　數聞世尊說，
-未曾聞如是，　　深妙之上法。
-世尊說是法，　　我等皆隨喜。
-大智舍利弗，　　今得受尊記，
-我等亦如是，　　必當得作佛。
-於一切世間，　　最尊無有上，
-佛道叵思議，　　方便隨宜說。
-我所有福業，　　今世若過世，
-及見佛功德，　　盡迴向佛道。」
+At that time, the celestial beings wished to deeply proclaim this meaning, and spoke a verse:
 
-爾時舍利弗白佛言：「世尊！我今無復疑悔，親於佛前得受阿耨多羅三藐三菩提記。是諸千二百心自在者，昔住學地，佛常教化言：『我法能離生老病死，究竟涅槃。』是學無學人，亦各自以離我見及有無見等謂得涅槃；而今於世尊前聞所未聞，皆墮疑惑。善哉，世尊！願為四眾說其因緣，令離疑悔。」
+「昔於波羅㮈，轉四諦法輪，
 
-爾時佛告舍利弗：「我先不言：『諸佛世尊以種種因緣、譬喻言辭方便說法，皆為阿耨多羅三藐三菩提耶？』是諸所說，皆為化菩薩故。然，舍利弗！今當復以譬喻更明此義，諸有智者以譬喻得解。
+"In the past, at Bhaṇḍagama, The Four Noble Truths were turned,
 
-「舍利弗！若國邑聚落有大長者，其年衰邁，財富無量，多有田宅及諸僮僕。其家廣大，唯有一門，多諸人眾，一百、二百乃至五百人，止住其中。堂閣朽故，牆壁隤落，柱根腐敗，梁棟傾危，周匝俱時歘然火起，焚燒舍宅。長者諸子，若十、二十，或至三十，在此宅中。長者見是大火從四面起，即大驚怖，而作是念：『我雖能於此所燒之門安隱得出，而諸子等，於火宅內樂著嬉戲，不覺不知、不驚不怖，火來逼身，苦痛切己，心不厭患，無求出意。』
+分別說諸法，五眾之生滅。
 
-「舍利弗！是長者作是思惟：『我身手有力，當以衣裓、若以机案，從舍出之。』復更思惟：『是舍唯有一門，而復狹小。諸子幼稚，未有所識，戀著戲處，或當墮落，為火所燒。我當為說怖畏之事，此舍已燒，宜時疾出，無令為火之所燒害。』作是念已，如所思惟，具告諸子，汝等速出。父雖憐愍、善言誘喻，而諸子等樂著嬉戲，不肯信受，不驚不畏，了無出心；亦復不知何者是火？何者為舍？云何為失？但東西走戲，視父而已。
+Differentiating all dharmas, The arising and ceasing of the five aggregates.
 
-「爾時長者即作是念：『此舍已為大火所燒，我及諸子若不時出，必為所焚。我今當設方便，令諸子等得免斯害。』父知諸子先心各有所好種種珍玩奇異之物，情必樂著，而告之言：『汝等所可玩好，希有難得，汝若不取，後必憂悔。如此種種羊車、鹿車、牛車，今在門外，可以遊戲。汝等於此火宅、宜速出來，隨汝所欲，皆當與汝。』爾時諸子聞父所說珍玩之物，適其願故，心各勇銳，互相推排，競共馳走，爭出火宅。是時長者見諸子等安隱得出，皆於四衢道中露地而坐，無復障礙，其心泰然，歡喜踊躍。時諸子等各白父言：『父先所許玩好之具，羊車、鹿車、牛車，願時賜與。』
+今復轉最妙，無上大法輪，
+
+Now again it turns supreme, The most excellent and great Dharma wheel,
+
+是法甚深奧，少有能信者。
+
+This dharma is extremely profound, And few are those who can believe.
+
+我等從昔來，數聞世尊說，
+
+We have heard from ancient times, The Buddha's teachings counted,
+
+未曾聞如是，深妙之上法。
+
+But have never heard before, Such a profound and superior Dharma.
+
+世尊說是法，我等皆隨喜。
+
+The Buddha speaks this Dharma, We all follow with joy.
+
+大智舍利弗，今得受尊記，
+
+The great sage Śāriputra, Today received the revered record,
+
+我等亦如是，必當得作佛。
+
+We too are the same, And will certainly attain Buddhahood.
+
+於一切世間，最尊無有上，
+
+In all worlds, the most honored, There is no one above,
+
+佛道叵思議，方便隨宜說。
+
+The Buddha's path is ineffable, conveniently taught as appropriate.
+
+我所有福業，今世若過世，
+
+All the good fortune I have, If I pass away in this or a future life,
+
+及見佛功德，盡迴向佛道。」
+
+And see the Buddha's virtues, I will entirely dedicate to the Buddha's path."
+
+爾時舍利弗白佛言：
+
+At that time, Shariputra said to the Buddha, 
+
+「世尊！我今無復疑悔，
+
+"World-Honored One! I no longer have any doubts or regrets, 
+
+親於佛前得受阿耨多羅三藐三菩提記。
+
+and I have personally received the assurance of the attainment of the supreme, perfect enlightenment in the presence of the Buddha. 
+
+是諸千二百心自在者，昔住學地，
+
+In the past, when the thousands of two hundred minds were dwelling in the place of learning, 
+
+佛常教化言：『
+
+the Buddha often taught and transformed them, saying, 
+
+我法能離生老病死，究竟涅槃。』
+
+"My Dharma can lead one to escape birth, aging, illness, and death and attain ultimate Nirvāṇa." 
+
+是學無學人，
+
+Those who studied and those who did not study 
+
+亦各自以離我見及有無見等謂得涅槃；
+
+all considered that they could attain Nirvāṇa by eliminating their views of self and the notion of existence and non-existence. 
+
+而今於世尊前聞所未聞，
+
+However, now, having heard what they had not heard before in the presence of the World-Honored One, 
+
+皆墮疑惑。
+
+they have all fallen into doubt and confusion. 
+
+善哉，世尊！
+
+Well done, World-Honored One! 
+
+願為四眾說其因緣，
+
+I respectfully request that you explain the causes and conditions for the fourfold assembly, 
+
+令離疑悔。」
+
+so that they may eliminate their doubts and regrets."
+
+爾時佛告舍利弗：
+
+At that time, the Buddha told Śāriputra, 
+
+「我先不言：『諸佛世尊以種種因緣、譬喻言辭方便說法，皆為阿耨多羅三藐三菩提耶？』是諸所說，
+
+"I will not say that all the teachings of the Tathāgatas, with various causes and conditions and through various similes and expressions for the sake of convenience, are all speak for the purpose of Anuttara Samyak Sambodhi.
+
+皆為化菩薩故。
+
+The teachings are all for the sake of transforming bodhisattvas. 
+
+然，舍利弗！今當復以譬喻更明此義，
+
+However, Śāriputra, I will now explain this meaning more clearly with similes, 
+
+諸有智者以譬喻得解。
+
+and those who have wisdom will understand it with the simile."
+
+「舍利弗！
+
+"Sariputra, 
+
+若國邑聚落有大長者，其年衰邁，財富無量，多有田宅及諸僮僕。
+
+suppose there was a city or a village with a wealthy, aging elder who had vast wealth, many fields, houses, and servants. 
+
+其家廣大，唯有一門，多諸人眾，一百、二百乃至五百人，止住其中。
+
+The house was vast, but there was only one entrance, with many people staying inside, from a hundred to five hundred. 
+
+堂閣朽故，牆壁隤落，柱根腐敗，梁棟傾危，
+
+The hall and the towers were old and decayed, the walls were ruined, the pillars were rotten, the beams were tilting, 
+
+周匝俱時歘然火起，焚燒舍宅。
+
+and suddenly a fire broke out all around the house, burning it down. 
+
+長者諸子，若十、二十，或至三十，在此宅中。
+
+The elder's children, ranging from ten to thirty, were playing inside the house. 
+
+長者見是大火從四面起，即大驚怖，而作是念：
+
+When the elder saw the great fire rising from all four sides, he was greatly frightened and thought,
+
+『我雖能於此所燒之門安隱得出，
+
+'Although I can escape safely through the burning door, 
+
+而諸子等，於火宅內樂著嬉戲，不覺不知、不驚不怖，
+
+my children are enjoying themselves inside the house, unaware and unafraid of the fire. 
+
+火來逼身，苦痛切己，
+
+When the fire is approaching them, they will suffer terribly. 
+
+心不厭患，無求出意。』
+
+Their hearts do not dislike the suffering, and they have no intention of leaving.'"
+
+「舍利弗！
+
+"Shariputra, 
+
+是長者作是思惟：
+
+"Then the elder thinks: 
+
+『我身手有力，當以衣裓、若以机案，從舍出之。』
+
+'I am strong in body and hand, I should use my clothing or something else to get out.' 
+
+復更思惟：
+
+He thinks further: 
+
+『是舍唯有一門，而復狹小。諸子幼稚，未有所識，
+
+'This house only has one small door, and my children are young and ignorant, 
+
+戀著戲處，或當墮落，為火所燒。
+
+clinging to their play and may fall into the fire and be burned by it. 
+
+我當為說怖畏之事，此舍已燒，宜時疾出，
+
+I should tell them about the fear, this house has already burned, and it is time to hurry out, 
+
+無令為火之所燒害。』
+
+so as not to be harmed by the fire.' 
+
+作是念已，如所思惟，
+
+Having these thoughts, he does as he has thought, 
+
+具告諸子，汝等速出。
+
+and tells his children, saying to you all: 'Hurry out!' 
+
+父雖憐愍、善言誘喻，
+
+Although the father is affectionate and speaks kindly, tempting them with words, 
+
+而諸子等樂著嬉戲，不肯信受，不驚不畏，
+
+his children still enjoy their play and do not believe, nor are they afraid, 
+
+了無出心；
+
+they have no intention of leaving. 
+
+亦復不知何者是火？何者為舍？云何為失？
+
+They do not even know what fire is, what the house is, or what loss is. 
+
+但東西走戲，視父而已。
+
+They just run back and forth, playing, and only look at their father."
+
+「爾時長者即作是念：
+
+"At that time, the elder thought, 
+
+『此舍已為大火所燒，
+
+'This house has been burned by a great fire, 
+
+我及諸子若不時出，必為所焚。
+
+and I and my children will surely be burned if we do not leave in time. 
+
+我今當設方便，令諸子等得免斯害。』
+
+I will now arrange a way for my children to escape harm.' 
+
+父知諸子先心各有所好種種珍玩奇異之物，
+
+The father knew that his children loved various kinds of toys and treasures, 
+
+情必樂著，
+
+and they would be happy to play with them. 
+
+而告之言：『汝等所可玩好，希有難得，
+
+So he said, 'You can play with the things that you love, which are rare and hard to find. 
+
+汝若不取，後必憂悔。
+
+If you do not take them now, you will regret it later. 
+
+如此種種羊車、鹿車、牛車，今在門外，可以遊戲。
+
+All kinds of sheep carts, deer carts, and ox carts are waiting outside the door for you to play with. 
+
+汝等於此火宅、宜速出來，隨汝所欲，
+
+You should quickly come out of this burning house and do as you please, 
+
+皆當與汝。』
+
+and I will give you all that you want.' 
+
+爾時諸子聞父所說珍玩之物，適其願故，
+
+When the children heard about the toys and treasures their father promised, they were eager and willing, 
+
+心各勇銳，互相推排，競共馳走，爭出火宅。
+
+and they rushed out of the fire with great courage and pushed and shoved each other in a rush. 
+
+是時長者見諸子等安隱得出，皆於四衢道中露地而坐，
+
+They all gathered outside the fire, and the elder saw that his children were safe and free from harm, sitting on the ground in the streets, 
+
+無復障礙，
+
+unencumbered and at ease, 
+
+其心泰然，歡喜踊躍。
+
+and they were joyful and lively. 
+
+時諸子等各白父言：
+
+The children then said to their father, 
+
+『父先所許玩好之具，羊車、鹿車、牛車，
+
+'Father, we want the toys and treasures you promised, the sheep carts, deer carts, and ox carts, 
+
+願時賜與。』
+
+please give them to us now.'"
 
 「舍利弗！爾時長者各賜諸子等一大車，其車高廣，眾寶莊校，周匝欄楯，四面懸鈴；又於其上張設幰蓋，亦以珍奇雜寶而嚴飾之，寶繩絞絡，垂諸華纓，重敷綩綖，安置丹枕。駕以白牛，膚色充潔，形體姝好，有大筋力，行步平正，其疾如風；又多僕從而侍衛之。所以者何？是大長者財富無量，種種諸藏悉皆充溢，而作是念：『我財物無極，不應以下劣小車與諸子等。今此幼童，皆是吾子，愛無偏黨。我有如是七寶大車，其數無量，應當等心各各與之，不宜差別。所以者何？以我此物，周給一國猶尚不匱，何況諸子！』是時諸子各乘大車，得未曾有，非本所望。
 
