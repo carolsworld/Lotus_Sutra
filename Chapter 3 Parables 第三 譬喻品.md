@@ -277,52 +277,316 @@ I firmly resolve to become a buddha, honored by heavenly beings and humans,
 
 and turn the supreme Dharma wheel, teaching and transforming bodhisattvas.
 
+爾時佛告舍利弗：
 
+At that time, the Buddha told Shariputra: 
 
+「吾今於天、人、沙門、婆羅門等大眾中說，
 
+"I am now speaking in front of the great assembly of gods, humans, monks, and brahmins. 
 
+我昔曾於二萬億佛所，
 
+In the past, in the presence of two million Buddhas, 
 
+為無上道故，常教化汝，
 
+I taught you for the sake of the supreme path. 
 
+汝亦長夜隨我受學。
 
+You also followed me for a long time and learned from me. 
 
+我以方便引導汝故，生我法中。
 
-爾時佛告舍利弗：「吾今於天、人、沙門、婆羅門等大眾中說，我昔曾於二萬億佛所，為無上道故，常教化汝，汝亦長夜隨我受學。我以方便引導汝故，生我法中。舍利弗！我昔教汝志願佛道，汝今悉忘，而便自謂已得滅度。我今還欲令汝憶念本願所行道故，為諸聲聞說是大乘經，名妙法蓮華，教菩薩法，佛所護念。
+I led you with skilful means and you were born into my Dharma. 
 
-「舍利弗！汝於未來世，過無量無邊不可思議劫，供養若干千萬億佛，奉持正法，具足菩薩所行之道，當得作佛，號曰華光如來、應供、正遍知、明行足、善逝世間解、無上士、調御丈夫、天人師、佛、世尊。國名離垢，其土平正，清淨嚴飾，安隱豐樂，天人熾盛。琉璃為地，有八交道，黃金為繩以界其側。其傍各有七寶行樹，常有華菓。華光如來亦以三乘教化眾生。
+舍利弗！我昔教汝志願佛道，
 
-「舍利弗！彼佛出時，雖非惡世，以本願故，說三乘法。其劫名大寶莊嚴。何故名曰大寶莊嚴？其國中以菩薩為大寶故。彼諸菩薩，無量無邊，不可思議，算數譬喻所不能及，非佛智力無能知者。若欲行時，寶華承足。此諸菩薩，非初發意，皆久殖德本，於無量百千萬億佛所淨修梵行，恒為諸佛之所稱歎。常修佛慧，具大神通，善知一切諸法之門，質直無偽，志念堅固。如是菩薩，充滿其國。
+Shariputra! I taught you to aspireate to the Buddha's path in the past, 
 
-「舍利弗！華光佛壽十二小劫，除為王子未作佛時。其國人民，壽八小劫。華光如來過十二小劫，授堅滿菩薩阿耨多羅三藐三菩提記。告諸比丘：『是堅滿菩薩次當作佛，號曰華足安行多陀阿伽度、阿羅訶、三藐三佛陀，其佛國土亦復如是。』
+汝今悉忘，而便自謂已得滅度。
 
-「舍利弗！是華光佛滅度之後，正法住世三十二小劫，像法住世亦三十二小劫。」
+but now you have completely forgotten and claim to have attained nirvana. 
+
+我今還欲令汝憶念本願所行道故，
+
+I now want to remind you of your original aspirations and your practices on the path. 
+
+為諸聲聞說是大乘經，
+
+I will now explain the great vehicle scripture, 
+
+名妙法蓮華，教菩薩法，佛所護念。
+
+called the Lotus Sutra, that teaches the bodhisattva's Dharma and is protected by the Buddha."
+
+「舍利弗！汝於未來世，
+
+"Shariputra! In the future, 
+
+過無量無邊不可思議劫，
+
+you will pass countless and immeasurable kalpas, 
+
+供養若干千萬億佛，
+
+making offerings to countless millions of Buddhas, 
+
+奉持正法，
+
+upholding the proper Dharma, 
+
+具足菩薩所行之道，
+
+and perfecting the path of the bodhisattva. 
+
+當得作佛，號曰華光如來、
+
+You will then become a Buddha and be known as the Tathagata Light of Splendor, 
+
+應供、
+
+One who Responds to Offerings, 
+
+正遍知、
+
+One who Knows the Proper Dharmas Everywhere, 
+
+明行足、
+
+One who Practices the Correct Path Completely, 
+
+善逝世間解、
+
+One who Understands the Release from the World Well, 
+
+無上士、
+
+One who is Supreme among Sages, 
+
+調御丈夫、
+
+One who Guides and Controls Heroes, 
+
+天人師、佛、世尊。
+
+Teacher of Gods and Humans, Buddha, and World-Honored One. 
+
+國名離垢，其土平正，清淨嚴飾，
+
+Your country will be called Purity and its land will be even and pure, beautifully adorned, 
+
+安隱豐樂，天人熾盛。
+
+peaceful and abundant. The gods there will be flourishing. 
+
+琉璃為地，有八交道，黃金為繩以界其側。
+
+The ground will be made of crystal with eight intersections and surrounded by golden ropes. 
+
+其傍各有七寶行樹，常有華菓。
+
+There will be seven-jeweled trees surrounding it and there will always be flowers and fruit. 
+
+華光如來亦以三乘教化眾生。
+
+The Tathagata Light of Splendor will also teach the three vehicles to all living beings."
+
+「舍利弗！
+
+Sariputra! 
+
+彼佛出時，雖非惡世，以本願故，說三乘法。
+
+Although the Buddha who emerges is not from a bad era, he speaks the Three Vehicles Dharma due to his original vow. 
+
+其劫名大寶莊嚴。
+
+The name of the eon is "Great Treasure Adornment". 
+
+何故名曰大寶莊嚴？
+
+Why is it called "Great Treasure Adornment"? 
+
+其國中以菩薩為大寶故。
+
+It is because bodhisattvas are the great treasures in the country. 
+
+彼諸菩薩，無量無邊，不可思議，
+
+Those bodhisattvas are countless and limitless, beyond comprehension, 
+
+算數譬喻所不能及，
+
+and beyond the reach of numerical comparisons and illustrations. 
+
+非佛智力無能知者。
+
+Only those who have not attained the wisdom of the Buddha cannot know them. 
+
+若欲行時，寶華承足。
+
+When they wish to act, they are equipped with treasures and flowers. 
+
+此諸菩薩，非初發意，皆久殖德本，
+
+These bodhisattvas are not newly motivated, but have long cultivated virtue, 
+
+於無量百千萬億佛所淨修梵行，
+
+and through purifying and practicing virtuous actions in countless billions of buddha-fields, 
+
+恒為諸佛之所稱歎。
+
+they are constantly praised by all buddhas. 
+
+常修佛慧，具大神通，
+
+They constantly cultivate Buddha's wisdom and have great supernatural powers, 
+
+善知一切諸法之門，
+
+are skillful in knowing all the doors of all phenomena, 
+
+質直無偽，
+
+are straightforward and without deceit, 
+
+志念堅固。
+
+and have resolute minds. 
+
+如是菩薩，充滿其國。
+
+Such bodhisattvas fill their country.
+
+「舍利弗！
+
+'Sariputra! 
+
+華光佛壽十二小劫，
+
+The Buddha-to-be, Hwaeum, will have a lifespan of 12 minor kalpas, 
+
+除為王子未作佛時。
+
+excluding the time when he was still a prince before becoming a Buddha. 
+
+其國人民，壽八小劫。
+
+The people in his country will have a lifespan of 8 minor kalpas. 
+
+華光如來過十二小劫，授堅滿菩薩阿耨多羅三藐三菩提記。
+
+After 12 minor kalpas, Hwaeum will attain the firm and complete realization of anuttarasamymak samadhi and will preach the teachings of it to the bhikshus. 
+
+告諸比丘：
+
+He will tell the bhikshus, 
+
+『是堅滿菩薩次當作佛，號曰華足安行多陀阿伽度、阿羅訶、三藐三佛陀，
+
+'This firm and complete bodhisattva will be the next to become a Buddha, known as Hwaeum-foot-easy-practice-tadaka-alaka-araha-tri-mala-tri-Buddha-tathagata. 
+
+其佛國土亦復如是。』
+
+His buddha-realm will also be the same.'
+
+「舍利弗！是華光佛滅度之後，
+
+"Sariputra! After the Nirvana of the Buddha of Light, 
+
+正法住世三十二小劫，
+
+the true teaching will remain in the world for 32 minor kalpas, 
+
+像法住世亦三十二小劫。」
+
+and the image teaching will also remain for 32 minor kalpas. 
 
 爾時世尊欲重宣此義，而說偈言：
 
-「舍利弗來世，　　成佛普智尊，
-號名曰華光，　　當度無量眾。
-供養無數佛，　　具足菩薩行，
-十力等功德，　　證於無上道。
-過無量劫已，　　劫名大寶嚴，
-世界名離垢，　　清淨無瑕穢。
-以琉璃為地，　　金繩界其道，
-七寶雜色樹，　　常有華菓實。
-彼國諸菩薩，　　志念常堅固，
-神通波羅蜜，　　皆已悉具足。
-於無數佛所，　　善學菩薩道，
-如是等大士，　　華光佛所化。
-佛為王子時，　　棄國捨世榮，
-於最末後身，　　出家成佛道。
-華光佛住世，　　壽十二小劫，
-其國人民眾，　　壽命八小劫。
-佛滅度之後，　　正法住於世，
-三十二小劫，　　廣度諸眾生。
-正法滅盡已，　　像法三十二，
-舍利廣流布，　　天人普供養。
-華光佛所為，　　其事皆如是，
-其兩足聖尊，　　最勝無倫匹。
-彼即是汝身，　　宜應自欣慶。」
+At that time, the World-Honored One, wishing to further explain this meaning, spoke these verses:"
+
+「舍利弗來世，成佛普智尊，
+
+"Sariputra, in a future life, you will become Buddha named Universal Wisdom Honored One, 
+
+號名曰華光，當度無量眾。
+
+also known as Glowing Flowers. 
+
+供養無數佛，具足菩薩行，
+
+You will save countless beings and possess all the practices of a bodhisattva. 
+
+十力等功德，證於無上道。
+
+You will have the ten powers and other merits, and attain the highest path. 
+
+過無量劫已，劫名大寶嚴，
+
+After countless kalpas, the kalpa will be called the Great Treasury of Treasures, 
+
+世界名離垢，清淨無瑕穢。
+
+and the world will be called the Pure Land, free from all blemishes and impurities. 
+
+以琉璃為地，金繩界其道，
+
+The ground will be made of crystal, surrounded by a path of gold ropes. 
+
+七寶雜色樹，常有華菓實。
+
+Trees with various colorful gems will bear abundant fruit."
+
+彼國諸菩薩，志念常堅固，
+
+The bodhisattvas in that country, with unwavering determination and divine powers, 
+
+神通波羅蜜，皆已悉具足。
+
+have all attained full mastery. 
+
+於無數佛所，善學菩薩道，
+
+They study the way of the bodhisattva well in countless Buddhas' lands. 
+
+如是等大士，華光佛所化。
+
+Such great sages are transformed by the light of the Buddha. 
+
+佛為王子時，棄國捨世榮，
+
+When the Buddha was a prince, he renounced his kingdom and worldly honors, 
+
+於最末後身，出家成佛道。
+
+and in his final life, he left home and attained the Buddha Way. 
+
+華光佛住世，壽十二小劫，
+
+The Buddha lived for twelve small kalpas 
+
+其國人民眾，壽命八小劫。
+
+and the people of his country lived for eight small kalpas.
+
+
+
+
+
+
+
+佛滅度之後，正法住於世，
+三十二小劫，廣度諸眾生。
+正法滅盡已，像法三十二，
+舍利廣流布，天人普供養。
+華光佛所為，其事皆如是，
+其兩足聖尊，最勝無倫匹。
+彼即是汝身，宜應自欣慶。」
+
 
 爾時四部眾，比丘、比丘尼、優婆塞、優婆夷，天、龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽等大眾，見舍利弗於佛前受阿耨多羅三藐三菩提記，心大歡喜，踊躍無量，各各脫身所著上衣、以供養佛。釋提桓因、梵天王等，與無數天子，亦以天妙衣、天曼陀羅華、摩訶曼陀羅華等，供養於佛——所散天衣，住虛空中，而自迴轉；諸天伎樂百千萬種，於虛空中一時俱作，雨眾天華——而作是言：「佛昔於波羅㮈初轉法輪，今乃復轉無上最大法輪。」
 
