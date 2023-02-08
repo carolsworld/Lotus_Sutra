@@ -953,13 +953,189 @@ The children then said to their father,
 
 please give them to us now.'"
 
-「舍利弗！爾時長者各賜諸子等一大車，其車高廣，眾寶莊校，周匝欄楯，四面懸鈴；又於其上張設幰蓋，亦以珍奇雜寶而嚴飾之，寶繩絞絡，垂諸華纓，重敷綩綖，安置丹枕。駕以白牛，膚色充潔，形體姝好，有大筋力，行步平正，其疾如風；又多僕從而侍衛之。所以者何？是大長者財富無量，種種諸藏悉皆充溢，而作是念：『我財物無極，不應以下劣小車與諸子等。今此幼童，皆是吾子，愛無偏黨。我有如是七寶大車，其數無量，應當等心各各與之，不宜差別。所以者何？以我此物，周給一國猶尚不匱，何況諸子！』是時諸子各乘大車，得未曾有，非本所望。
+「舍利弗！
 
-「舍利弗！於汝意云何，是長者等與諸子珍寶大車，寧有虛妄不？」
+"Sariputta! 
 
-舍利弗言：「不也，世尊！是長者但令諸子得免火難，全其軀命，非為虛妄。何以故？若全身命，便為已得玩好之具，況復方便於彼火宅而拔濟之。世尊！若是長者，乃至不與最小一車，猶不虛妄。何以故？是長者先作是意：『我以方便令子得出。』以是因緣，無虛妄也。何況長者自知財富無量，欲饒益諸子，等與大車。」
+爾時長者各賜諸子等一大車，其車高廣，
 
-佛告舍利弗：「善哉，善哉！如汝所言。舍利弗！如來亦復如是，則為一切世間之父。於諸怖畏、衰惱、憂患、無明闇蔽，永盡無餘，而悉成就無量知見、力、無所畏，有大神力及智慧力，具足方便、智慧波羅蜜，大慈大悲，常無懈惓，恒求善事，利益一切，而生三界朽故火宅，為度眾生生老病死、憂悲、苦惱、愚癡、闇蔽、三毒之火，教化令得阿耨多羅三藐三菩提。見諸眾生為生老病死、憂悲苦惱之所燒煮，亦以五欲財利故，受種種苦；又以貪著追求故，現受眾苦，後受地獄、畜生、餓鬼之苦；若生天上，及在人間，貧窮困苦、愛別離苦、怨憎會苦，如是等種種諸苦。眾生沒在其中，歡喜遊戲，不覺不知、不驚不怖，亦不生厭，不求解脫。於此三界火宅東西馳走，雖遭大苦，不以為患。
+At that time, the elder gave each of his sons a big cart, the cart was high and wide, 
+
+眾寶莊校，周匝欄楯，四面懸鈴；
+
+surrounded by precious walls and railings, with bells hanging on all sides. 
+
+又於其上張設幰蓋，亦以珍奇雜寶而嚴飾之，
+
+The cart was also decorated with rich and colorful treasures and adorned with beautiful ornaments. 
+
+寶繩絞絡，垂諸華纓，重敷綩綖，安置丹枕。
+
+The ropes were made of precious materials, adorned with flowers and adorned with fine cushions and pillows. 
+
+駕以白牛，膚色充潔，形體姝好，有大筋力，
+
+The cart was driven by white oxen, with pure and handsome skin, good bodies, 
+
+行步平正，其疾如風；
+
+and great strength, with steps that were even and brisk, like the wind. 
+
+又多僕從而侍衛之。
+
+There were also many servants to attend to them. 
+
+所以者何？
+
+Why? 
+
+是大長者財富無量，種種諸藏悉皆充溢，
+
+The elder was wealthy beyond measure, his various possessions were all overflowing, 
+
+而作是念：『我財物無極，不應以下劣小車與諸子等。
+
+and he thought, "My wealth is limitless, I shouldn't give my children a small and inferior cart. 
+
+今此幼童，皆是吾子，愛無偏黨。
+
+These young children are all my sons, and I love them equally. 
+
+我有如是七寶大車，其數無量，
+
+I have these seven-treasure carts in countless numbers, 
+
+應當等心各各與之，不宜差別。
+
+I should give each of them a cart with a equal heart, without discrimination. 
+
+所以者何？
+
+Why? 
+
+以我此物，周給一國猶尚不匱，何況諸子！』
+
+My wealth could supply one kingdom, let alone my sons!" 
+
+是時諸子各乘大車，得未曾有，非本所望。
+
+At that time, each of the sons rode the big cart and got what they never had before, beyond their expectations.
+
+「舍利弗！於汝意云何，
+
+"Sariputra! What is your opinion? 
+
+是長者等與諸子珍寶大車，寧有虛妄不？」
+
+Is it a false offering to give senior citizens and others treasures and valuable carts?"
+
+舍利弗言：「不也，世尊！
+
+Sariputra said: "No, World-Honored One! 
+
+是長者但令諸子得免火難，全其軀命，非為虛妄。
+
+The senior citizens only wish to exempt the children from danger from fire and to preserve their lives, not to make a false offering. 
+
+何以故？
+
+Why is that? 
+
+若全身命，便為已得玩好之具，
+
+If they preserve their lives, then they will be able to enjoy the good things in life, 
+
+況復方便於彼火宅而拔濟之。
+
+and even more so to rescue them from that fiery abode. 
+
+世尊！
+
+World-Honored One! 
+
+若是長者，乃至不與最小一車，猶不虛妄。
+
+Even if the senior citizens did not offer even the smallest cart, it would not be false. 
+
+何以故？
+
+Why is that? 
+
+是長者先作是意：『我以方便令子得出。』
+
+The senior citizens first thought: 'I will allow the children to escape.' 
+
+以是因緣，無虛妄也。
+
+With this intention, there is no falseness. 
+
+何況長者自知財富無量，
+
+How much more so when the senior citizens know that their wealth is immeasurable 
+
+欲饒益諸子，等與大車。」
+
+and wish to bestow benefits on the children by offering valuable carts."
+
+佛告舍利弗：
+
+The Buddha said to Sariputta: 
+
+「善哉，善哉！如汝所言。
+
+"Well done, well done! As you have said. 
+
+舍利弗！如來亦復如是，則為一切世間之父。
+
+Sariputta! The Tathagata (Buddha) is also like this, thus he is the father of all worlds. 
+
+於諸怖畏、衰惱、憂患、無明闇蔽，永盡無餘，
+
+He has completely eradicated all fears, decay, sorrow, ignorance and darkness, 
+
+而悉成就無量知見、力、無所畏，
+
+and has attained infinite knowledge, power and fearlessness. 
+
+有大神力及智慧力，具足方便、智慧波羅蜜，
+
+He has great spiritual power and wisdom, has abundant skillful means and knowledge of the Dharmaphenomena, 
+
+大慈大悲，
+
+is full of great compassion and loving kindness, 
+
+常無懈惓，恒求善事，利益一切，
+
+and is constantly diligent, seeking good deeds, benefiting all, 
+
+而生三界朽故火宅，為度眾生生老病死、憂悲、苦惱、愚癡、闇蔽、三毒之火，教化令得阿耨多羅三藐三菩提。
+
+and releasing from the fire of old age, sickness, death, grief, suffering, ignorance, and the three poisons. 
+
+見諸眾生為生老病死、憂悲苦惱之所燒煮，
+
+He sees all sentient beings burning in the fire of old age, sickness, death, grief, suffering, and ignorance, 
+
+亦以五欲財利故，受種種苦；
+
+and also suffering in various ways due to the five desires for wealth and benefits, and due to greedy pursuit. 
+
+又以貪著追求故，現受眾苦，後受地獄、畜生、餓鬼之苦；
+
+They suffer present suffering and will suffer in hell, as animals, and as hungry ghosts. 
+
+若生天上，及在人間，貧窮困苦、愛別離苦、怨憎會苦，如是等種種諸苦。
+
+They also suffer poverty, hardship, separation from loved ones, hatred and animosity, and other such various sufferings, whether they are born in heaven or in the human world. 
+
+眾生沒在其中，歡喜遊戲，不覺不知、不驚不怖，亦不生厭，不求解脫。
+
+Sentient beings are immersed in it, delighting in play, not realizing, not frightened, not tired, not seeking liberation. 
+
+於此三界火宅東西馳走，雖遭大苦，不以為患。
+
+Despite the great suffering, they run around the three-world fire with no care.
 
 「舍利弗！佛見此已，便作是念：『我為眾生之父，應拔其苦難，與無量無邊佛智慧樂，令其遊戲。』
 
