@@ -1137,241 +1137,771 @@ Sentient beings are immersed in it, delighting in play, not realizing, not frigh
 
 Despite the great suffering, they run around the three-world fire with no care.
 
-「舍利弗！佛見此已，便作是念：『我為眾生之父，應拔其苦難，與無量無邊佛智慧樂，令其遊戲。』
+「舍利弗！佛見此已，便作是念：
 
-「舍利弗！如來復作是念：『若我但以神力及智慧力，捨於方便，為諸眾生讚如來知見、力無所畏者，眾生不能以是得度。所以者何？是諸眾生，未免生老病死、憂悲苦惱，而為三界火宅所燒；何由能解佛之智慧？』
+"Sariputra! The Buddha sees this and then thinks: 
 
-「舍利弗！如彼長者，雖復身手有力而不用之，但以慇懃方便勉濟諸子火宅之難，然後各與珍寶大車。如來亦復如是，雖有力、無所畏而不用之，但以智慧方便，於三界火宅拔濟眾生，為說三乘——聲聞、辟支佛、佛乘，而作是言：『汝等莫得樂住三界火宅，勿貪麁弊色聲香味觸也。若貪著生愛，則為所燒。汝速出三界，當得三乘——聲聞、辟支佛、佛乘。我今為汝保任此事，終不虛也。汝等但當勤修精進。』如來以是方便誘進眾生，復作是言：『汝等當知此三乘法，皆是聖所稱歎，自在無繫，無所依求。乘是三乘，以無漏根、力、覺、道、禪定、解脫、三昧等而自娛樂，便得無量安隱快樂。』
+『我為眾生之父，應拔其苦難，與無量無邊佛智慧樂，令其遊戲。』
 
-「舍利弗！若有眾生內有智性，從佛世尊聞法信受，慇懃精進，欲速出三界，自求涅槃，是名聲聞乘，如彼諸子為求羊車出於火宅；若有眾生從佛世尊聞法信受，慇懃精進，求自然慧，樂獨善寂，深知諸法因緣，是名辟支佛乘，如彼諸子為求鹿車出於火宅；若有眾生從佛世尊聞法信受，勤修精進，求一切智、佛智、自然智、無師智，如來知見、力、無所畏，愍念、安樂無量眾生，利益天人，度脫一切，是名大乘，菩薩求此乘故，名為摩訶薩，如彼諸子為求牛車、出於火宅。
+"I am the father of all beings and should rescue them from their suffering and give them immeasurable and boundless Buddha wisdom and happiness, allowing them to play."
 
-「舍利弗！如彼長者，見諸子等安隱得出火宅，到無畏處，自惟財富無量，等以大車而賜諸子。如來亦復如是，為一切眾生之父，若見無量億千眾生，以佛教門出三界苦，怖畏險道，得涅槃樂。
+「舍利弗！如來復作是念：
 
-「如來爾時便作是念：『我有無量無邊智慧、力、無畏等諸佛法藏，是諸眾生皆是我子，等與大乘，不令有人獨得滅度，皆以如來滅度而滅度之。』是諸眾生脫三界者，悉與諸佛禪定、解脫等娛樂之具，皆是一相、一種，聖所稱歎，能生淨妙第一之樂。
+"Sariputra! The Tathagata again thinks: 
 
-「舍利弗！如彼長者，初以三車誘引諸子，然後但與大車，寶物莊嚴，安隱第一；然彼長者無虛妄之咎。如來亦復如是，無有虛妄，初說三乘引導眾生，然後但以大乘而度脫之。何以故？如來有無量智慧、力、無所畏諸法之藏，能與一切眾生大乘之法，但不盡能受。
+『若我但以神力及智慧力，捨於方便，
 
-「舍利弗！以是因緣，當知諸佛方便力故，於一佛乘分別說三。」
+"If I only used my supernatural powers and wisdom for the sake of convenience, 
+
+為諸眾生讚如來知見、力無所畏者，眾生不能以是得度。
+
+for the sake of all beings, praising the Tathagata's knowledge and fearlessness, beings could not be saved by that. 
+
+所以者何？是諸眾生，未免生老病死、憂悲苦惱，
+
+Why is that? Because these beings are inevitably subject to aging, illness, death, sorrow, suffering and worry, 
+
+而為三界火宅所燒；
+
+and they are burned by the three realms' infernal abodes. 
+
+何由能解佛之智慧？』
+
+How could they understand the Buddha's wisdom?"
+
+「舍利弗！如彼長者，雖復身手有力而不用之，
+
+"Sariputra! Just as a senior, although he has physical strength, but does not use it, 
+
+但以慇懃方便勉濟諸子火宅之難，
+
+but uses his diligence and convenience to help his children escape the difficulties of the infernal abodes, 
+
+然後各與珍寶大車。
+
+then each gives them treasures and great vehicles. 
+
+如來亦復如是，雖有力、無所畏而不用之，
+
+The Tathagata is also like this, although he has strength and fearlessness, but does not use it, 
+
+但以智慧方便，於三界火宅拔濟眾生，
+
+but with wisdom and convenience, rescues beings from the three realms' infernal abodes, 
+
+為說三乘——聲聞、辟支佛、佛乘，
+
+and speaks of the three vehicles - the Voice-Hearer Vehicle, the Pratyeka-Buddha Vehicle, and the Buddha Vehicle. 
+
+而作是言：『汝等莫得樂住三界火宅，
+
+He says: "You should not enjoy staying in the three realms' infernal abodes 
+
+勿貪麁弊色聲香味觸也。
+
+and should not be greedy for the inferior things of form, sound, scent, flavor, and touch. 
+
+若貪著生愛，則為所燒。
+
+If you cling to love for life, you will be burned. 
+
+汝速出三界，當得三乘——聲聞、辟支佛、佛乘。
+
+You should quickly escape from the three realms and obtain the three vehicles - the Voice-Hearer Vehicle, the Pratyeka-Buddha Vehicle, and the Buddha Vehicle. 
+
+我今為汝保任此事，終不虛也。
+
+I now guarantee this to you and will never be false. 
+
+汝等但當勤修精進。』
+
+You should only diligently cultivate and progress." 
+
+如來以是方便誘進眾生，復作是言：
+
+The Tathagata leads beings into this path with convenience and again says: 
+
+『汝等當知此三乘法，皆是聖所稱歎，自在無繫，無所依求。
+
+"You should know that these three vehicle teachings are all called sacred and free from bondage, and they have nothing to depend on. 
+
+乘是三乘，以無漏根、力、覺、道、禪定、解脫、三昧等而自娛樂，便得無量安隱快樂。』
+
+The vehicles are the three vehicles, in which they delight in immeasurable peace and happiness, due to the absence of leaky roots, strength, awareness, the path, concentration, liberation, samadhi, and so on."
+
+「舍利弗！
+
+"Sariputra! 
+
+若有眾生內有智性，從佛世尊聞法信受，慇懃精進，
+
+If there are sentient beings with intelligence, who hear the Dharma from the Buddha, with diligence and aspiration, 
+
+欲速出三界，自求涅槃，
+eager to quickly escape the three realms and seek nirvana, 
+
+是名聲聞乘，
+
+this is called the voice-hearer vehicle, 
+
+如彼諸子為求羊車出於火宅；
+
+like those children who seek a sheep cart out of the fire house; 
+
+若有眾生從佛世尊聞法信受，慇懃精進，
+
+If there are sentient beings who hear the Dharma from the Buddha, with diligence and aspiration, 
+
+求自然慧，樂獨善寂，深知諸法因緣，
+
+seeking natural wisdom, delighting in solitude and peace, deeply understanding the causes and conditions of all things, 
+
+是名辟支佛乘，
+
+this is called the Pratyeka-Buddha vehicle, 
+
+如彼諸子為求鹿車出於火宅；
+
+like those children who seek a deer cart out of the fire house; 
+
+若有眾生從佛世尊聞法信受，勤修精進，
+
+If there are sentient beings who hear the Dharma from the Buddha, with diligent practice and aspiration, 
+
+求一切智、佛智、自然智、無師智，
+
+seeking all wisdom, Buddha wisdom, natural wisdom, and wisdom without a teacher, 
+
+如來知見、力、無所畏，愍念、安樂無量眾生，
+
+the Tathagata's knowledge and vision, power, fearlessness, compassionate thoughts for countless sentient beings, 
+
+利益天人，度脫一切，是名大乘，
+
+benefit for gods and humans, deliverance from all, this is called the Great Vehicle, 
+
+菩薩求此乘故，名為摩訶薩，
+
+and the Bodhisattva who seeks this vehicle is called Mahasattva, 
+
+如彼諸子為求牛車、出於火宅。
+
+like those children who seek a bull cart out of the fire house."
+
+「舍利弗！如彼長者，見諸子等安隱得出火宅，到無畏處，
+
+"Sariputra! Just like that elder, upon seeing those children and others safely escaping the fire house and arriving at a place of safety, 
+
+自惟財富無量，等以大車而賜諸子。
+
+he himself thought that his wealth was immeasurable, and he gifted them all with a large chariot. 
+
+如來亦復如是，為一切眾生之父，
+
+The Buddha is also like this, he is the father of all sentient beings. 
+
+若見無量億千眾生，
+
+If he sees immeasurable hundreds of thousands of sentient beings, 
+
+以佛教門出三界苦，怖畏險道，
+
+he teaches the Buddhist path to escape the suffering of the three realms and the dangerous path, 
+
+得涅槃樂。
+
+and attain the bliss of nirvana."
+
+「如來爾時便作是念：
+
+"At that time, the Buddha thought, 
+
+『我有無量無邊智慧、力、無畏等諸佛法藏，是諸眾生皆是我子，
+
+'I have an infinite and boundless store of wisdom, power, and fearlessness, and all beings are my children. 
+
+等與大乘，不令有人獨得滅度，
+
+I grant them the teachings of the Great Vehicle, so that no one will be left to attain enlightenment alone. 
+
+皆以如來滅度而滅度之。』
+
+All beings will attain enlightenment through the Buddha's enlightenment.' 
+
+是諸眾生脫三界者，悉與諸佛禪定、解脫等娛樂之具，皆是一相、一種，聖所稱歎，能生淨妙第一之樂。
+
+The beings who are freed from the three realms will have all the joys of the concentration and liberation of the buddhas.
+
+「舍利弗！如彼長者，初以三車誘引諸子，然後但與大車，
+
+"Shāriputra, just as the elder initially lured the children with three carts, but then only gave them the great cart, 
+
+寶物莊嚴，安隱第一；然彼長者無虛妄之咎。
+
+which was adorned with treasures and had the best hiding place, the elder was not deceptive. 
+
+如來亦復如是，無有虛妄，
+
+The Buddha is also like this, without deception. 
+
+初說三乘引導眾生，然後但以大乘而度脫之。
+
+He initially taught the three vehicles to guide beings, but then only taught the Great Vehicle for their liberation. 
+
+何以故？
+
+Why? 
+
+如來有無量智慧、力、無所畏諸法之藏，
+
+The Buddha has an infinite store of wisdom, power, and fearlessness, 
+
+能與一切眾生大乘之法，
+
+and can grant all beings the teachings of the Great Vehicle, 
+
+但不盡能受。
+
+but not all beings are capable of receiving it.
+
+「舍利弗！以是因緣，當知諸佛方便力故，
+
+"Shāriputra, because of this reason, it should be known that the buddhas, through their skillful means, 
+
+於一佛乘分別說三。」
+
+differentiate into three vehicles within one Buddha vehicle."
 
 佛欲重宣此義，而說偈言：
 
-「譬如長者，　　有一大宅，　　其宅久故，
-而復頓弊，　　堂舍高危，　　柱根摧朽，
-梁棟傾斜，　　基陛隤毀，　　牆壁圮坼，
-泥塗褫落，　　覆苫亂墜，　　椽梠差脫，
-周障屈曲，　　雜穢充遍。　　有五百人，
-止住其中。　　鵄梟雕鷲、　　烏鵲鳩鴿、
-蚖蛇蝮蠍、　　蜈蚣蚰蜒、　　守宮百足、
-狖貍鼷鼠，　　諸惡蟲輩，　　交橫馳走。
-屎尿臭處，　　不淨流溢，　　蜣蜋諸蟲，
-而集其上。　　狐狼野干，　　咀嚼踐蹋，
-䶩齧死屍、　　骨肉狼藉。　　由是群狗，
-競來搏撮，　　飢羸慞惶，　　處處求食。
-鬪諍𪙁掣，　　嘊喍㘁吠，　　其舍恐怖，
-變狀如是。　　處處皆有，　　魑魅魍魎、
-夜叉惡鬼，　　食噉人肉。　　毒蟲之屬，
-諸惡禽獸，　　孚乳產生，　　各自藏護。
-夜叉競來，　　爭取食之，　　食之既飽，
-惡心轉熾，　　鬪諍之聲，　　甚可怖畏。
-鳩槃荼鬼，　　蹲踞土埵，　　或時離地，
-一尺二尺，　　往返遊行，　　縱逸嬉戲，
-捉狗兩足，　　撲令失聲，　　以腳加頸，
-怖狗自樂。　　復有諸鬼，　　其身長大，
-裸形黑瘦，　　常住其中，　　發大惡聲，
-叫呼求食。　　復有諸鬼，　　其咽如針。
-復有諸鬼，　　首如牛頭，　　或食人肉，
-或復噉狗，　　頭髮蓬亂，　　殘害凶險，
-飢渴所逼，　　叫喚馳走。　　夜叉餓鬼，
-諸惡鳥獸，　　飢急四向，　　窺看窓牖。
-如是諸難，　　恐畏無量。　　是朽故宅，
-屬于一人。　　其人近出，　　未久之間，
-於後舍宅，　　欻然火起，　　四面一時，
-其炎俱熾。　　棟梁椽柱，　　爆聲震裂，
-摧折墮落，　　牆壁崩倒。　　諸鬼神等，
-揚聲大叫。　　雕鷲諸鳥、　　鳩槃荼等，
-周章惶怖，　　不能自出。　　惡獸毒蟲，
-藏竄孔穴。　　毘舍闍鬼，　　亦住其中，
-薄福德故，　　為火所逼，　　共相殘害，
-飲血噉肉。　　野干之屬，　　竝已前死，
-諸大惡獸，　　競來食噉，　　臭烟熢㶿，
-四面充塞。　　蜈蚣蚰蜒、　　毒蛇之類，
-為火所燒，　　爭走出穴，　　鳩槃荼鬼、
-隨取而食。　　又諸餓鬼，　　頭上火燃，
-飢渴熱惱，　　周章悶走。　　其宅如是，
-甚可怖畏，　　毒害火災，　　眾難非一。
-是時宅主，　　在門外立，　　聞有人言：
-『汝諸子等，　　先因遊戲，　　來入此宅，
-稚小無知，　　歡娛樂著。』　　長者聞已，
-驚入火宅，　　方宜救濟，　　令無燒害。
-告喻諸子，　　說眾患難，　　惡鬼毒蟲，
-災火蔓延，　　眾苦次第，　　相續不絕。
-毒蛇蚖蝮，　　及諸夜叉、　　鳩槃茶鬼，
-野干狐狗、　　雕鷲鵄梟，　　百足之屬，
-飢渴惱急，　　甚可怖畏。　　此苦難處，
-況復大火。　　諸子無知，　　雖聞父誨，
-猶故樂著，　　嬉戲不已。　　是時長者，
-而作是念：　　『諸子如此，　　益我愁惱。
-今此舍宅，　　無一可樂，　　而諸子等，
-耽湎嬉戲，　　不受我教，　　將為火害。』
-即便思惟，　　設諸方便，　　告諸子等：
-『我有種種，　　珍玩之具，　　妙寶好車，
-羊車鹿車、　　大牛之車，　　今在門外。
-汝等出來，　　吾為汝等，　　造作此車，
-隨意所樂，　　可以遊戲。』　　諸子聞說，
-如此諸車，　　即時奔競，　　馳走而出，
-到於空地，　　離諸苦難。　　長者見子，
-得出火宅，　　住於四衢。　　坐師子座，
-而自慶言：　　『我今快樂！　　此諸子等，
-生育甚難，　　愚小無知，　　而入險宅。
-多諸毒蟲，　　魑魅可畏，　　大火猛炎，
-四面俱起。　　而此諸子，　　貪樂嬉戲。
-我已救之，　　令得脫難。　　是故諸人，
-我今快樂。』　　爾時諸子，　　知父安坐，
-皆詣父所，　　而白父言：　　『願賜我等，
-三種寶車。　　如前所許：　　「諸子出來，
-當以三車，　　隨汝所欲。」　　今正是時，
-唯垂給與。』　　長者大富，　　庫藏眾多，
-金銀琉璃、　　車𤦲馬腦，　　以眾寶物，
-造諸大車。　　莊校嚴飾，　　周匝欄楯，
-四面懸鈴，　　金繩交絡。　　真珠羅網，
-張施其上，　　金華諸瓔，　　處處垂下，
-眾綵雜飾，　　周匝圍繞，　　柔軟繒纊，
-以為茵蓐。　　上妙細㲲，　　價直千億，
-鮮白淨潔，　　以覆其上。　　有大白牛，
-肥壯多力，　　形體姝好，　　以駕寶車。
-多諸儐從，　　而侍衛之。　　以是妙車，
-等賜諸子。　　諸子是時，　　歡喜踊躍，
-乘是寶車，　　遊於四方，　　嬉戲快樂，
-自在無礙。　　告舍利弗：　　『我亦如是，
-眾聖中尊，　　世間之父。　　一切眾生，
-皆是吾子，　　深著世樂，　　無有慧心。
-三界無安，　　猶如火宅，　　眾苦充滿，
-甚可怖畏。　　常有生老、　　病死憂患，
-如是等火，　　熾然不息。　　如來已離，
-三界火宅，　　寂然閑居，　　安處林野。
-今此三界，　　皆是我有，　　其中眾生，
-悉是吾子。　　而今此處，　　多諸患難，
-唯我一人，　　能為救護。　　雖復教詔，
-而不信受，　　於諸欲染，　　貪著深故。
-以是方便，　　為說三乘，　　令諸眾生，
-知三界苦，　　開示演說，　　出世間道。
-是諸子等，　　若心決定，　　具足三明，
-及六神通，　　有得緣覺、　　不退菩薩。
-汝舍利弗！　　我為眾生，　　以此譬喻，
-說一佛乘。　　汝等若能，　　信受是語，
-一切皆當，　　得成佛道。　　是乘微妙、
-清淨第一，　　於諸世間，　　為無有上，
-佛所悅可。　　一切眾生，　　所應稱讚、
-供養禮拜。　　無量億千，　　諸力解脫、
-禪定智慧，　　及佛餘法，　　得如是乘。
-令諸子等，　　日夜劫數，　　常得遊戲，
-與諸菩薩，　　及聲聞眾，　　乘此寶乘，
-直至道場。　　以是因緣，　　十方諦求，
-更無餘乘，　　除佛方便。』　　告舍利弗：
-『汝諸人等，　　皆是吾子，　　我則是父。
-汝等累劫，　　眾苦所燒，　　我皆濟拔，
-令出三界。　　我雖先說：　　「汝等滅度。」
-但盡生死，　　而實不滅；　　今所應作，
-唯佛智慧。　　若有菩薩，　　於是眾中，
-能一心聽，　　諸佛實法。　　諸佛世尊，
-雖以方便；　　所化眾生，　　皆是菩薩。
-若人小智，　　深著愛欲，　　為此等故，
-說於苦諦。　　眾生心喜，　　得未曾有，
-佛說苦諦，　　真實無異。　　若有眾生，
-不知苦本，　　深著苦因，　　不能暫捨。
-為是等故，　　方便說道。　　諸苦所因，
-貪欲為本，　　若滅貪欲，　　無所依止，
-滅盡諸苦，　　名第三諦。　　為滅諦故，
-修行於道，　　離諸苦縛，　　名得解脫。
-是人於何，　　而得解脫？　　但離虛妄，
-名為解脫；　　其實未得，　　一切解脫。
-佛說是人，　　未實滅度。　　斯人未得，
-無上道故，　　我意不欲，　　令至滅度。
-我為法王，　　於法自在，　　安隱眾生，
-故現於世。　　汝舍利弗！　　我此法印，
-為欲利益，　　世間故說，　　在所遊方，
-勿妄宣傳。　　若有聞者，　　隨喜頂受，
-當知是人，　　阿鞞跋致。　　若有信受，
-此經法者，　　是人已曾，　　見過去佛，
-恭敬供養，　　亦聞是法。　　若人有能，
-信汝所說，　　則為見我，　　亦見於汝，
-及比丘僧，　　并諸菩薩。　　斯法華經，
-為深智說，　　淺識聞之，　　迷惑不解。
-一切聲聞，　　及辟支佛，　　於此經中，
-力所不及。　　汝舍利弗！　　尚於此經，
-以信得入；　　況餘聲聞。　　其餘聲聞，
-信佛語故，　　隨順此經，　　非己智分。
-又舍利弗！　　憍慢懈怠、　　計我見者，
-莫說此經。　　凡夫淺識，　　深著五欲，
-聞不能解，　　亦勿為說。　　若人不信，
-毀謗此經，　　則斷一切，　　世間佛種。
-或復顰蹙，　　而懷疑惑，　　汝當聽說，
-此人罪報。　　若佛在世，　　若滅度後，
-其有誹謗，　　如斯經典，　　見有讀誦、
-書持經者，　　輕賤憎嫉，　　而懷結恨。
-此人罪報，　　汝今復聽。　　其人命終，
-入阿鼻獄，　　具足一劫，　　劫盡更生。
-如是展轉，　　至無數劫，　　從地獄出，
-當墮畜生。　　若狗野干，　　其形𩑔瘦，
-黧黮疥癩，　　人所觸嬈。　　又復為人，
-之所惡賤，　　常困飢渴，　　骨肉枯竭，
-生受楚毒，　　死被瓦石。　　斷佛種故，
-受斯罪報。　　若作馲駝，　　或生驢中，
-身常負重，　　加諸杖捶，　　但念水草，
-餘無所知。　　謗斯經故，　　獲罪如是。
-有作野干，　　來入聚落，　　身體疥癩，
-又無一目。　　為諸童子，　　之所打擲，
-受諸苦痛，　　或時致死。　　於此死已，
-更受蟒身。　　其形長大，　　五百由旬，
-聾騃無足，　　宛轉腹行，　　為諸小蟲，
-之所唼食，　　晝夜受苦，　　無有休息。
-謗斯經故，　　獲罪如是。　　若得為人，
-諸根闇鈍，　　矬陋攣躄，　　盲聾背傴。
-有所言說，　　人不信受，　　口氣常臭，
-鬼魅所著。　　貧窮下賤，　　為人所使，
-多病痟瘦，　　無所依怙。　　雖親附人，
-人不在意，　　若有所得，　　尋復忘失。
-若修醫道，　　順方治病，　　更增他疾，
-或復致死。　　若自有病，　　無人救療，
-設服良藥，　　而復增劇。　　若他反逆、
-抄劫竊盜，　　如是等罪，　　橫羅其殃。
-如斯罪人，　　永不見佛，　　眾聖之王，
-說法教化。　　如斯罪人，　　常生難處，
-狂聾心亂，　　永不聞法。　　於無數劫、
-如恒河沙，　　生輒聾瘂，　　諸根不具。
-常處地獄，　　如遊園觀，　　在餘惡道，
-如己舍宅，　　駝驢猪狗，　　是其行處。
-謗斯經故，　　獲罪如是。　　若得為人，
-聾盲瘖瘂、　　貧窮諸衰，　　以自莊嚴。
-水腫乾痟、　　疥癩癰疽、　　如是等病，
-以為衣服。　　身常臭處，　　垢穢不淨，
-深著我見，　　增益瞋恚，　　婬欲熾盛，
-不擇禽獸。　　謗斯經故，　　獲罪如是。』
-告舍利弗：　　『謗斯經者，　　若說其罪，
-窮劫不盡。　　以是因緣，　　我故語汝：
-「無智人中，　　莫說此經。」　　若有利根，
-智慧明了，　　多聞強識，　　求佛道者，
-如是之人，　　乃可為說。　　若人曾見，
-億百千佛，　　殖諸善本，　　深心堅固，
-如是之人，　　乃可為說。　　若人精進，
-常修慈心，　　不惜身命，　　乃可為說。
-若人恭敬，　　無有異心，　　離諸凡愚，
-獨處山澤，　　如是之人，　　乃可為說。
-又舍利弗！　　若見有人，　　捨惡知識，
-親近善友，　　如是之人，　　乃可為說。
-若見佛子，　　持戒清潔，　　如淨明珠，
-求大乘經，　　如是之人，　　乃可為說。
-若人無瞋，　　質直柔軟，　　常愍一切，
-恭敬諸佛，　　如是之人，　　乃可為說。
-復有佛子，　　於大眾中，　　以清淨心，
-種種因緣、　　譬喻言辭，　　說法無礙，
-如是之人，　　乃可為說。　　若有比丘，
-為一切智，　　四方求法，　　合掌頂受，
-但樂受持，　　大乘經典，　　乃至不受，
-餘經一偈，　　如是之人，　　乃可為說。
-如人至心，　　求佛舍利，　　如是求經，
-得已頂受，　　其人不復，　　志求餘經，
-亦未曾念，　　外道典籍，　　如是之人，
-乃可為說。』　　告舍利弗：　　『我說是相，
-求佛道者，　　窮劫不盡。』　　如是等人，
-則能信解，　　汝當為說，　　妙法華經。」
+The Buddha then wants to emphasize this meaning, and says a verse:
+
+「譬如長者，有一大宅，其宅久故，
+
+"For example, there is an old mansion, its house has been old for a long time,
+
+而復頓弊，堂舍高危，柱根摧朽，
+
+And it has fallen into disrepair, its halls and rooms are high and dangerous, its pillars are rotten, 
+
+梁棟傾斜，基陛隤毀，牆壁圮坼，
+
+its beams and rafters slant, its foundations and walls are decaying, its walls are collapsing, 
+
+泥塗褫落，覆苫亂墜，
+
+its mud is flaking off and its roof is tumbling down, 
+
+椽梠差脫，周障屈曲，雜穢充遍。
+
+its surrounding walls are bending and twisting, it is full of filth.
+
+有五百人，止住其中。
+
+There are five hundred people living inside,
+
+鵄梟雕鷲、烏鵲鳩鴿、蚖蛇蝮蠍、蜈蚣蚰蜒、守宮百足、狖貍鼷鼠，諸惡蟲輩，交橫馳走。
+
+Attacked by crows, owls, eagles, pigeons, snakes, scorpions, centipedes, and all kinds of pests, running around and crossing each other.
+
+屎尿臭處，不淨流溢，蜣蜋諸蟲，而集其上。
+
+The place is stinking with excrement and urine. The filth flows and overflows, with maggots and other pests gathering on it. 
+
+狐狼野干，咀嚼踐蹋，䶩齧死屍、骨肉狼藉。
+
+Wild foxes and wolves chew and trample, while dead bodies and bones are scattered everywhere. 
+
+由是群狗，競來搏撮，飢羸慞惶，處處求食。
+
+Dogs compete to fight and scavenge, famished and desperate for food. 
+
+鬪諍𪙁掣，嘊喍㘁吠，其舍恐怖，變狀如是。
+
+They quarrel, bite, and bark, causing terror and chaos throughout the place. 
+
+處處皆有，魑魅魍魎、夜叉惡鬼，食噉人肉。
+
+Everywhere there are demons, evil spirits, and night-demons who feed on human flesh. 
+
+毒蟲之屬，諸惡禽獸，孚乳產生，各自藏護。
+
+The descendants of these venomous creatures, the evil birds and beasts, breed and hide for their protection.
+
+夜叉競來，爭取食之，食之既飽，惡心轉熾，鬪諍之聲，甚可怖畏。
+
+"Night demons come to compete for food, once they are full, they become evil and their fighting sounds are terrifying. 
+
+鳩槃荼鬼，蹲踞土埵，或時離地，一尺二尺，往返遊行，縱逸嬉戲，捉狗兩足，撲令失聲，以腳加頸，怖狗自樂。
+
+There are also ghosts who sit on the ground like the poisonous plant “tṛṇa”, sometimes they fly up to a foot or two and play around, they grab the dog by its legs, causing it to lose its voice and they use their feet to choke the neck of the dog, enjoying its fear. 
+
+復有諸鬼，其身長大，裸形黑瘦，常住其中，發大惡聲，叫呼求食。復有諸鬼，其咽如針。
+
+There are also other demons with large bodies, they are skinny, black and naked, they always reside there, make loud evil sounds, and call out for food. There are also other demons with sharp throats."
+
+復有諸鬼，首如牛頭，或食人肉，或復噉狗，頭髮蓬亂，殘害凶險，
+
+There are also demons with heads like a cow's, either eating human flesh or gnawing on dogs, their hair disheveled, their destruction and danger abounding. 
+
+飢渴所逼，叫喚馳走。
+
+Driven by hunger and thirst, they cry out and run around. 
+
+夜叉餓鬼，諸惡鳥獸，飢急四向，窺看窓牖。
+
+The hungry ghosts of the Night Spirits, along with all the evil birds and beasts, ravenously look in all directions, peering through windows.
+
+如是諸難，恐畏無量。
+
+Such difficulties and terrors are beyond measure. 
+
+是朽故宅，屬于一人。
+
+This decaying house belongs to a single person. 
+
+其人近出，未久之間，於後舍宅，欻然火起，四面一時，其炎俱熾。
+
+The person has recently left, but before long, the back of the house suddenly catches fire. In an instant, the flames burn brightly in all directions. 
+
+棟梁椽柱，爆聲震裂，摧折墮落，牆壁崩倒。
+
+The roof beams and pillars explode with a loud noise, breaking and falling. The walls collapse.
+
+諸鬼神等，揚聲大叫。
+
+The ghosts and gods, they make a loud roar. 
+
+雕鷲諸鳥、鳩槃荼等，周章惶怖，不能自出。
+
+Eagles and other birds, demon crows and lotus demon, are all in a panic and cannot escape. 
+
+惡獸毒蟲，藏竄孔穴。
+
+Dangerous beasts and poisonous insects, are hiding in holes and crevices. 
+
+毘舍闍鬼，亦住其中，薄福德故，為火所逼，共相殘害，飲血噉肉。
+
+The spirits and demons, live there as well, due to their lack of good deeds, they are forced by the fire and harm each other,
+drinking blood and eating flesh. 
+
+野干之屬，竝已前死，諸大惡獸，競來食噉，臭烟熢㶿，四面充塞。
+
+The relatives of the dead, who have already died, the great evil beasts, come to eat together, the smoke is thick, the surroundings are filled. 
+
+蜈蚣蚰蜒、毒蛇之類，為火所燒，爭走出穴，鳩槃荼鬼、隨取而食。
+
+Centipedes, earthworms, and poisonous snakes, are burned by the fire, they struggle to escape from their holes, demon crows and lotus demons, follow to eat. 
+
+又諸餓鬼，頭上火燃，飢渴熱惱，周章悶走。
+
+The hungry ghosts, with fire burning on their heads, they are hungry and hot, they are walking in circles. 
+
+其宅如是，甚可怖畏，毒害火災，眾難非一。
+
+Such is the house, it is very frightening, the harm of the fire disaster, there are many difficulties, not just one.
+
+是時宅主，在門外立，聞有人言：
+
+At that time, the owner of the house stood outside the door and heard someone say, 
+
+『汝諸子等，先因遊戲，來入此宅，稚小無知，歡娛樂著。』
+
+"You children, came into this house because of your games and you are young and ignorant, enjoying yourselves." 
+
+長者聞已，驚入火宅，方宜救濟，令無燒害。
+
+After the elder heard this, he was frightened and entered the burning house to rescue and protect the children so they wouldn't be burned. 
+
+告喻諸子，說眾患難，惡鬼毒蟲，
+
+He warned the children about the various dangers, told them about the evil ghosts and poisonous insects, 
+
+災火蔓延，眾苦次第，相續不絕。
+
+and how the fire was spreading and causing suffering, one after another, without end.
+
+毒蛇蚖蝮，及諸夜叉、鳩槃茶鬼，
+
+Snakes and poisonous insects, as well as the night demons and the ghosts of birds, 
+
+野干狐狗、雕鷲鵄梟，百足之屬，飢渴惱急，甚可怖畏。
+
+foxes and dogs, and the insects and their kin, were all hungry and thirsty, very frightening. 
+
+此苦難處，況復大火。
+
+In this suffering and danger, not to mention the raging fire.
+
+諸子無知，雖聞父誨，猶故樂著，嬉戲不已。
+
+The children were unaware, despite their father's teachings, they still played and had fun.
+
+是時長者，而作是念：『諸子如此，益我愁惱。
+
+The elder then thought, 'The children are like this, causing me more worry. 
+
+今此舍宅，無一可樂，
+
+Now, this house is not a place of joy, but the children are still indulging and playing, 
+
+而諸子等，耽湎嬉戲，不受我教，將為火害。』
+
+not heeding my teachings, they will fall victim to the fire.'"
+
+即便思惟，設諸方便，告諸子等：
+
+He then thought of a plan and told the children: 
+
+『我有種種，珍玩之具，妙寶好車，羊車鹿車、大牛之車，今在門外。
+
+"I have all sorts of precious playthings and beautiful vehicles, such as sheep carts, deer carts, and large ox carts, outside the door. 
+
+
+汝等出來，吾為汝等，造作此車，隨意所樂，可以遊戲。』
+
+Come out, and I will make these vehicles for you to play with as you like."
+
+諸子聞說，如此諸車，即時奔競，馳走而出，到於空地，離諸苦難。
+
+When the children heard about these vehicles, they ran out to compete and rushed to the open field, away from the suffering. 
+
+長者見子，得出火宅，住於四衢。
+
+The elder saw his children safely out of the burning house and settled in the four directions. 
+
+坐師子座，而自慶言：
+
+He sat on the lion's throne and happily said, 
+
+『我今快樂！此諸子等，生育甚難，愚小無知，而入險宅。
+
+"I am happy now! These children, who were born with great difficulty and are young and ignorant, have escaped the dangerous house."
+
+多諸毒蟲，魑魅可畏，大火猛炎，四面俱起。而此諸子，貪樂嬉戲。
+
+Despite the presence of many dangerous insects and demons, and a fierce fire burning all around, the children were still playing and enjoying themselves. 
+
+我已救之，令得脫難。是故諸人，我今快樂。』
+
+I have saved them and rescued them from danger, which is why I am happy now. 
+
+爾時諸子，知父安坐，皆詣父所，而白父言：
+
+At that time, the children knew that their father was sitting safely, and they all went to their father's place and said to him:
+
+『願賜我等，三種寶車。
+
+'Please give us the three precious vehicles as you promised before.
+
+如前所許：「諸子出來，當以三車，隨汝所欲。」
+
+ "Come out and you will have three vehicles to do as you please." 
+ 
+ 今正是時，唯垂給與。』
+
+Now is the time to fulfill that promise."
+
+長者大富，庫藏眾多，
+
+The elderly man is rich and wealthy, with a vast amount of wealth stored away. 
+
+金銀琉璃、車𤦲馬腦，以眾寶物，造諸大車。
+
+He had numerous gold, silver, crystal, and chariots and horses, as well as many precious possessions, and he built many magnificent carriages. 
+
+莊校嚴飾，周匝欄楯，四面懸鈴，金繩交絡。
+
+The carriages were beautifully decorated, with rails and fences that were surrounded by golden ropes, and with bells hanging from all four sides. 
+
+真珠羅網，張施其上，金華諸瓔，處處垂下，
+
+Pearls and crystal covered the carriages, and golden flowers and tassels hung everywhere. 
+
+眾綵雜飾，周匝圍繞，柔軟繒纊，以為茵蓐。
+
+Soft silks surrounded the carriages, serving as a cushion. 
+
+上妙細㲲，價直千億，鮮白淨潔，以覆其上。
+
+The carriages were exquisitely crafted and valued at billions of dollars. White, pure, and spotless coverings were spread over the carriages. 
+
+有大白牛，肥壯多力，形體姝好，以駕寶車。
+
+There were large, white, fat, and powerful oxen, with a handsome appearance, to pull the carriages.
+
+多諸儐從，而侍衛之。
+
+Many servants accompanied them, serving as guards. 
+
+以是妙車，等賜諸子。諸子是時，歡喜踊躍，
+
+The children were given these wonderful carriages and were thrilled and overjoyed. 
+
+乘是寶車，遊於四方，嬉戲快樂，自在無礙。
+
+They rode the carriages all around and had fun and were completely free.
+
+告舍利弗：
+
+Shariputra, 
+
+『我亦如是，眾聖中尊，世間之父。
+"I am like this too. I am the most honored among all the saints, the father of the world. 
+
+一切眾生，皆是吾子，深著世樂，無有慧心。
+
+All living beings are my children, deeply attached to worldly pleasures, without any wisdom."
+
+三界無安，猶如火宅，眾苦充滿，甚可怖畏。
+
+The three realms are not at peace, like a house on fire, full of suffering, extremely terrifying. 
+
+常有生老、病死憂患，如是等火，熾然不息。
+
+There are constant causes for worry, such as aging, sickness, and death, like fire burning continuously and unceasingly. 
+
+如來已離，三界火宅，寂然閑居，安處林野。
+
+The Tathagata has left the three realms of this burning house and now resides in peace in the forests and wilderness. 
+
+今此三界，皆是我有，其中眾生，悉是吾子。
+
+Today, these three realms are all under my control and all the living beings in them are my children. 
+
+而今此處，多諸患難，唯我一人，能為救護。
+
+However, in this place there are many difficulties and only I alone can protect and save them.
+
+雖復教詔，而不信受，於諸欲染，貪著深故。
+
+Although I teach and preach, they do not believe and receive it due to their deep attachment to their desires and cravings. 
+
+以是方便，為說三乘，
+
+Therefore, I use skilful means to speak of the Three Vehicles 
+
+令諸眾生，知三界苦，開示演說，出世間道。
+
+and make all living beings aware of the suffering in the three realms and explain the way to escape from the worldly life. 
+
+是諸子等，若心決定，
+
+These children, if they determine in their hearts, 
+
+具足三明，及六神通，
+
+have complete understanding of the Three Knowledges and Six Supernatural Powers, 
+
+有得緣覺、不退菩薩。
+
+and attain the awakened state through causal conditions, they will not fall from being Bodhisattvas.
+
+汝舍利弗！我為眾生，以此譬喻，說一佛乘。
+
+Śāriputra! I use this illustration to explain to sentient beings about the One Vehicle of the Buddha. 
+
+汝等若能，信受是語，一切皆當，得成佛道。
+
+If you and others can believe and accept these words, then you will all attain the Buddha Way. 
+
+是乘微妙、清淨第一，於諸世間，為無有上，佛所悅可。
+
+This vehicle is subtle and supremely pure, and among all worlds, there is nothing higher that is pleasing to the Buddha. 
+
+一切眾生，所應稱讚、供養禮拜。
+
+All sentient beings should praise and offer worship to this vehicle, 
+
+無量億千，諸力解脫、禪定智慧，及佛餘法，得如是乘。
+
+which leads to immeasurable billions of powers of liberation, meditative concentration, wisdom, and other teachings of the Buddha. 
+
+令諸子等，日夜劫數，常得遊戲，
+
+Let the sons and others spend countless kalpas playing and practicing this precious vehicle, 
+
+與諸菩薩，及聲聞眾，乘此寶乘，直至道場。
+
+together with bodhisattvas and the assembly of voice-hearers, until reaching the Way-place. 
+
+以是因緣，十方諦求，更無餘乘，除佛方便。』
+
+Because of this cause and circumstance, the truth sought by the ten directions is nothing other than this vehicle, except for the Buddha's provisional teachings." 
+
+告舍利弗：『汝諸人等，皆是吾子，我則是父。
+
+Gautama spoke to Śāriputra: "All of you are my children, and I am your father. 
+
+汝等累劫，眾苦所燒，我皆濟拔，令出三界。
+
+For countless kalpas, you have suffered the fires of suffering, but I will rescue and liberate you, leading you out of the three realms. 
+
+我雖先說：「汝等滅度。」但盡生死，而實不滅；
+
+"Although I previously said, 'May you all attain extinction,' in reality, you do not truly perish. 
+
+今所應作，唯佛智慧。
+
+What you should do now is to rely on the wisdom of the Buddha. 
+
+若有菩薩，於是眾中，能一心聽，諸佛實法。
+
+If there are Bodhisattvas among this multitude who can single-heartedly listen to the actual teachings of all Buddhas, 
+
+諸佛世尊，雖以方便；所化眾生，皆是菩薩。
+
+then even though all Buddhas employ various means to transform living beings, they are all Bodhisattvas. 
+
+若人小智，深著愛欲，為此等故，說於苦諦。
+
+If people possess a small amount of wisdom and are deeply attached to desires, for this reason, the Buddha speaks of suffering. 
+
+眾生心喜，得未曾有，佛說苦諦，真實無異。
+
+Living beings are pleased and receive what they have never had before. The Buddha's teachings of suffering are truly unchanging. 
+
+若有眾生，不知苦本，深著苦因，不能暫捨。
+
+If there are living beings who do not understand the root of suffering and are deeply attached to its cause, they cannot temporarily give it up. 
+
+為是等故，方便說道。
+
+For this reason, the Buddha employs means to explain the way. 
+
+諸苦所因，貪欲為本，若滅貪欲，無所依止，滅盡諸苦，名第三諦。
+
+The origin of all suffering lies in desire, and if desire is extinct, there is nothing to rely upon, and all suffering is entirely extinguished. This is named the Third Noble Truth. 
+
+為滅諦故，修行於道，離諸苦縛，名得解脫。是人於何，而得解脫？
+
+In order to extinguish this truth, one must practice the way and be liberated from the bonds of all suffering. Who is it that attains liberation? Only by leaving behind falsity, is it named liberation. 
+
+但離虛妄，名為解脫；其實未得，一切解脫。
+
+In reality, liberation has not been attained, all liberation is yet to be attained. 
+
+佛說是人，未實滅度。
+
+The Buddha says that this person has not actually achieved extinction. 
+
+斯人未得，無上道故，我意不欲，令至滅度。
+
+As this person has not yet attained it, they lack the supreme way. My intention is not to desire that they attain extinction."
+
+我為法王，於法自在，安隱眾生，故現於世。
+
+I am the king of dharma, and I am at ease with the dharma. I am here to bring peace to all beings, and that is why I appear in the world. 
+
+汝舍利弗！我此法印，為欲利益，世間故說，
+
+O Śāriputra! This seal of dharma that I have presented is only meant for the benefit of the world. 
+
+在所遊方，勿妄宣傳。
+
+Do not recklessly spread it around when you travel.
+
+若有聞者，隨喜頂受，當知是人，阿鞞跋致。
+
+If someone hears of it, they should accept it with joy upon their heads. You should know that this person is one of Ārya Vaipulya's disciples. 
+ 
+若有信受，此經法者，是人已曾，見過去佛，恭敬供養，亦聞是法。
+
+If someone accepts this teaching, they will have already seen me in the past, paid their respects and offerings to me, and heard this dharma. 
+
+若人有能，信汝所說，則為見我，亦見於汝，及比丘僧，并諸菩薩。
+
+If someone is able to believe in what you have said, then they will also see me and you and the monastic community, as well as all bodhisattvas. 
+
+斯法華經，為深智說，淺識聞之，迷惑不解。
+
+This Lotus Sutra is a deep teaching, and those with limited understanding will be confused and not comprehend it if they hear it. 
+
+一切聲聞，及辟支佛，於此經中，力所不及。
+
+All Śrāvakas and Pratyekabuddhas are unable to understand it. 
+
+汝舍利弗！尚於此經，以信得入；
+
+O Śāriputra! You should believe in this sutra and enter it through faith. 
+
+況餘聲聞。其餘聲聞，信佛語故，隨順此經，非己智分。
+
+This applies to all Śrāvakas, not just your own understanding.
+
+又舍利弗！憍慢懈怠、計我見者，
+莫說此經。凡夫淺識，深著五欲，
+聞不能解，亦勿為說。若人不信，
+毀謗此經，則斷一切，世間佛種。
+或復顰蹙，而懷疑惑，汝當聽說，
+此人罪報。若佛在世，若滅度後，
+其有誹謗，如斯經典，見有讀誦、
+書持經者，輕賤憎嫉，而懷結恨。
+此人罪報，汝今復聽。其人命終，
+入阿鼻獄，具足一劫，劫盡更生。
+如是展轉，至無數劫，從地獄出，
+當墮畜生。若狗野干，其形𩑔瘦，
+黧黮疥癩，人所觸嬈。又復為人，
+之所惡賤，常困飢渴，骨肉枯竭，
+生受楚毒，死被瓦石。斷佛種故，
+受斯罪報。若作馲駝，或生驢中，
+身常負重，加諸杖捶，但念水草，
+餘無所知。謗斯經故，獲罪如是。
+有作野干，來入聚落，身體疥癩，
+又無一目。為諸童子，之所打擲，
+受諸苦痛，或時致死。於此死已，
+更受蟒身。其形長大，五百由旬，
+聾騃無足，宛轉腹行，為諸小蟲，
+之所唼食，晝夜受苦，無有休息。
+謗斯經故，獲罪如是。若得為人，
+諸根闇鈍，矬陋攣躄，盲聾背傴。
+有所言說，人不信受，口氣常臭，
+鬼魅所著。貧窮下賤，為人所使，
+多病痟瘦，無所依怙。雖親附人，
+人不在意，若有所得，尋復忘失。
+若修醫道，順方治病，更增他疾，
+或復致死。若自有病，無人救療，
+設服良藥，而復增劇。若他反逆、
+抄劫竊盜，如是等罪，橫羅其殃。
+如斯罪人，永不見佛，眾聖之王，
+說法教化。如斯罪人，常生難處，
+狂聾心亂，永不聞法。於無數劫、
+如恒河沙，生輒聾瘂，諸根不具。
+常處地獄，如遊園觀，在餘惡道，
+如己舍宅，駝驢猪狗，是其行處。
+謗斯經故，獲罪如是。若得為人，
+聾盲瘖瘂、貧窮諸衰，以自莊嚴。
+水腫乾痟、疥癩癰疽、如是等病，
+以為衣服。身常臭處，垢穢不淨，
+深著我見，增益瞋恚，婬欲熾盛，
+不擇禽獸。謗斯經故，獲罪如是。』
+
+告舍利弗：『謗斯經者，若說其罪，
+窮劫不盡。以是因緣，我故語汝：
+「無智人中，莫說此經。」若有利根，
+智慧明了，多聞強識，求佛道者，
+如是之人，乃可為說。若人曾見，
+億百千佛，殖諸善本，深心堅固，
+如是之人，乃可為說。若人精進，
+常修慈心，不惜身命，乃可為說。
+若人恭敬，無有異心，離諸凡愚，
+獨處山澤，如是之人，乃可為說。
+又舍利弗！若見有人，捨惡知識，
+親近善友，如是之人，乃可為說。
+若見佛子，持戒清潔，如淨明珠，
+求大乘經，如是之人，乃可為說。
+若人無瞋，質直柔軟，常愍一切，
+恭敬諸佛，如是之人，乃可為說。
+復有佛子，於大眾中，以清淨心，
+種種因緣、譬喻言辭，說法無礙，
+如是之人，乃可為說。若有比丘，
+為一切智，四方求法，合掌頂受，
+但樂受持，大乘經典，乃至不受，
+餘經一偈，如是之人，乃可為說。
+如人至心，求佛舍利，如是求經，
+得已頂受，其人不復，志求餘經，
+亦未曾念，外道典籍，如是之人，
+乃可為說。』告舍利弗：『我說是相，
+求佛道者，窮劫不盡。』如是等人，
+則能信解，汝當為說，妙法華經。」
+
