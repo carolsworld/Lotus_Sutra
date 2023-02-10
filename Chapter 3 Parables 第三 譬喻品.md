@@ -1,4 +1,4 @@
-A translation of Lotus Sutra from Chinese to English using ChatGPT  (date: 6 Feb 2023)
+A translation of Lotus Sutra from Chinese to English using ChatGPT  (date: 6 - 10 Feb 2023)
 
 妙法蓮華經譬喻品第三
 
@@ -1829,79 +1829,238 @@ O Śāriputra! You should believe in this sutra and enter it through faith.
 
 This applies to all Śrāvakas, not just your own understanding.
 
-又舍利弗！憍慢懈怠、計我見者，
-莫說此經。凡夫淺識，深著五欲，
-聞不能解，亦勿為說。若人不信，
-毀謗此經，則斷一切，世間佛種。
-或復顰蹙，而懷疑惑，汝當聽說，
-此人罪報。若佛在世，若滅度後，
-其有誹謗，如斯經典，見有讀誦、
-書持經者，輕賤憎嫉，而懷結恨。
-此人罪報，汝今復聽。其人命終，
-入阿鼻獄，具足一劫，劫盡更生。
-如是展轉，至無數劫，從地獄出，
-當墮畜生。若狗野干，其形𩑔瘦，
-黧黮疥癩，人所觸嬈。又復為人，
-之所惡賤，常困飢渴，骨肉枯竭，
-生受楚毒，死被瓦石。斷佛種故，
-受斯罪報。若作馲駝，或生驢中，
-身常負重，加諸杖捶，但念水草，
-餘無所知。謗斯經故，獲罪如是。
-有作野干，來入聚落，身體疥癩，
-又無一目。為諸童子，之所打擲，
-受諸苦痛，或時致死。於此死已，
-更受蟒身。其形長大，五百由旬，
-聾騃無足，宛轉腹行，為諸小蟲，
-之所唼食，晝夜受苦，無有休息。
-謗斯經故，獲罪如是。若得為人，
-諸根闇鈍，矬陋攣躄，盲聾背傴。
-有所言說，人不信受，口氣常臭，
-鬼魅所著。貧窮下賤，為人所使，
-多病痟瘦，無所依怙。雖親附人，
-人不在意，若有所得，尋復忘失。
-若修醫道，順方治病，更增他疾，
-或復致死。若自有病，無人救療，
-設服良藥，而復增劇。若他反逆、
-抄劫竊盜，如是等罪，橫羅其殃。
-如斯罪人，永不見佛，眾聖之王，
-說法教化。如斯罪人，常生難處，
-狂聾心亂，永不聞法。於無數劫、
-如恒河沙，生輒聾瘂，諸根不具。
-常處地獄，如遊園觀，在餘惡道，
-如己舍宅，駝驢猪狗，是其行處。
-謗斯經故，獲罪如是。若得為人，
-聾盲瘖瘂、貧窮諸衰，以自莊嚴。
-水腫乾痟、疥癩癰疽、如是等病，
-以為衣服。身常臭處，垢穢不淨，
-深著我見，增益瞋恚，婬欲熾盛，
-不擇禽獸。謗斯經故，獲罪如是。』
+又舍利弗！憍慢懈怠、計我見者，莫說此經。
 
-告舍利弗：『謗斯經者，若說其罪，
-窮劫不盡。以是因緣，我故語汝：
-「無智人中，莫說此經。」若有利根，
-智慧明了，多聞強識，求佛道者，
-如是之人，乃可為說。若人曾見，
-億百千佛，殖諸善本，深心堅固，
-如是之人，乃可為說。若人精進，
-常修慈心，不惜身命，乃可為說。
-若人恭敬，無有異心，離諸凡愚，
-獨處山澤，如是之人，乃可為說。
-又舍利弗！若見有人，捨惡知識，
-親近善友，如是之人，乃可為說。
-若見佛子，持戒清潔，如淨明珠，
-求大乘經，如是之人，乃可為說。
-若人無瞋，質直柔軟，常愍一切，
-恭敬諸佛，如是之人，乃可為說。
-復有佛子，於大眾中，以清淨心，
-種種因緣、譬喻言辭，說法無礙，
-如是之人，乃可為說。若有比丘，
-為一切智，四方求法，合掌頂受，
-但樂受持，大乘經典，乃至不受，
-餘經一偈，如是之人，乃可為說。
-如人至心，求佛舍利，如是求經，
-得已頂受，其人不復，志求餘經，
-亦未曾念，外道典籍，如是之人，
-乃可為說。』告舍利弗：『我說是相，
-求佛道者，窮劫不盡。』如是等人，
-則能信解，汝當為說，妙法華經。」
+Again, Śāriputra! Don't talk about this scripture to people who are prideful, lazy, or clings to the concept of "self". 
 
+凡夫淺識，深著五欲，聞不能解，亦勿為說。
+
+Do not explain it to those with shallow knowledge, deeply attached to the five desires. They cannot understand it.
+
+若人不信，毀謗此經，則斷一切，世間佛種。
+
+If anyone slanders this sūtra, they will cut off all the Buddha seeds in the world. 
+
+或復顰蹙，而懷疑惑，汝當聽說，此人罪報。
+
+If they frown and have doubts and confusion, you should listen to the explanation of their sin. 
+
+若佛在世，若滅度後，其有誹謗，如斯經典，
+
+If the Buddha is in the world, or after he has passed away, those who defame such a sūtra 
+
+見有讀誦、書持經者，
+
+as this will see those who read and recite it, hold it in their hands, 
+
+輕賤憎嫉，而懷結恨。
+
+and they will have feelings of contempt, hatred and jealousy. 
+
+此人罪報，汝今復聽。
+
+Such people will receive retribution for their sin. 
+
+其人命終，入阿鼻獄，具足一劫，劫盡更生。
+
+When their life is over, they will enter the Avīci Hell and undergo a complete kalpa, after which they will be reborn. 
+
+如是展轉，至無數劫，從地獄出，當墮畜生。
+
+They will continue to suffer in this way for countless kalpas, and when they escape from hell, they will fall into the realm of beasts.
+
+若狗野干，其形𩑔瘦，黧黮疥癩，人所觸嬈。
+
+If they become a wild dog, their body will be thin, dark, scabby, and hated by people.
+
+又復為人，之所惡賤，常困飢渴，
+
+They will be reborn as a despised person, always hungry and thirsty, 
+
+骨肉枯竭，生受楚毒，死被瓦石。
+
+with bones and flesh withering away, suffering from diseases, and dying crushed by stones. 
+
+斷佛種故，受斯罪報。
+
+This is their retribution for cutting off the Buddha's seed.
+ 
+若作馲駝，或生驢中，身常負重，加諸杖捶，
+
+If they become a donkey or a mule, they will always bear heavy loads and be beaten with sticks, 
+
+但念水草，餘無所知。
+
+only thinking of food and water, with no knowledge of anything else.
+
+謗斯經故，獲罪如是。
+
+For slandering this sūtra, they will receive such retribution. 
+
+有作野干，來入聚落，身體疥癩，又無一目。
+
+If they become a wild animal, they will enter human settlements, with their body being scabby, and they will have no eyes. 
+
+為諸童子，之所打擲，受諸苦痛，或時致死。
+
+They will be thrown by children, suffer all kinds of pain, and sometimes die. 
+
+於此死已，更受蟒身。
+
+After this death, they will be reborn as a snake. 
+ 
+其形長大，五百由旬，聾騃無足，宛轉腹行，
+
+Its body will grow to five hundred yojanas, it will be deaf, dumb, and crawl on its belly. 
+
+為諸小蟲，之所唼食，晝夜受苦，無有休息。
+
+It will be eaten by small insects day and night, without any rest. 
+
+謗斯經故，獲罪如是。
+
+For slandering this sūtra, they will receive such retribution. 
+
+若得為人，諸根闇鈍，矬陋攣躄，盲聾背傴。
+
+If they are reborn as a human, they will have dull roots and be dull, ugly, and paralyzed, blind, deaf, and hunchbacked.
+
+有所言說，人不信受，口氣常臭，鬼魅所著。
+
+They will have things to say but will not be believed by others, and their breath will always stink, possessed by ghosts and demons. 
+
+貧窮下賤，為人所使，多病痟瘦，無所依怙。
+
+They will be poor, low, and despised, used by others, often sick and emaciated, with no support. 
+ 
+雖親附人，人不在意，
+
+Although they may attach themselves to others, they will not be cared for by others.
+
+若有所得，尋復忘失。
+
+If they gain something, they will forget it again soon.
+
+若修醫道，順方治病，更增他疾，或復致死。
+
+If they practice the medical arts, they will follow the methods to cure diseases, but they will increase others' illnesses or cause death.
+
+若自有病，無人救療，設服良藥，而復增劇。
+
+If they have their own illness, no one will save them.  Even if they take good medicine, their condition will worsen. 
+
+若他反逆、抄劫竊盜，如是等罪，橫羅其殃。
+
+If he is defiant and steals, he will face the consequences of such crimes. 
+
+如斯罪人，永不見佛，眾聖之王，說法教化。
+
+Such sinful people will never see the Buddha, the king of all the saints, and the teacher who teaches the Dharma. 
+
+如斯罪人，常生難處，狂聾心亂，永不聞法。
+
+Such sinful people will always face difficulties and will be crazy and deaf with a chaotic mind, and they will never hear the Dharma. 
+
+於無數劫、如恒河沙，生輒聾瘂，諸根不具。
+
+Over countless eons, they will constantly be deaf and dumb and will have missing senses. 
+
+常處地獄，如遊園觀，
+
+They will always reside in hell, like they are visiting a park, 
+
+在餘惡道，如己舍宅，
+
+and they will stay in other evil realms, like they are in their own homes. 
+
+駝驢猪狗，是其行處。
+
+They will associate with donkeys, pigs, and dogs, which are the places where they will reside. 
+
+謗斯經故，獲罪如是。
+
+By slandering this scripture, they will suffer such consequences. 
+
+若得為人，聾盲瘖瘂、貧窮諸衰，以自莊嚴。
+
+If they are born as humans, they will be deaf, blind, dumb, and crippled, and they will be poor and weak, causing themselves to be adorned. 
+
+水腫乾痟、疥癩癰疽、如是等病，以為衣服。
+
+They will suffer from diseases such as edema, drought, skin diseases, and boils, and they will wear such diseases as clothing. 
+
+身常臭處，垢穢不淨，
+
+Their bodies will constantly emit foul odors and will be dirty and unclean. 
+
+深著我見，增益瞋恚，
+
+Deeply attached to their self-centered views, they will increase their anger and animosity, 
+
+婬欲熾盛，不擇禽獸。
+
+and their lustful desires will blaze, they will not discriminate between birds and beasts. 
+
+謗斯經故，獲罪如是。』
+
+By slandering this scripture, they will suffer such consequences.
+
+告舍利弗：『謗斯經者，若說其罪，窮劫不盡。
+
+Śāriputra, those who speak against this sutra will fall into the endless cycle of reincarnation and suffering. 
+
+以是因緣，我故語汝：
+
+Therefore, I tell you this: 
+
+「無智人中，莫說此經。」
+
+Among those without wisdom, do not let them speak of this sutra. 
+
+若有利根，智慧明了，多聞強識，求佛道者，如是之人，乃可為說。
+
+However, those with roots of good and wisdom, those who listen and comprehend, those who seek the Buddha's path, those people may speak of this sutra. 
+
+若人曾見，億百千佛，殖諸善本，深心堅固，如是之人，乃可為說。
+
+If someone has seen countless Buddhas, cultivated good roots, and has a steadfast mind, then they may speak of this sutra.
+
+若人精進，常修慈心，不惜身命，乃可為說。
+
+If someone is diligent, constantly practices compassion, and does not hesitate to risk their life, then they may speak of this sutra. 
+
+若人恭敬，無有異心，離諸凡愚，獨處山澤，如是之人，乃可為說。
+
+If someone is respectful and has no ill intentions, separates themselves from common ignorance, and lives in solitude in the mountains and valleys, then they may speak of this sutra.
+
+又舍利弗！若見有人，捨惡知識，親近善友，如是之人，乃可為說。
+
+If someone abandons evil knowledge, approaches virtuous friends, then they may speak of this sutra. 
+
+若見佛子，持戒清潔，如淨明珠，求大乘經，如是之人，乃可為說。
+
+If someone upholds pure conduct, is like a pure and radiant pearl, seeks the great vehicle sutras, then they may speak of this sutra. 
+ 
+若人無瞋，質直柔軟，常愍一切，恭敬諸佛，如是之人，乃可為說。
+
+If someone is without anger, of good character and soft, always kind to all, respectful of all Buddhas, then they may speak of this sutra. 
+
+復有佛子，於大眾中，以清淨心，種種因緣、譬喻言辭，說法無礙，如是之人，乃可為說。
+
+If someone, in the midst of a great assembly, with a pure heart, speaks the teachings with various examples and expressions, without any obstacles, then they may speak of this sutra.
+ 
+若有比丘，為一切智，四方求法，合掌頂受，但樂受持，大乘經典，乃至不受，餘經一偈，如是之人，乃可為說。
+
+If a bhikshu seeks the teachings in all directions, receives and holds the great vehicle sutras, joyful in receiving and holding them, to the point of not receiving anything else, and not even thinking of other sutras or the scriptures of other sects, then they may speak of this sutra. 
+
+如人至心，求佛舍利，如是求經，得已頂受，其人不復，志求餘經，亦未曾念，外道典籍，如是之人，乃可為說。』
+
+If someone seeks the Buddha's relics with a sincere heart, and seeks the sutras in the same manner, and upon obtaining them, accepts and holds them, without further seeking other sutras, not even thinking of them, then they may speak of this sutra. 
+
+告舍利弗：『我說是相，求佛道者，窮劫不盡。』
+
+Goshariputra, I declare these characteristics to be the qualifications of those who seek the Buddha's path and will never end the cycle of reincarnation. 
+
+如是等人，則能信解，汝當為說，妙法華經。」
+
+People like this should be able to believe and understand, and you should speak to them of the Lotus Sutra.
