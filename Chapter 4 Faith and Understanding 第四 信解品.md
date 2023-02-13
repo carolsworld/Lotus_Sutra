@@ -244,9 +244,117 @@ The poor man was delighted, he received what he never had before,
 
 and got up from the ground and went to the poor area to seek clothing and food.
 
-「爾時長者將欲誘引其子而設方便，密遣二人，形色憔悴無威德者：『汝可詣彼，徐語窮子：「此有作處，倍與汝直。」窮子若許，將來使作。若言：「欲何所作？」便可語之：「雇汝除糞。我等二人亦共汝作。」』時二使人即求窮子，既已得之，具陳上事。
+爾時長者將欲誘引其子而設方便，密遣二人，形色憔悴無威德者：
 
-「爾時窮子先取其價，尋與除糞。其父見子，愍而怪之。又以他日，於窓牖中遙見子身，羸瘦憔悴，糞土塵坌，污穢不淨。即脫瓔珞、細軟上服、嚴飾之具，更著麁弊垢膩之衣，塵土坌身，右手執持除糞之器，狀有所畏。語諸作人：『汝等勤作，勿得懈息。』以方便故，得近其子。後復告言：『咄，男子！汝常此作，勿復餘去，當加汝價。諸有所須瓫器米麵鹽醋之屬，莫自疑難，亦有老弊使人須者相給，好自安意。我如汝父，勿復憂慮。所以者何？我年老大，而汝少壯，汝常作時，無有欺怠瞋恨怨言，都不見汝有此諸惡，如餘作人。自今已後，如所生子。』即時長者、更與作字，名之為兒。爾時窮子雖欣此遇，猶故自謂客作賤人。由是之故，於二十年中常令除糞。過是已後，心相體信，入出無難，然其所止猶在本處。
+At that time, the wealthy man wanted to entice his son, so he secretly sent two men who were poorly dressed and lacking in dignity.
+
+『汝可詣彼，徐語窮子：「此有作處，倍與汝直。」
+
+"You can go to him and slowly speak to the poor son: 'There is work here, and it pays double what you earn now.'
+
+窮子若許，將來使作。
+
+If the poor son agrees, then they will have him do it.
+
+若言：「欲何所作？」
+
+If he says, 'What do you want me to do?'
+
+便可語之：「雇汝除糞。我等二人亦共汝作。」』
+
+They can then tell him, 'Hire you to remove the manure. The two of us will work alongside you.'
+
+時二使人即求窮子，既已得之，具陳上事。
+
+The two men then went to the poor son and, having obtained him, they presented the matter."
+
+「爾時窮子先取其價，尋與除糞。
+
+The poor man first asked for his pay and then went to clean the manure.
+
+其父見子，愍而怪之。
+
+His father saw his son and felt sorry and angry.
+
+又以他日，於窓牖中遙見子身，羸瘦憔悴，糞土塵坌，污穢不淨。
+
+On another day, he saw his son's body from the window and saw that he was skinny and weak, covered in dirt and dust, and unclean.
+
+即脫瓔珞、細軟上服、嚴飾之具，更著麁弊垢膩之衣，塵土坌身，
+
+He took off his valuable clothing and fine accessories, put on dirty and worn clothes, and covered himself in dust and dirt. 
+
+右手執持除糞之器，狀有所畏。
+
+He held the cleaning tools with his right hand and looked afraid.
+
+語諸作人：『汝等勤作，勿得懈息。』
+
+He told the workers, "You all work hard, don't get lazy."
+
+以方便故，得近其子。
+
+He approached his son with this convenient plan.
+
+後復告言：『咄，男子！
+
+Later, he spoke again, "Listen, young man! 
+
+汝常此作，勿復餘去，當加汝價。
+
+You should always do this work, don't leave it behind. I'll increase your pay.
+
+諸有所須瓫器米麵鹽醋之屬，莫自疑難，
+
+Don't hesitate to ask for anything you need, like tools, rice, flour, salt, or vinegar. 
+
+亦有老弊使人須者相給，好自安意。
+
+You'll also have old and worn tools from the other workers. Just be comfortable and at ease.
+
+我如汝父，勿復憂慮。
+
+Consider me as your father, don't worry anymore.
+
+所以者何？
+
+Why is that? 
+
+我年老大，而汝少壯，
+
+I am old and you are young. 
+
+汝常作時，無有欺怠瞋恨怨言，都不見汝有此諸惡，
+
+When you work, I never see any deceit, laziness, anger, or resentment from you. 
+
+如餘作人。
+
+You're not like the other workers.
+
+自今已後，如所生子。』
+
+From now on, consider me as your father."
+
+即時長者、更與作字，名之為兒。
+
+The wealthy man then gave him a new name, calling him "son."
+
+爾時窮子雖欣此遇，猶故自謂客作賤人。
+
+Although the poor man was happy about this encounter, he still considered himself a guest worker.
+
+由是之故，於二十年中常令除糞。
+
+Because of this, he was ordered to clean the manure for 20 years.
+
+過是已後，心相體信，入出無難，
+
+After that, they had mutual trust and there was no difficulty in their relationship, 
+
+然其所止猶在本處。
+
+but he still stayed in the same place."
 
 「世尊，爾時長者有疾，自知將死不久。語窮子言：『我今多有金銀珍寶，倉庫盈溢，其中多少、所應取與，汝悉知之。我心如是，當體此意。所以者何？今我與汝，便為不異，宜加用心，無令漏失。』爾時窮子，即受教勅，領知眾物，金銀珍寶及諸庫藏，而無悕取一飡之意。然其所止故在本處，下劣之心亦未能捨。復經少時，父知子意漸已通泰，成就大志，自鄙先心。臨欲終時，而命其子并會親族、國王、大臣、剎利、居士，皆悉已集，即自宣言：『諸君當知！此是我子，我之所生。於某城中、捨吾逃走，伶俜辛苦五十餘年，其本字某。我名某甲，昔在本城懷憂推覓，忽於此間遇會得之。此實我子，我實其父。今我所有一切財物，皆是子有，先所出內，是子所知。』
 
