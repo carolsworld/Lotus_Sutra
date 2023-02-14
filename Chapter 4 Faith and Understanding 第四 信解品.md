@@ -356,9 +356,86 @@ After that, they had mutual trust and there was no difficulty in their relations
 
 but he still stayed in the same place."
 
-「世尊，爾時長者有疾，自知將死不久。語窮子言：『我今多有金銀珍寶，倉庫盈溢，其中多少、所應取與，汝悉知之。我心如是，當體此意。所以者何？今我與汝，便為不異，宜加用心，無令漏失。』爾時窮子，即受教勅，領知眾物，金銀珍寶及諸庫藏，而無悕取一飡之意。然其所止故在本處，下劣之心亦未能捨。復經少時，父知子意漸已通泰，成就大志，自鄙先心。臨欲終時，而命其子并會親族、國王、大臣、剎利、居士，皆悉已集，即自宣言：『諸君當知！此是我子，我之所生。於某城中、捨吾逃走，伶俜辛苦五十餘年，其本字某。我名某甲，昔在本城懷憂推覓，忽於此間遇會得之。此實我子，我實其父。今我所有一切財物，皆是子有，先所出內，是子所知。』
+「世尊，爾時長者有疾，自知將死不久。
 
-「世尊！是時窮子聞父此言，即大歡喜，得未曾有，而作是念：『我本無心有所希求，今此寶藏自然而至。』
+At that time, the wealthy man was ill and knew that he was going to die soon. 
+
+語窮子言：『我今多有金銀珍寶，倉庫盈溢，
+
+He spoke to the poor man and said, "I have a lot of gold, silver, and treasures in my storage, 
+
+其中多少、所應取與，汝悉知之。
+
+and you know how much of it you should take. 
+
+我心如是，當體此意。所以者何？
+
+My mind is like this, so I want you to pay attention and not miss anything. Why is that?
+
+今我與汝，便為不異，宜加用心，無令漏失。』
+
+Now, I and you, we are not different, it is appropriate to pay attention and not to let anything go missing.
+
+爾時窮子，即受教勅，領知眾物，金銀珍寶及諸庫藏，
+
+The poor man then followed the instructions and learned about the gold, silver, and treasures in the storage, 
+
+而無悕取一飡之意。
+
+And without any regret of taking anything for himself.
+
+然其所止故在本處，下劣之心亦未能捨。
+
+However, his place of staying remains the same, and his inferior thoughts have not yet been able to be given up.
+
+復經少時，父知子意漸已通泰，
+
+After a short time, the father realized that his son's mind was gradually becoming mature 
+
+成就大志，
+
+and achieving his great aspirations, 
+
+自鄙先心。
+
+and he had humble feelings.
+
+臨欲終時，而命其子并會親族、國王、大臣、剎利、居士，皆悉已集，
+
+As he was about to die, he summoned his son, as well as his relatives, the king, the ministers, the brahmins, and the laypeople, 
+
+即自宣言：『諸君當知！此是我子，我之所生。
+
+and declared, "Everyone should know that this is my son, who I gave birth to. 
+
+於某城中、捨吾逃走，伶俜辛苦五十餘年，其本字某。
+
+He ran away from our city and has suffered for over fifty years. His name is such and such.
+
+我名某甲，昔在本城懷憂推覓，忽於此間遇會得之。
+
+I am such and such, and I once searched for him in our city and unexpectedly found him here. 
+
+此實我子，我實其父。
+
+He is truly my son, and I am truly his father. 
+
+今我所有一切財物，皆是子有，先所出內，是子所知。』
+
+All my possessions are his, and he knows what I have given him."
+
+「世尊！是時窮子聞父此言，
+
+Lord Buddha! When the poor man heard his father's words, 
+
+即大歡喜，得未曾有，而作是念：
+
+he was very happy and felt that he had never been so happy before. 
+
+『我本無心有所希求，今此寶藏自然而至。』
+
+He thought to himself, "I never had any desire, but now this treasure has come to me naturally."
+
 
 「世尊！大富長者則是如來，我等皆似佛子，如來常說我等為子。世尊！我等以三苦故，於生死中受諸熱惱，迷惑無知，樂著小法。今日世尊令我等思惟，蠲除諸法戲論之糞，我等於中勤加精進，得至涅槃一日之價。既得此已，心大歡喜，自以為足，而便自謂：『於佛法中勤精進故，所得弘多。』然世尊先知我等，心著弊欲，樂於小法，便見縱捨，不為分別：『汝等當有如來知見寶藏之分。』世尊以方便力，說如來智慧。我等從佛，得涅槃一日之價，以為大得；於此大乘，無有志求。我等又因如來智慧，為諸菩薩開示演說，而自於此無有志願。所以者何？佛知我等心樂小法，以方便力、隨我等說；而我等不知真是佛子。今我等方知世尊，於佛智慧無所悋惜。所以者何？我等昔來真是佛子，而但樂小法，若我等有樂大之心，佛則為我說大乘法。於此經中唯說一乘，而昔於菩薩前，毀呰聲聞樂小法者，然佛實以大乘教化。是故我等，說本無心有所悕求。今法王大寶自然而至，如佛子所應得者皆已得之。」爾時摩訶迦葉欲重宣此義，而說偈言：
 
