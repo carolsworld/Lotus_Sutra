@@ -1,6 +1,6 @@
 Use ChatGPT to Translate the Lotus Sutra (妙法蓮華經)
 
-Summary
+Background
 
 The Lotus Sutra is a Buddhist text that is highly revered in Mahayana Buddhism. It is believed to have been written in India around the 1st or 2nd century CE and is one of the most influential and widely read sutras in East Asian Buddhism. The Lotus Sutra is known for its teachings on the concept of "skillful means", which emphasizes the importance of adapting to different individuals and situations in order to bring them to a state of enlightenment.
 
