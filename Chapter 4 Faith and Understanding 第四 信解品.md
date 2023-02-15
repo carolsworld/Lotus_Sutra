@@ -436,8 +436,129 @@ he was very happy and felt that he had never been so happy before.
 
 He thought to himself, "I never had any desire, but now this treasure has come to me naturally."
 
+「世尊！
 
-「世尊！大富長者則是如來，我等皆似佛子，如來常說我等為子。世尊！我等以三苦故，於生死中受諸熱惱，迷惑無知，樂著小法。今日世尊令我等思惟，蠲除諸法戲論之糞，我等於中勤加精進，得至涅槃一日之價。既得此已，心大歡喜，自以為足，而便自謂：『於佛法中勤精進故，所得弘多。』然世尊先知我等，心著弊欲，樂於小法，便見縱捨，不為分別：『汝等當有如來知見寶藏之分。』世尊以方便力，說如來智慧。我等從佛，得涅槃一日之價，以為大得；於此大乘，無有志求。我等又因如來智慧，為諸菩薩開示演說，而自於此無有志願。所以者何？佛知我等心樂小法，以方便力、隨我等說；而我等不知真是佛子。今我等方知世尊，於佛智慧無所悋惜。所以者何？我等昔來真是佛子，而但樂小法，若我等有樂大之心，佛則為我說大乘法。於此經中唯說一乘，而昔於菩薩前，毀呰聲聞樂小法者，然佛實以大乘教化。是故我等，說本無心有所悕求。今法王大寶自然而至，如佛子所應得者皆已得之。」爾時摩訶迦葉欲重宣此義，而說偈言：
+Venerable One!
+
+大富長者則是如來，我等皆似佛子，
+
+The wealthy and influential person is like the Tathagata, and we are all like the Buddha's children. t
+
+如來常說我等為子。
+
+The Tathagata often calls us his children.
+
+世尊！
+
+Venerable One!
+
+我等以三苦故，於生死中受諸熱惱，
+
+Due to the three sufferings, we experience various passions in life and death, 
+
+迷惑無知，樂著小法。
+
+being confused and ignorant, and delighting in small dharma.
+
+今日世尊令我等思惟，蠲除諸法戲論之糞，
+
+Today, the Venerable One has made us reflect and eliminate the dung of all speculative teachings, 
+
+我等於中勤加精進，得至涅槃一日之價。
+
+and we diligently strive in it, achieving the value of nirvana in a day.
+
+既得此已，心大歡喜，自以為足，
+
+Having obtained this, our hearts are greatly joyful and we think that it is enough.
+
+而便自謂：『於佛法中勤精進故，所得弘多。』
+
+And we boast: "Due to diligence and zeal in the Buddha's teachings, we have obtained great things."
+
+然世尊先知我等，心著弊欲，樂於小法，
+
+But the Venerable One knows our hearts that cling to evil desires and delight in small dharma, 
+
+便見縱捨，不為分別：
+
+and he allows us to indulge and does not discriminate.
+
+『汝等當有如來知見寶藏之分。』
+
+"You should have the Tathagata's understanding and treasure of the dharma."
+
+世尊以方便力，說如來智慧。
+
+The Venerable One speaks the Tathagata's wisdom with his power of expedience.
+
+我等從佛，得涅槃一日之價，以為大得；
+
+We from the Buddha have obtained the value of nirvana in a day and think it is a great gain. 
+
+於此大乘，無有志求。
+
+In this great vehicle, we have no aspiration.
+
+我等又因如來智慧，為諸菩薩開示演說，而自於此無有志願。
+
+We also speak and demonstrate the Buddha's wisdom to the bodhisattvas without any intention.
+
+所以者何？
+
+Why is this?
+
+佛知我等心樂小法，以方便力、隨我等說；
+
+The Buddha knows our hearts that delight in small dharma, and speaks with his power of expedience according to us.
+
+而我等不知真是佛子。
+
+But we do not know that we are truly the Buddha's children.
+
+今我等方知世尊，於佛智慧無所悋惜。
+
+Now we finally know the Venerable One and have no regret for the Buddha's wisdom.
+
+所以者何？
+
+Why is this?
+
+我等昔來真是佛子，而但樂小法，
+
+We have always been the Buddha's children, but only delight in small dharma. 
+
+若我等有樂大之心，佛則為我說大乘法。
+
+If we had a heart that delights in great dharma, the Buddha would have taught us the great vehicle dharma.
+
+於此經中唯說一乘，而昔於菩薩前，
+
+In this scripture, only the one vehicle is spoken of, but in front of the bodhisattvas, 
+
+毀呰聲聞樂小法者，
+
+the Tathagata destroyed the teachings of the Hinayana and delighted in small dharma. 
+
+然佛實以大乘教化。
+
+However, the Buddha actually taught the great vehicle.
+
+是故我等，說本無心有所悕求。
+
+Therefore, we say that we originally had no intention of having any aspirations.
+
+今法王大寶自然而至，
+
+Now, the Dharma King's great treasure has come naturally, 
+
+如佛子所應得者皆已得之。」
+
+and we have obtained everything that should be obtained as the Buddha's children."
+
+爾時摩訶迦葉欲重宣此義，而說偈言：
+
+At that time, Mahakashyapa wanted to repeat this meaning and spoke a verse:
 
 「我等今日，　　聞佛音教，　　歡喜踊躍，
 得未曾有。　　佛說聲聞，　　當得作佛，
