@@ -1,4 +1,4 @@
-A translation of Lotus Sutra from Chinese to English using ChatGPT (date: 12 Feb 2023)
+A translation of Lotus Sutra from Chinese to English using ChatGPT (date: 12 - 17 Feb 2023)
 
 妙法蓮華經信解品第四
 
