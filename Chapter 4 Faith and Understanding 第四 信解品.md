@@ -560,120 +560,322 @@ and we have obtained everything that should be obtained as the Buddha's children
 
 At that time, Mahakashyapa wanted to repeat this meaning and spoke a verse:
 
-「我等今日，　　聞佛音教，　　歡喜踊躍，
-得未曾有。　　佛說聲聞，　　當得作佛，
-無上寶聚，　　不求自得。　　譬如童子，
-幼稚無識，　　捨父逃逝，　　遠到他土，
-周流諸國，　　五十餘年。　　其父憂念，
-四方推求，　　求之既疲，　　頓止一城，
-造立舍宅，　　五欲自娛。　　其家巨富，
-多諸金銀、　　車𤦲馬腦、　　真珠琉璃；
-象馬牛羊、　　輦輿車乘；　　田業僮僕、
-人民眾多。　　出入息利，　　乃遍他國，
-商估賈人、　　無處不有。　　千萬億眾，
-圍繞恭敬，　　常為王者，　　之所愛念，
-群臣豪族，　　皆共宗重。　　以諸緣故，
-往來者眾，　　豪富如是，　　有大力勢。
-而年朽邁，　　益憂念子，　　夙夜惟念，
-死時將至。　　癡子捨我，　　五十餘年，
-庫藏諸物，　　當如之何？　　爾時窮子，
-求索衣食，　　從邑至邑、　　從國至國。
-或有所得，　　或無所得，　　飢餓羸瘦，
-體生瘡癬。　　漸次經歷，　　到父住城，
-傭賃展轉，　　遂至父舍。　　爾時長者，
-於其門內，　　施大寶帳，　　處師子座；
-眷屬圍遶，　　諸人侍衛，　　或有計算，
-金銀寶物，　　出內財產，　　注記券䟽。
-窮子見父，　　豪貴尊嚴，　　謂是國王，
-若是王等。　　驚怖自怪，　　何故至此。
-覆自念言：　　『我若久住，　　或見逼迫，
-強驅使作。』　　思惟是已，　　馳走而去，
-借問貧里，　　欲往傭作。　　長者是時，
-在師子座，　　遙見其子，　　默而識之。
-即勅使者，　　追捉將來。　　窮子驚喚，
-迷悶躄地：　　『是人執我，　　必當見殺，
-何用衣食，　　使我至此？』　　長者知子，
-愚癡狹劣，　　不信我言，　　不信是父。
-即以方便，　　更遣餘人，　　眇目矬陋，
-無威德者：　　『汝可語之，　　云當相雇，
-除諸糞穢，　　倍與汝價。』　　窮子聞之，
-歡喜隨來，　　為除糞穢，　　淨諸房舍。
-長者於牖，　　常見其子，　　念子愚劣，
-樂為鄙事。　　於是長者，　　著弊垢衣，
-執除糞器，　　往到子所，　　方便附近，
-語令勤作：
-『既益汝價，　　并塗足油，　　飲食充足，
-薦席厚煖。』　　如是苦言：　　『汝當勤作。』
-又以軟語：　　『若如我子。』　　長者有智，
-漸令入出，　　經二十年，　　執作家事。
-示其金銀、　　真珠頗梨；　　諸物出入，
-皆使令知。　　猶處門外，　　止宿草庵，
-自念貧事：　　『我無此物。』　　父知子心，
-漸已廣大，　　欲與財物。　　即聚親族、
-國王大臣、　　剎利居士。　　於此大眾，
-說是我子，　　捨我他行，　　經五十歲。
-自見子來，　　已二十年。　　昔於某城，
-而失是子，　　周行求索，　　遂來至此。
-凡我所有，　　舍宅人民，　　悉以付之，
-恣其所用。　　子念昔貧，　　志意下劣，
-今於父所，　　大獲珍寶，　　并及舍宅、
-一切財物。　　甚大歡喜，　　得未曾有。
-佛亦如是，　　知我樂小，　　未曾說言：
-『汝等作佛。』　　而說我等，　　得諸無漏，
-成就小乘，　　聲聞弟子。　　佛勅我等，
-說最上道，　　修習此者，　　當得成佛。
-我承佛教，　　為大菩薩，　　以諸因緣、
-種種譬喻、　　若干言辭，　　說無上道。
-諸佛子等、　　從我聞法，　　日夜思惟，
-精勤修習。　　是時諸佛，　　即授其記：
-『汝於來世，　　當得作佛。』　　一切諸佛，
-祕藏之法，　　但為菩薩，　　演其實事，
-而不為我，　　說斯真要。　　如彼窮子、
-得近其父，　　雖知諸物，　　心不希取。
-我等雖說，　　佛法寶藏，　　自無志願，
-亦復如是。　　我等內滅，　　自謂為足，
-唯了此事，　　更無餘事。　　我等若聞，
-淨佛國土，　　教化眾生，　　都無欣樂。
-所以者何？　　一切諸法，　　皆悉空寂，
-無生無滅，　　無大無小，　　無漏無為。
-如是思惟，　　不生喜樂。　　我等長夜，
-於佛智慧，　　無貪無著，　　無復志願；
-而自於法，　　謂是究竟。　　我等長夜，
-修習空法，　　得脫三界，　　苦惱之患，
-住最後身、　　有餘涅槃。　　佛所教化，
-得道不虛，　　則為已得，　　報佛之恩。
-我等雖為，　　諸佛子等，　　說菩薩法，
-以求佛道；　　而於是法，　　永無願樂。
-導師見捨，　　觀我心故，　　初不勸進，
-說有實利。　　如富長者，　　知子志劣，
-以方便力，　　柔伏其心，　　然後乃付，
-一切財物。
-佛亦如是，　　現希有事，　　知樂小者，
-以方便力，　　調伏其心，　　乃教大智。
-我等今日，　　得未曾有，　　非先所望，
-而今自得，　　如彼窮子，　　得無量寶。
-世尊我今，　　得道得果，　　於無漏法，
-得清淨眼。　　我等長夜，　　持佛淨戒，
-始於今日，　　得其果報，　　法王法中，
-久修梵行，　　今得無漏，　　無上大果。
-我等今者，　　真是聲聞，　　以佛道聲，
-令一切聞。　　我等今者，　　真阿羅漢，
-於諸世間，　　天人魔梵，　　普於其中，
-應受供養。　　世尊大恩，　　以希有事，
-憐愍教化，　　利益我等，　　無量億劫，
-誰能報者。　　手足供給，　　頭頂禮敬，
-一切供養，　　皆不能報。　　若以頂戴，
-兩肩荷負，　　於恒沙劫，　　盡心恭敬；
-又以美饍、　　無量寶衣，　　及諸臥具、
-種種湯藥，　　牛頭栴檀，　　及諸珍寶，
-以起塔廟，　　寶衣布地。　　如斯等事，
-以用供養，　　於恒沙劫，　　亦不能報。
-諸佛希有，　　無量無邊，　　不可思議，
-大神通力，　　無漏無為，　　諸法之王。
-能為下劣，　　忍于斯事，　　取相凡夫，
-隨宜為說。　　諸佛於法，　　得最自在，
-知諸眾生，　　種種欲樂，　　及其志力。
-隨所堪任，　　以無量喻，　　而為說法。
-隨諸眾生，　　宿世善根，　　又知成熟、
-未成熟者，　　種種籌量，　　分別知已，
-於一乘道、　　隨宜說三。」
+「我等今日，聞佛音教，歡喜踊躍，得未曾有。
+
+Today, we have heard the teachings of the Buddha's voice and are overjoyed and enthusiastic, having gained something never before obtained.
+
+佛說聲聞，當得作佛，無上寶聚，不求自得。
+
+The Buddha says that those who follow the teachings of the Sound Hearer will become Buddha and attain supreme treasure without seeking it.
+
+譬如童子，幼稚無識，捨父逃逝，遠到他土，周流諸國，五十餘年。
+
+Just like a child who is young and ignorant, he abandoned his father and fled far away to a foreign land, wandering in various countries for over fifty years.
+
+其父憂念，四方推求，求之既疲，頓止一城，造立舍宅，五欲自娛。
+
+His father was worried and searched in all directions, and after tireless searching, he finally stopped in a city and built a house to entertain himself with the five desires.
+
+其家巨富，多諸金銀、車𤦲馬腦、真珠琉璃；象馬牛羊、輦輿車乘；
+
+His family is extremely wealthy, with a lot of gold, silver, carriages and horses, pearls and glass, elephants, horses, oxen, sheep, and carriages.
+
+田業僮僕、人民眾多。
+
+They have farming land and servants, and many people.
+
+出入息利，乃遍他國，商估賈人、無處不有。
+
+They are prosperous and go everywhere, with merchants and merchants everywhere.
+
+千萬億眾，圍繞恭敬，常為王者，之所愛念，群臣豪族，皆共宗重。
+
+Millions and billions of people surround them with respect and are often loved and remembered by the king, and the noblemen and the aristocracy are all together important.
+
+以諸緣故，往來者眾，豪富如是，有大力勢。
+
+For various reasons, there are many people who come and go, and they are rich and powerful.
+
+而年朽邁，益憂念子，夙夜惟念，死時將至。
+
+But as they grow old, they become increasingly worried about their son and think about him day and night.
+
+癡子捨我，五十餘年，庫藏諸物，當如之何？
+
+As they approach death, they wonder what will happen to their wealth, which includes all their possessions, after the foolish son left them for over fifty years.
+
+爾時窮子，求索衣食，從邑至邑、從國至國。
+
+At that time, the poor son went from city to city and from country to country seeking food and clothing.
+
+或有所得，或無所得，飢餓羸瘦，體生瘡癬。
+
+Sometimes he obtained it, sometimes he did not, and he was hungry, emaciated, and suffering from sores and skin diseases.
+
+漸次經歷，到父住城，傭賃展轉，遂至父舍。
+
+Gradually, he went through various experiences until he arrived at his father's city. He worked as a hired laborer, going from place to place until he finally arrived at his father's house. 
+
+爾時長者，於其門內，施大寶帳，處師子座；
+
+At that time, the elder was sitting inside his gate, under a large treasure canopy, on a teacher's seat. 
+
+眷屬圍遶，諸人侍衛，或有計算，金銀寶物，出內財產，注記券䟽。
+
+His family and servants surrounded him, and some of them were counting and recording the treasure and wealth inside.
+
+窮子見父，豪貴尊嚴，謂是國王，若是王等。
+
+When the poor son saw his father, who was wealthy and honored, he thought he was a king or someone of similar rank.
+
+驚怖自怪，何故至此。
+
+He was surprised and wondered how this had happened.
+
+覆自念言：『我若久住，或見逼迫，強驅使作。』
+
+He thought to himself, "If I stay here for a long time, I may be forced to do something against my will."
+
+思惟是已，馳走而去，借問貧里，欲往傭作。
+
+Thinking this, he ran away and asked for work in a poor neighborhood, hoping to work as a hired laborer.
+
+長者是時，在師子座，遙見其子，默而識之。
+
+At that time, the elder, sitting on the teacher's seat, saw his son from a distance and recognized him without speaking.
+
+即勅使者，追捉將來。窮子驚喚，迷悶躄地：
+
+He immediately ordered the messenger to capture him. The poor son was frightened and stumbled in confusion, shouting,
+
+『是人執我，必當見殺，何用衣食，使我至此？』
+
+"This person is holding me, he will surely kill me. What use is food and clothing, bringing me to this place?"
+
+長者知子，愚癡狹劣，不信我言，不信是父。
+
+The elder knew that his son was foolish and narrow-minded, and did not believe in his words or believe that he was his father.
+
+即以方便，更遣餘人，眇目矬陋，無威德者：
+
+So he used convenience and sent more people, with mean eyes and no dignity,
+
+『汝可語之，云當相雇，除諸糞穢，倍與汝價。』
+
+"You can talk to him and say that you will hire each other, remove all filth and dirt, and double your price."
+
+窮子聞之，歡喜隨來，為除糞穢，淨諸房舍。
+
+The poor son heard this and came with joy, to clean the rooms of filth and dirt.
+
+長者於牖，常見其子，念子愚劣，樂為鄙事。
+
+The elder, from the window, often saw his son and remembered his foolishness, and was happy to do menial tasks.
+
+於是長者，著弊垢衣，執除糞器，往到子所，方便附近，語令勤作：
+
+So the elder put on dirty clothes, took a filth removal tool, and went to where his son was, conveniently nearby, and ordered him to work hard.
+
+『既益汝價，并塗足油，飲食充足，薦席厚煖。』
+
+"Since you are getting more pay, I will also provide you with enough food and oil to keep you warm, and a thick bed to sleep on."
+
+如是苦言：『汝當勤作。』
+
+He spoke these harsh words, saying, "You should work hard."
+
+又以軟語：『若如我子。』
+
+And with soft words, he said, "Just like my son."
+
+長者有智，漸令入出，經二十年，執作家事。
+
+The elder was wise and gradually allowed him to come and go, and after twenty years, he was in charge of household affairs.
+
+示其金銀、真珠頗梨；諸物出入，皆使令知。
+
+He showed him gold and silver, precious pearls, and everything that came in and out, making sure he knew about it.
+
+猶處門外，止宿草庵，自念貧事：『我無此物。』
+
+Even though he lived outside the door, sleeping in a grass hut, he thought to himself, "I don't have these things."
+
+父知子心，漸已廣大，欲與財物。
+
+The father knew his son's heart, and it had already grown much, so he wanted to give him his wealth.
+
+即聚親族、國王大臣、剎利居士。
+
+So he gathered his relatives, the king, the ministers, and the wealthy laypeople.
+
+於此大眾，說是我子，捨我他行，經五十歲。
+
+In front of this large crowd, he declared that he was his son, who had left him and lived elsewhere for fifty years.
+
+自見子來，已二十年。昔於某城，而失是子，周行求索，遂來至此。
+
+Since he saw his son coming, it has been twenty years. In the past, in a certain city, he lost his son, searched from place to place, and finally came here.
+
+凡我所有，舍宅人民，悉以付之，恣其所用。
+
+All that he owns, his house and people, he gave to him to use as he wishes.
+
+子念昔貧，志意下劣，今於父所，大獲珍寶，并及舍宅、一切財物。
+
+The son remembered his past poverty and had a low ambition, but now at his father's place, he has gained great treasures, as well as his house and all his wealth.
+
+甚大歡喜，得未曾有。
+
+He was extremely happy and had never had this before.
+
+佛亦如是，知我樂小，未曾說言：
+
+The Buddha was also like this. He knew that I was content with little and never said,
+
+『汝等作佛。』
+
+"You should all become Buddhas."
+
+而說我等，得諸無漏，成就小乘，聲聞弟子。
+
+But he said that we would all attain the unconditioned and become members of the Buddhist community.
+
+佛勅我等，說最上道，修習此者，當得成佛。
+
+The Buddha urged us to cultivate the supreme path and said that whoever practices it will become a Buddha.
+
+我承佛教，為大菩薩，以諸因緣、種種譬喻、若干言辭，說無上道。
+
+I followed the Buddha's teachings and became a great bodhisattva, using various causes and conditions, various analogies, and various words to explain the supreme path.
+
+諸佛子等、從我聞法，日夜思惟，精勤修習。
+
+All the Buddhist disciples, including me, heard the teachings from me and thought about them day and night, working diligently to practice.
+
+是時諸佛，即授其記：
+
+At that time, all the Buddhas gave us their memories, saying,
+
+『汝於來世，當得作佛。』
+
+"In the future, you will become Buddhas."
+
+一切諸佛，祕藏之法，但為菩薩，演其實事，而不為我，說斯真要。
+
+All the Buddhas have secret teachings, but they only demonstrate real actions for the benefit of bodhisattvas, not for themselves, in order to explain the true essence.
+
+如彼窮子、得近其父，雖知諸物，心不希取。
+
+Like that poor child who got close to his father, even though he knew about all the things, his heart did not desire them.
+
+我等雖說，佛法寶藏，自無志願，亦復如是。
+
+Although we say that the teachings of the Buddha are a treasure, we ourselves have no intention or desire for them.
+
+我等內滅，自謂為足，唯了此事，更無餘事。
+
+We have internally destroyed our ignorance, and think that is enough, only understanding this one thing and nothing else.
+
+我等若聞，淨佛國土，教化眾生，都無欣樂。
+
+If we were to hear about the pure Buddha-land and teach sentient beings, we would not experience any joy.
+
+所以者何？
+
+Why is this so?
+
+一切諸法，皆悉空寂，無生無滅，無大無小，無漏無為。
+
+All phenomena are ultimately empty and quiet, without birth or destruction, without size or smallness, without defilement or doing.
+
+如是思惟，不生喜樂。
+
+Thinking in this way, there is no birth of joy.
+
+我等長夜，於佛智慧，無貪無著，無復志願；而自於法，謂是究竟。
+
+We, for a long time, in the wisdom of the Buddha, have no greed, attachment, or desire for anything, and consider the Dharma to be ultimate.
+
+我等長夜，修習空法，得脫三界，苦惱之患，住最後身、有餘涅槃。
+
+We have been practicing the teachings of emptiness, freeing ourselves from the suffering in the three realms and reaching the ultimate body and the ultimate nirvana.
+
+佛所教化，得道不虛，則為已得，報佛之恩。
+
+By being taught by the Buddha, one has obtained the truth and it is considered to have been achieved, repaying the kindness of the Buddha.
+
+我等雖為，諸佛子等，說菩薩法，以求佛道；
+
+Although we are among the Buddha's disciples, we speak of the bodhisattva teachings in order to seek the Buddha's path.
+
+而於是法，永無願樂。
+
+And in this Dharma, there is forever no desire for pleasure.
+
+導師見捨，觀我心故，初不勸進，說有實利。
+
+Our teacher sees our renunciation and understands our hearts, so he did not initially urge us to progress, but instead spoke of practical benefits.
+
+如富長者，知子志劣，以方便力，柔伏其心，然後乃付，一切財物。
+
+Just like a wealthy father who knows his son is lacking ambition, he uses his power of influence to soften the son's heart, and then entrusts all his wealth to him.
+
+佛亦如是，現希有事，知樂小者，以方便力，調伏其心，乃教大智。
+
+The Buddha is also like this. He shows the benefits of things in order to influence and pacify those who have a limited understanding of joy.
+
+我等今日，得未曾有，非先所望，而今自得，如彼窮子，得無量寶。
+
+Today, we have obtained something we have never had before, something we did not expect to attain, just like the poor son who obtained countless treasures.
+
+世尊我今，得道得果，於無漏法，得清淨眼。
+
+Oh great one, we have now obtained the fruit of the path, and have gained the pure eye of the non-dual teachings.
+
+我等長夜，持佛淨戒，始於今日，得其果報，
+
+We have spent many nights upholding the pure commandments of the Buddha, and today we have received the fruits of our actions. 
+
+法王法中，久修梵行，今得無漏，無上大果。
+
+In the Dharma King's teachings, we have been practicing good deeds for a long time, and now we have achieved the incomparable great fruit of non-duality.
+
+我等今者，真是聲聞，以佛道聲，令一切聞。
+
+We are now truly enlightened listeners, spreading the teachings of the Buddha to all who will listen.
+
+我等今者，真阿羅漢，於諸世間，天人魔梵，普於其中，應受供養。
+
+We who are now present are truly Arhats. In all the world, among the gods, humans, demons, and Brahmas, we should be universally honored.
+
+世尊大恩，以希有事，憐愍教化，利益我等，無量億劫，誰能報者。
+
+The great kindness of the World-Honored One, being compassionate and wishing to benefit us, has taught and transformed us for countless kalpas. Who can repay such a debt?
+
+手足供給，頭頂禮敬，一切供養，皆不能報。若以頂戴，兩肩荷負，於恒沙劫，盡心恭敬；
+
+Not even offering our hands, feet, heads, or shoulders as a gift, bowing respectfully with our heads to the ground for countless kalpas, can repay the debt.
+
+又以美饍、無量寶衣，及諸臥具、種種湯藥，牛頭栴檀，及諸珍寶，以起塔廟，寶衣布地。如斯等事，以用供養，於恒沙劫，亦不能報。
+
+Even if we were to use fine food, unlimited treasures of clothing, various bedding, and various soups and medicines, sandalwood, and various treasures to construct towers and temples, and use precious cloth as the ground, these things could not repay the debt even in countless kalpas.
+
+諸佛希有，無量無邊，不可思議，大神通力，無漏無為，諸法之王。
+
+All Buddhas are immeasurable and boundless, beyond imagination, possessing great supernatural powers, without defilements and without actions, the king of all phenomena.
+
+能為下劣，忍于斯事，取相凡夫，隨宜為說。
+
+Being able to endure things that are considered low and take the form of ordinary people, and speak in a way that is appropriate.
+
+諸佛於法，得最自在，知諸眾生，種種欲樂，及其志力。
+
+The Buddhas are at ease in the teachings and know the various desires and aspirations of all sentient beings.
+
+隨所堪任，以無量喻，而為說法。
+
+In accordance with what is appropriate, they use limitless analogies to explain the teachings.
+
+隨諸眾生，宿世善根，又知成熟、未成熟者，種種籌量，分別知已，於一乘道、隨宜說三。
+
+In accordance with the good roots of living beings from their past lives, the Buddhas know what is mature and what is not, and with various calculations, they distinguish what is already there and, in accordance with the One Vehicle, they appropriately explain the Three Vehicles.
