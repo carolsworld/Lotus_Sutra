@@ -2,7 +2,7 @@ A translation of Lotus Sutra from Chinese to English using ChatGPT (date: 18 - 1
 
 妙法蓮華經藥草喻品第五
 
-The Lotus Sutra, Chapter on Medicinal Herbs, Chapter 5.
+The Lotus Sutra, Chapter on Parable of the Medicinal Herbs, Chapter 5.
 
 爾時世尊告摩訶迦葉及諸大弟子：
 
