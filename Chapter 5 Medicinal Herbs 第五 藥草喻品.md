@@ -1,91 +1,249 @@
-A translation of Lotus Sutra from Chinese to English using ChatGPT (date: 18 Feb 2023)
+A translation of Lotus Sutra from Chinese to English using ChatGPT (date: 18 - 19 Feb 2023)
 
 妙法蓮華經藥草喻品第五
 
 The Lotus Sutra, Chapter on Medicinal Herbs, Chapter 5.
 
-爾時世尊告摩訶迦葉及諸大弟子：「善哉，善哉！迦葉善說如來真實功德。誠如所言，如來復有無量無邊阿僧祇功德，汝等若於無量億劫說不能盡。迦葉！當知如來是諸法之王，若有所說皆不虛也。於一切法，以智方便而演說之，其所說法，皆悉到於一切智地。如來觀知一切諸法之所歸趣，亦知一切眾生深心所行，通達無礙；又於諸法究盡明了，示諸眾生一切智慧。
+爾時世尊告摩訶迦葉及諸大弟子：
+At that time, the World-Honored One spoke to Mahakasyapa and all the great disciples, saying:
 
-「迦葉！譬如三千大千世界，山川谿谷土地所生卉木叢林及諸藥草，種類若干，名色各異。密雲彌布，遍覆三千大千世界，一時等澍，其澤普洽。卉木叢林及諸藥草，小根小莖、小枝小葉，中根中莖、中枝中葉，大根大莖、大枝大葉，諸樹大小，隨上中下各有所受。一雲所雨，稱其種性而得生長華菓敷實。雖一地所生，一雨所潤，而諸草木，各有差別。
+「善哉，善哉！
 
-「迦葉！當知如來亦復如是，出現於世，如大雲起，以大音聲普遍世界天、人、阿修羅，如彼大雲遍覆三千大千國土。於大眾中、而唱是言：『我是如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊，未度者令度，未解者令解，未安者令安，未涅槃者令得涅槃，今世後世，如實知之。我是一切知者、一切見者、知道者、開道者、說道者，汝等天、人、阿修羅眾，皆應到此，為聽法故。』爾時無數千萬億種眾生，來至佛所而聽法。如來于時，觀是眾生諸根利鈍、精進懈怠，隨其所堪而為說法，種種無量，皆令歡喜，快得善利。是諸眾生聞是法已，現世安隱，後生善處，以道受樂，亦得聞法。既聞法已，離諸障礙，於諸法中，任力所能，漸得入道。如彼大雲，雨於一切卉木叢林及諸藥草，如其種性，具足蒙潤，各得生長。
+"Excellent, excellent!
 
-「如來說法，一相一味——所謂：解脫相、離相、滅相，究竟至於一切種智。其有眾生聞如來法，若持讀誦，如說修行，所得功德，不自覺知。所以者何？唯有如來知此眾生種相體性，念何事、思何事、修何事，云何念、云何思、云何修，以何法念、以何法思、以何法修，以何法得何法。眾生住於種種之地，唯有如來如實見之，明了無礙。如彼卉木叢林諸藥草等，而不自知上中下性。如來知是一相一味之法——所謂：解脫相、離相、滅相——究竟涅槃常寂滅相，終歸於空。佛知是已，觀眾生心欲而將護之，是故不即為說一切種智。
+迦葉善說如來真實功德。
 
-「汝等，迦葉！甚為希有，能知如來隨宜說法，能信能受。所以者何？諸佛世尊隨宜說法，難解難知。」
+Kasyapa, you have spoken well of the Tathagata's true virtues.
+
+誠如所言，如來復有無量無邊阿僧祇功德，汝等若於無量億劫說不能盡。
+
+Indeed, as you have said, the Tathagata has immeasurable and boundless virtues that cannot be fully described even over countless eons.
+
+迦葉！當知如來是諸法之王，若有所說皆不虛也。
+
+Kasyapa, you should know that the Tathagata is the king of all dharmas, and everything he says is not false.
+
+於一切法，以智方便而演說之，其所說法，皆悉到於一切智地。
+
+In speaking of all dharmas, he uses skillful means and wisdom, and everything he teaches is understood by all levels of wisdom.
+
+如來觀知一切諸法之所歸趣，亦知一切眾生深心所行，通達無礙；
+
+The Tathagata knows the ultimate destination of all dharmas, as well as the deepest intentions and actions of all sentient beings, without hindrance.
+
+又於諸法究盡明了，示諸眾生一切智慧。
+
+Moreover, he has fully comprehended all dharmas, and reveals to all sentient beings all forms of wisdom."
+
+「迦葉！
+"Kasyapa!
+
+譬如三千大千世界，山川谿谷土地所生卉木叢林及諸藥草，種類若干，名色各異。
+For example, in the three thousand great thousand worlds, the herbs, trees, forests, and various medicinal plants that grow in the mountains, rivers, valleys, and lands are numerous in species and varied in name and appearance.
+
+密雲彌布，遍覆三千大千世界，一時等澍，其澤普洽。
+When the dense clouds cover the sky, they pour down rain all over the three thousand great thousand worlds at the same time, and their moisture saturates everything.
+
+卉木叢林及諸藥草，小根小莖、小枝小葉，中根中莖、中枝中葉，大根大莖、大枝大葉，諸樹大小，隨上中下各有所受。
+The herbs, trees, and forests have small roots, stems, branches, and leaves, medium-sized roots, stems, branches, and leaves, or large roots, stems, branches, and leaves, and they grow differently according to their position, whether high, medium, or low.
+
+一雲所雨，稱其種性而得生長華菓敷實。雖一地所生，一雨所潤，而諸草木，各有差別。
+With the rain that falls from the clouds, they grow flowers and bear fruit according to their respective characteristics. Even though they are grown in the same place and nourished by the same rain, the various plants and trees are all different."
+
+「迦葉！
+"Kasyapa!
+
+當知如來亦復如是，出現於世，如大雲起，以大音聲普遍世界天、人、阿修羅，如彼大雲遍覆三千大千國土。
+You should know that the Tathagata also appears in the world like a great cloud, with a loud voice that reaches all the realms of the world, including gods, humans, and asuras, just like that great cloud that covers the land of the three thousand great thousand worlds.
+
+於大眾中、而唱是言：
+He appears in the midst of the great assembly and proclaims the following words:
+
+『我是如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊，
+
+"I am the Tathagata, worthy of offerings, perfect in knowledge and conduct, well-gone, knower of the world, unsurpassed, leader of persons to be tamed, teacher of gods and humans, Buddha, the World-Honored One. 
+
+未度者令度，未解者令解，未安者令安，未涅槃者令得涅槃，
+
+I enable those who have not been liberated to attain liberation, those who have not understood to understand, those who are not at peace to be at peace, and those who have not attained Nirvana to attain Nirvana. 
+
+今世後世，如實知之。
+
+In this present life and in future lives, I know this to be true.
+
+我是一切知者、一切見者、知道者、開道者、說道者，汝等天、人、阿修羅眾，皆應到此，為聽法故。』
+
+I am the knower of all things, the seer of all things, the discoverer of truth, the revealer of truth, and the teacher of truth. Gods, humans, and asuras should all come here to listen to my teachings."
+
+爾時無數千萬億種眾生，來至佛所而聽法。
+
+At that time, innumerable beings, numbering in the billions and trillions, came to listen to the Buddha's teachings.
+
+如來于時，觀是眾生諸根利鈍、精進懈怠，隨其所堪而為說法，種種無量，皆令歡喜，快得善利。
+
+At that time, the Tathagata observed the faculties of these beings and their diligence and laziness, and taught them according to their capabilities, using various methods to bring them joy and benefit.
+
+是諸眾生聞是法已，現世安隱，後生善處，以道受樂，亦得聞法。
+When these beings heard the Dharma, they found peace and security in the present life, were born in good places in future lives, enjoyed happiness by following the path, and they were also able to hear the teachings. 
+
+既聞法已，離諸障礙，於諸法中，任力所能，漸得入道。
+
+Once they had heard the teachings, they overcame all obstacles and gradually advanced on the path of practice.
+
+如彼大雲，雨於一切卉木叢林及諸藥草，如其種性，具足蒙潤，各得生長。
+Just as a great cloud rains on all the forests, trees, and various medicinal plants, nourishing them according to their nature, enabling them to grow and thrive.
+
+「如來說法，一相一味 - 所謂：解脫相、離相、滅相，究竟至於一切種智。
+
+When the Tathagata expounds the Dharma, it is characterized by one nature and one flavor, which are as follows: the nature of liberation, the nature of detachment, and the nature of cessation, which ultimately lead to all kinds of wisdom.
+
+其有眾生聞如來法，若持讀誦，如說修行，所得功德，不自覺知。
+
+When sentient beings hear the Dharma of the Tathagata, and practice it by reciting and upholding it, they attain merit without realizing it themselves. 
+
+所以者何？
+
+Why is this so?
+
+唯有如來知此眾生種相體性，念何事、思何事、修何事，云何念、云何思、云何修，以何法念、以何法思、以何法修，以何法得何法。
+
+It is only the Tathagata who knows the characteristics and essence of sentient beings, what they think about, what they contemplate on, and what they practice, and how they do so. The Tathagata knows how they think, how they contemplate, and how they practice, and by what means they attain what they attain.
+
+眾生住於種種之地，唯有如來如實見之，明了無礙。
+
+Sentient beings dwell in all sorts of places, but only the Tathagata truly sees them as they are, with no obstructions to his understanding.
+
+如彼卉木叢林諸藥草等，而不自知上中下性。
+
+Just as the herbs, trees, and forests do not know their own high, middle, or low position.
+
+如來知是一相一味之法 - 所謂：解脫相、離相、滅相 - 究竟涅槃常寂滅相，終歸於空。
+
+The Tathagata knows that the Dharma is characterized by one nature and one flavor, which are as follows: the nature of liberation, the nature of detachment, and the nature of cessation. Ultimately, they lead to the extinction of all phenomena and the attainment of the emptiness of nirvana.
+
+佛知是已，觀眾生心欲而將護之，是故不即為說一切種智。
+
+The Buddha knows this, and protects the desires of sentient beings. Therefore, he does not immediately expound all kinds of wisdom.
+
+「汝等，迦葉！甚為希有，能知如來隨宜說法，能信能受。
+
+"Kasyapa and all other great disciples! It is very rare to find someone who knows that the Tathagata teaches the Dharma according to the situation and who can have faith and receive it.
+
+所以者何？
+
+Why is this so?
+
+諸佛世尊隨宜說法，難解難知。」
+
+Because the Buddhas and Tathagatas expound the Dharma according to the situation, it is difficult to understand and know.
 
 爾時世尊欲重宣此義，而說偈言：
 
-「破有法王，　　出現世間，　　隨眾生欲，
-種種說法。　　如來尊重，　　智慧深遠，
-久默斯要，　　不務速說。　　有智若聞，
-則能信解；　　無智疑悔，　　則為永失。
-是故迦葉！　　隨力為說，　　以種種緣，
-令得正見。　　迦葉當知！　　譬如大雲，
-起於世間，　　遍覆一切；　　慧雲含潤，
-電光晃曜，　　雷聲遠震，　　令眾悅豫。
-日光掩蔽，　　地上清涼，　　靉靆垂布、
-如可承攬。　　其雨普等，　　四方俱下，
-流澍無量，　　率土充洽。　　山川險谷、
-幽邃所生，　　卉木藥草，　　大小諸樹，
-百穀苗稼，　　甘蔗蒲萄，　　雨之所潤，
-無不豐足，　　乾地普洽，　　藥木竝茂。
-其雲所出，　　一味之水，　　草木叢林，
-隨分受潤。　　一切諸樹，　　上中下等，
-稱其大小，　　各得生長，　　根莖枝葉，
-華菓光色，　　一雨所及，　　皆得鮮澤。
-如其體相，　　性分大小，　　所潤是一，
-而各滋茂。　　佛亦如是，　　出現於世，
-譬如大雲，　　普覆一切。　　既出于世，
-為諸眾生，　　分別演說，　　諸法之實。
-大聖世尊，　　於諸天人、　　一切眾中，
-而宣是言：　　『我為如來，　　兩足之尊，
-出于世間，　　猶如大雲，　　充潤一切。
-枯槁眾生，　　皆令離苦，　　得安隱樂——
-世間之樂，　　及涅槃樂。　　諸天人眾，
-一心善聽，　　皆應到此，　　覲無上尊。』
-我為世尊，　　無能及者，　　安隱眾生，
-故現於世。　　為大眾說，　　甘露淨法，
-其法一味，　　解脫涅槃。　　以一妙音、
-演暢斯義，　　常為大乘，　　而作因緣。
-我觀一切，　　普皆平等，　　無有彼此，
-愛憎之心。　　我無貪著，　　亦無限礙，
-恒為一切，　　平等說法。　　如為一人，
-眾多亦然，　　常演說法，　　曾無他事。
-去來坐立，　　終不疲厭，　　充足世間，
-如雨普潤。　　貴賤上下，　　持戒毀戒，
-威儀具足，　　及不具足，　　正見邪見，
-利根鈍根，　　等雨法雨，　　而無懈倦。
-一切眾生，　　聞我法者，　　隨力所受，
-住於諸地。　　或處人天，　　轉輪聖王，
-釋梵諸王，　　是小藥草。　　知無漏法，
-能得涅槃，　　起六神通，　　及得三明，
-獨處山林，　　常行禪定，　　得緣覺證，
-是中藥草。　　求世尊處，　　我當作佛，
-行精進定，　　是上藥草。　　又諸佛子，
-專心佛道，　　常行慈悲，　　自知作佛，
-決定無疑，　　是名小樹。　　安住神通，
-轉不退輪，　　度無量億、　　百千眾生，
-如是菩薩，　　名為大樹。　　佛平等說，
-如一味雨；　　隨眾生性，　　所受不同，
-如彼草木，　　所稟各異。　　佛以此喻，
-方便開示，　　種種言辭，　　演說一法，
-於佛智慧，　　如海一渧。　　我雨法雨，
-充滿世間，　　一味之法，　　隨力修行。
-如彼叢林，　　藥草諸樹，　　隨其大小，
-漸增茂好。　　諸佛之法，　　常以一味，
-令諸世間，　　普得具足，　　漸次修行，
-皆得道果。　　聲聞緣覺，　　處於山林，
-住最後身，　　聞法得果，　　是名藥草，
-各得增長。　　若諸菩薩，　　智慧堅固，
-了達三界，　　求最上乘，　　是名小樹，
-而得增長。　　復有住禪，　　得神通力，
-聞諸法空，　　心大歡喜，　　放無數光，
-度諸眾生，　　是名大樹，　　而得增長。
-如是迦葉！　　佛所說法，　　譬如大雲，
-以一味雨，　　潤於人華，　　各得成實。
-迦葉當知！　　以諸因緣、　　種種譬喻，
-開示佛道，　　是我方便，　　諸佛亦然。
-今為汝等，　　說最實事：　　『諸聲聞眾，
-皆非滅度。　　汝等所行，　　是菩薩道，
-漸漸修學，　　悉當成佛。』」
+At that time, the World-Honored One, desiring to reiterate this meaning, spoke a verse:
+
+「破有法王，出現世間，隨眾生欲，種種說法。
+
+如來尊重，智慧深遠，久默斯要，不務速說。
+
+有智若聞，則能信解；無智疑悔，則為永失。
+
+是故迦葉！
+
+隨力為說，以種種緣，令得正見。
+
+迦葉當知！
+
+譬如大雲，起於世間，遍覆一切；
+
+慧雲含潤，電光晃曜，雷聲遠震，令眾悅豫。
+
+日光掩蔽，地上清涼，靉靆垂布、如可承攬。
+
+其雨普等，四方俱下，流澍無量，率土充洽。
+
+山川險谷、幽邃所生，卉木藥草，大小諸樹，百穀苗稼，甘蔗蒲萄，雨之所潤，無不豐足，乾地普洽，藥木竝茂。
+
+
+
+
+
+
+
+其雲所出，一味之水，草木叢林，隨分受潤。
+
+一切諸樹，上中下等，稱其大小，各得生長，根莖枝葉，華菓光色，一雨所及，皆得鮮澤。
+
+如其體相，性分大小，所潤是一，而各滋茂。
+
+佛亦如是，出現於世，譬如大雲，普覆一切。
+
+既出于世，為諸眾生，分別演說，諸法之實。
+
+大聖世尊，於諸天人、一切眾中，而宣是言：
+
+『我為如來，兩足之尊，出于世間，猶如大雲，充潤一切。
+
+枯槁眾生，皆令離苦，得安隱樂——世間之樂，及涅槃樂。
+
+諸天人眾，一心善聽，皆應到此，覲無上尊。』
+
+我為世尊，無能及者，安隱眾生，故現於世。
+
+為大眾說，甘露淨法，其法一味，解脫涅槃。
+
+以一妙音、演暢斯義，常為大乘，而作因緣。
+
+我觀一切，普皆平等，無有彼此，愛憎之心。
+
+我無貪著，亦無限礙，恒為一切，平等說法。
+
+如為一人，眾多亦然，常演說法，曾無他事。
+
+去來坐立，終不疲厭，充足世間，如雨普潤。
+
+貴賤上下，持戒毀戒，威儀具足，及不具足，正見邪見，利根鈍根，等雨法雨，而無懈倦。
+
+一切眾生，聞我法者，隨力所受，住於諸地。
+
+或處人天，轉輪聖王，釋梵諸王，是小藥草。
+
+知無漏法，能得涅槃，起六神通，及得三明，獨處山林，常行禪定，得緣覺證，是中藥草。
+
+求世尊處，我當作佛，行精進定，是上藥草。
+
+又諸佛子，專心佛道，常行慈悲，自知作佛，決定無疑，是名小樹。
+
+安住神通，轉不退輪，度無量億、百千眾生，如是菩薩，名為大樹。
+
+佛平等說，如一味雨；
+
+隨眾生性，所受不同，如彼草木，所稟各異。
+
+佛以此喻，方便開示，種種言辭，演說一法，於佛智慧，如海一渧。
+
+我雨法雨，充滿世間，一味之法，隨力修行。
+
+如彼叢林，藥草諸樹，隨其大小，漸增茂好。
+
+諸佛之法，常以一味，令諸世間，普得具足，漸次修行，皆得道果。
+
+聲聞緣覺，處於山林，住最後身，聞法得果，是名藥草，各得增長。
+
+若諸菩薩，智慧堅固，了達三界，求最上乘，是名小樹，而得增長。
+
+復有住禪，得神通力，聞諸法空，心大歡喜，放無數光，度諸眾生，是名大樹，而得增長。
+
+如是迦葉！
+
+佛所說法，譬如大雲，以一味雨，潤於人華，各得成實。
+
+迦葉當知！
+
+以諸因緣、種種譬喻，開示佛道，是我方便，諸佛亦然。
+
+今為汝等，說最實事：
+
+『諸聲聞眾，皆非滅度。
+
+汝等所行，是菩薩道，漸漸修學，悉當成佛。』」
+
