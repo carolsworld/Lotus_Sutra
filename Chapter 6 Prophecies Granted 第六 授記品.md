@@ -4,7 +4,37 @@ A translation of Lotus Sutra from Chinese to English using ChatGPT (date: 20 Feb
 
 The Lotus Sutra, Chapter on Prophecies Granted, Chapter 5.
 
-爾時世尊說是偈已，告諸大眾，唱如是言：「我此弟子摩訶迦葉，於未來世，當得奉覲三百萬億諸佛世尊，供養恭敬，尊重讚歎，廣宣諸佛無量大法。於最後身，得成為佛，名曰光明如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。國名光德，劫名大莊嚴。佛壽十二小劫，正法住世二十小劫，像法亦住二十小劫。國界嚴飾，無諸穢惡、瓦礫荊棘、便利不淨。其土平正，無有高下、坑坎堆阜。琉璃為地，寶樹行列，黃金為繩，以界道側，散諸寶華，周遍清淨。其國菩薩無量千億，諸聲聞眾亦復無數，無有魔事，雖有魔及魔民，皆護佛法。」
+爾時世尊說是偈已，告諸大眾，唱如是言：
+
+At that time, the World-Honored One spoke this verse and said to the great assembly, singing these words:
+
+「我此弟子摩訶迦葉，於未來世，當得奉覲三百萬億諸佛世尊，供養恭敬，尊重讚歎，廣宣諸佛無量大法。
+
+"My disciple Mahakasyapa, in a future world, will receive and pay homage to three hundred trillion Buddhas, offering respectful service, honor, and praise, widely proclaiming the immeasurable great teachings of the Buddhas.
+
+於最後身，得成為佛，名曰光明如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。
+
+In his final body, he will attain Buddhahood, named the Tathagata Glorious Light, Worthy of Offerings, Perfectly Enlightened, Endowed with Knowledge and Conduct, Well-Departed, Knower of the World, Unsurpassed Hero, Tamer of Beings, Teacher of Devas and Humans, Buddha, World-Honored One.
+
+國名光德，劫名大莊嚴。佛壽十二小劫，正法住世二十小劫，像法亦住二十小劫。
+
+The name of his country will be Glorious Virtue, and the name of the eon will be Great Adornment. He will have a life span of twelve small eons and the True Dharma will last for twenty small eons, and the semblance Dharma will also last for twenty small eons.
+
+國界嚴飾，無諸穢惡、瓦礫荊棘、便利不淨。
+
+The boundaries of his country will be adorned with no filth or defilement, rubble or thorns, and will be conveniently pure.
+
+其土平正，無有高下、坑坎堆阜。
+
+The land will be level, without high or low points, ditches, ridges or mounds.
+
+琉璃為地，寶樹行列，黃金為繩，以界道側，散諸寶華，周遍清淨。
+
+The land will be of lapis lazuli, with rows of precious trees and golden cords marking the boundary paths, scattering flowers and enveloped in purity.
+
+其國菩薩無量千億，諸聲聞眾亦復無數，無有魔事，雖有魔及魔民，皆護佛法。」
+
+The bodhisattvas of his country will be countless, numbering in the thousands of billions, and the assembly of sound-hearers will also be limitless. There will be no demonic influences, and even if there are demons or demon people, they will protect the Buddha Dharma."
 
 爾時世尊欲重宣此義，而說偈言：
 
