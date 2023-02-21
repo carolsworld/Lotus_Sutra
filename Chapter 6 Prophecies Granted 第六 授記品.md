@@ -38,40 +38,65 @@ The bodhisattvas of his country will be countless, numbering in the thousands of
 
 爾時世尊欲重宣此義，而說偈言：
 
-「告諸比丘：　　『我以佛眼，　　見是迦葉，
-於未來世，　　過無數劫，　　當得作佛。
-而於來世，　　供養奉覲，　　三百萬億，
-諸佛世尊。　　為佛智慧，　　淨修梵行。
-供養最上，　　二足尊已，　　修習一切，
-無上之慧。　　於最後身，　　得成為佛。
-其土清淨，　　琉璃為地，　　多諸寶樹，
-行列道側，　　金繩界道，　　見者歡喜。
-常出好香，　　散眾名華，　　種種奇妙，
-以為莊嚴。　　其地平正，　　無有丘坑。
-諸菩薩眾，　　不可稱計，　　其心調柔，
-逮大神通，　　奉持諸佛，　　大乘經典。
-諸聲聞眾，　　無漏後身，　　法王之子，
-亦不可計，　　乃以天眼，　　不能數知。
-其佛當壽，　　十二小劫；　　正法住世，
-二十小劫；　　像法亦住，　　二十小劫。
-光明世尊，　　其事如是。』」
+At that time, the World Honored One wished to emphasize this meaning and spoke a verse, saying:
+
+「告諸比丘：『我以佛眼，見是迦葉，於未來世，過無數劫，當得作佛。
+
+"I declare to all the monks, With the Buddha's eye, I saw that in a future age, after countless eons, Kashyapa will become a Buddha.
+
+而於來世，供養奉覲，三百萬億，諸佛世尊。為佛智慧，淨修梵行。
+
+In a future age, he will make offerings and pay homage, to three hundred million Buddhas, the World Honored Ones. He will cultivate the Buddha's wisdom and practice the pure Brahman conduct.
+
+供養最上，二足尊已，修習一切，無上之慧。於最後身，得成為佛。
+
+Offering the highest homage to the two-footed ones and cultivating all supreme wisdom. In his final body, he will attain Buddhahood.
+
+其土清淨，琉璃為地，多諸寶樹，行列道側，金繩界道，見者歡喜。
+
+His land will be pure, with crystal as the ground, many precious trees will line the roads, golden ropes will mark the boundaries, and those who see it will rejoice.
+
+常出好香，散眾名華，種種奇妙，以為莊嚴。
+It will constantly emit fragrant scents and beautiful sounds, various wonders will adorn it as ornamentation.
+
+其地平正，無有丘坑。
+
+The land will be flat and even, with no hills or valleys.
+
+諸菩薩眾，不可稱計，其心調柔，逮大神通，奉持諸佛，大乘經典。
+
+The countless Bodhisattvas there cannot be counted, their minds are gentle, and they possess great supernatural powers, upholding the Buddhist teachings of the Mahayana scriptures.
+
+諸聲聞眾，無漏後身，法王之子，亦不可計，乃以天眼，不能數知。
+
+The numberless disciples who have attained the truth will also be there, sons of the Dharma King, impossible to count. Even with heavenly eyes, their number cannot be known.
+
+其佛當壽，十二小劫；正法住世，二十小劫；像法亦住，二十小劫。
+
+His Buddha lifespan will be twelve small eons, the true Dharma will last for twenty small eons, and the semblance Dharma will also last for twenty small eons.
+
+光明世尊，其事如是。』」
+
+Such will be the affairs of the Radiant Light World-Honored One."
 
 爾時大目犍連、須菩提、摩訶迦栴延等，皆悉悚慄，一心合掌，瞻仰尊顏，目不暫捨，即共同聲而說偈言：
 
-「大雄猛世尊，　　諸釋之法王，
-哀愍我等故，　　而賜佛音聲。
-若知我深心，　　見為授記者，
-如以甘露灑，　　除熱得清涼。
-如從饑國來，　　忽遇大王饍，
-心猶懷疑懼，　　未敢即便食；
-若復得王教，　　然後乃敢食。
-我等亦如是，　　每惟小乘過，
-不知當云何，　　得佛無上慧。
-雖聞佛音聲，　　言我等作佛，
-心尚懷憂懼，　　如未敢便食；
-若蒙佛授記，　　爾乃快安樂。
-大雄猛世尊，　　常欲安世間，
-願賜我等記，　　如飢須教食。」
+「大雄猛世尊，諸釋之法王，哀愍我等故，而賜佛音聲。
+
+若知我深心，見為授記者，如以甘露灑，除熱得清涼。
+
+如從饑國來，忽遇大王饍，心猶懷疑懼，未敢即便食；
+
+若復得王教，然後乃敢食。
+
+我等亦如是，每惟小乘過，不知當云何，得佛無上慧。
+
+雖聞佛音聲，言我等作佛，心尚懷憂懼，如未敢便食；
+
+若蒙佛授記，爾乃快安樂。
+
+大雄猛世尊，常欲安世間，願賜我等記，如飢須教食。」
+
 
 爾時世尊知諸大弟子心之所念，告諸比丘：「是須菩提，於當來世，奉覲三百萬億那由他佛，供養恭敬，尊重讚歎，常修梵行，具菩薩道。於最後身、得成為佛，號曰名相如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。劫名有寶。國名寶生。其土平正，頗梨為地，寶樹莊嚴，無諸丘坑、沙礫、荊棘、便利之穢，寶華覆地，周遍清淨。其土人民，皆處寶臺、珍妙樓閣。聲聞弟子，無量無邊，算數譬喻所不能知。諸菩薩眾，無數千萬億那由他。佛壽十二小劫，正法住世二十小劫，像法亦住二十小劫。其佛常處虛空為眾說法，度脫無量菩薩及聲聞眾。」爾時世尊欲重宣此義，而說偈言：
 
