@@ -81,24 +81,73 @@ Such will be the affairs of the Radiant Light World-Honored One."
 
 爾時大目犍連、須菩提、摩訶迦栴延等，皆悉悚慄，一心合掌，瞻仰尊顏，目不暫捨，即共同聲而說偈言：
 
+At that time, Great Maudgalyayana, Subhuti, Mahakasyapa, and others all trembled with fear, joined their palms together, gazed at the revered face, and did not look away for a moment. Together, they spoke these verses:
+
 「大雄猛世尊，諸釋之法王，哀愍我等故，而賜佛音聲。
+
+"Great and courageous World-Honored One, King of all teachings of the Shakyamuni, Out of compassion for us,
+You grant us the sound of the Buddha's voice.
 
 若知我深心，見為授記者，如以甘露灑，除熱得清涼。
 
-如從饑國來，忽遇大王饍，心猶懷疑懼，未敢即便食；
+If you know our sincere hearts, And recognize us as those to whom you transmit the Dharma, It is like sprinkling us with sweet dew, to relieve us of our heat and give us coolness.
 
-若復得王教，然後乃敢食。
+如從饑國來，忽遇大王饍，心猶懷疑懼，未敢即便食；若復得王教，然後乃敢食。
+
+It is like coming from a country of famine, And suddenly encountering a great feast hosted by a king.
+Although our hearts are still doubtful and fearful, We dare not eat right away. Only after receiving the king's instruction, We can then eat in peace.
 
 我等亦如是，每惟小乘過，不知當云何，得佛無上慧。
 
+We are also like this, Whenever we think of the Hinayana's faults, Not knowing what to do, And unable to attain the Buddha's supreme wisdom.
+
 雖聞佛音聲，言我等作佛，心尚懷憂懼，如未敢便食；
+
+Although we hear the Buddha's voice and are told that we will become Buddhas, Our hearts are still full of worries and fears, Like being afraid to eat right away.
 
 若蒙佛授記，爾乃快安樂。
 
+Only after receiving the Buddha's prediction, can we be happy and at ease.
+
 大雄猛世尊，常欲安世間，願賜我等記，如飢須教食。」
 
+Great and courageous World-Honored One, You always wish to bring peace to the world, We hope you will grant us your prediction, As you would teach the hungry how to eat."
 
-爾時世尊知諸大弟子心之所念，告諸比丘：「是須菩提，於當來世，奉覲三百萬億那由他佛，供養恭敬，尊重讚歎，常修梵行，具菩薩道。於最後身、得成為佛，號曰名相如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。劫名有寶。國名寶生。其土平正，頗梨為地，寶樹莊嚴，無諸丘坑、沙礫、荊棘、便利之穢，寶華覆地，周遍清淨。其土人民，皆處寶臺、珍妙樓閣。聲聞弟子，無量無邊，算數譬喻所不能知。諸菩薩眾，無數千萬億那由他。佛壽十二小劫，正法住世二十小劫，像法亦住二十小劫。其佛常處虛空為眾說法，度脫無量菩薩及聲聞眾。」爾時世尊欲重宣此義，而說偈言：
+爾時世尊知諸大弟子心之所念，告諸比丘：
+
+At that time, the World-Honored One knew the thoughts in the minds of his great disciples, and spoke to the assembly of monks:
+
+「是須菩提，於當來世，奉覲三百萬億那由他佛，供養恭敬，尊重讚歎，常修梵行，具菩薩道。
+
+"Subhuti, in a future life, will pay homage to and make offerings to three hundred million nayutas of Buddhas, with reverent respect, praising and admiring them. He will always practice the Brahma conduct and perfect the Bodhisattva path.
+
+於最後身、得成為佛，號曰名相如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。
+
+In his final life, he will attain Buddhahood, known as the Tathagata Name-Form, the Worthy One, the Perfectly Enlightened One, Endowed with Knowledge and Conduct, Well-Gone, Knower of the World, Unsurpassed, Tamer of Humans, Teacher of Devas and Humans, Buddha, World-Honored One.
+
+劫名有寶。國名寶生。
+
+The kalpa will be named Jeweled, and the country will be named Jeweled Birth.
+
+其土平正，頗梨為地，寶樹莊嚴，無諸丘坑、沙礫、荊棘、便利之穢，寶華覆地，周遍清淨。
+
+The land will be even and flat, made of beryl, adorned with precious trees, without any hills, pits, gravel, thorns, or other filth, covered with jeweled flowers and completely pure.
+
+其土人民，皆處寶臺、珍妙樓閣。聲聞弟子，無量無邊，算數譬喻所不能知。
+
+The people of that land will dwell in jeweled towers and beautiful palaces. The disciples who have attained the stage of Stream-Winner will be countless, beyond calculation or analogy.
+
+諸菩薩眾，無數千萬億那由他。
+
+The assembly of Bodhisattvas will be countless, numbering in the billions of nayutas.
+
+佛壽十二小劫，正法住世二十小劫，像法亦住二十小劫。其佛常處虛空為眾說法，度脫無量菩薩及聲聞眾。」
+
+The Buddha's lifespan will be twelve small kalpas, and the true Dharma will remain in the world for twenty small kalpas, while the semblance Dharma will also remain for twenty small kalpas. In that time, the Buddha will constantly teach the Dharma in the void, liberating immeasurable Bodhisattvas and Stream-Winners."
+
+爾時世尊欲重宣此義，而說偈言：
+
+At that time, the World-Honored One wanted to emphasize this meaning and spoke these verses:
 
 「諸比丘眾，　　今告汝等，　　皆當一心，
 聽我所說：　　我大弟子，　　須菩提者，
