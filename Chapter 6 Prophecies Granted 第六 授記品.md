@@ -149,22 +149,46 @@ The Buddha's lifespan will be twelve small kalpas, and the true Dharma will rema
 
 At that time, the World-Honored One wanted to emphasize this meaning and spoke these verses:
 
-「諸比丘眾，　　今告汝等，　　皆當一心，
-聽我所說：　　我大弟子，　　須菩提者，
-當得作佛，　　號曰名相。　　當供無數，
-萬億諸佛，　　隨佛所行，　　漸具大道。
-最後身得，　　三十二相，　　端正姝妙，
-猶如寶山。　　其佛國土，　　嚴淨第一，
-眾生見者，　　無不愛樂，　　佛於其中，
-度無量眾。　　其佛法中，　　多諸菩薩，
-皆悉利根，　　轉不退輪，　　彼國常以，
-菩薩莊嚴。　　諸聲聞眾，　　不可稱數，
-皆得三明，　　具六神通，　　住八解脫，
-有大威德。　　其佛說法，　　現於無量，
-神通變化，　　不可思議。　　諸天人民，
-數如恒沙，　　皆共合掌，　　聽受佛語。
-其佛當壽，　　十二小劫，　　正法住世，
-二十小劫，　　像法亦住，　　二十小劫。」
+「諸比丘眾，今告汝等，皆當一心，聽我所說：
+
+"Monks, I now tell you all, with a single mind, listen to what I say:
+
+我大弟子，須菩提者，當得作佛，號曰名相。
+
+My great disciple, Subhuti, will become a Buddha, named 'Wonderful Appearance'.
+
+當供無數，萬億諸佛，隨佛所行，漸具大道。
+
+He will make offerings to countless, innumerable Buddhas and gradually perfect the great path in accordance with the Buddhas.
+
+最後身得，三十二相，端正姝妙，猶如寶山。
+
+In the end, his body will have the thirty-two characteristics, dignified and beautiful, like a precious mountain.
+
+其佛國土，嚴淨第一，眾生見者，無不愛樂，佛於其中，度無量眾。
+
+His Buddha-land will be the foremost in purity, and all living beings who see it will love and delight in it. The Buddha will use it to liberate countless sentient beings.
+
+其佛法中，多諸菩薩，皆悉利根，轉不退輪，彼國常以，菩薩莊嚴。
+
+Within his Buddha-dharma, there are many bodhisattvas, all with sharp faculties, turning the wheel of non-retrogression. In that land, bodhisattvas are adorned with splendor.
+
+諸聲聞眾，不可稱數，皆得三明，具六神通，住八解脫，有大威德。
+
+The countless disciples, beyond reckoning, all possess the threefold enlightenment, complete six supernatural powers, abide in the eight liberations, and have great virtue.
+
+其佛說法，現於無量，神通變化，不可思議。
+
+The Buddha's teachings are manifested in countless ways, with inconceivable changes in supernatural powers.
+
+諸天人民，數如恒沙，皆共合掌，聽受佛語。
+
+Heavenly beings and humans are as numerous as the sands of the Ganges, all joining their palms in reverence, listening to the Buddha's words.
+
+其佛當壽，十二小劫，正法住世，二十小劫，像法亦住，二十小劫。」
+
+The Buddha will live for twelve small aeons, with the true Dharma in the world. For twenty small aeons, the semblance of the Dharma will also remain, and for another twenty small aeons."
+
 
 爾時世尊復告諸比丘眾：「我今語汝，是大迦旃延，於當來世，以諸供具，供養奉事八千億佛，恭敬尊重。諸佛滅後，各起塔廟，高千由旬，縱廣正等五百由旬，皆以金、銀、琉璃、車𤦲，馬瑙、真珠、玫瑰七寶合成，眾華、瓔珞、塗香、末香、燒香、繒蓋、幢幡，供養塔廟。過是已後，當復供養二萬億佛，亦復如是。供養是諸佛已，具菩薩道，當得作佛。號曰閻浮那提金光如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。其土平正，頗梨為地，寶樹莊嚴，黃金為繩以界道側，妙華覆地，周遍清淨，見者歡喜。無四惡道——地獄、餓鬼、畜生、阿修羅道，多有天、人、諸聲聞眾及諸菩薩，無量萬億莊嚴其國。佛壽十二小劫，正法住世二十小劫，像法亦住二十小劫。」
 
