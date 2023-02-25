@@ -189,8 +189,37 @@ Heavenly beings and humans are as numerous as the sands of the Ganges, all joini
 
 The Buddha will live for twelve small aeons, with the true Dharma in the world. For twenty small aeons, the semblance of the Dharma will also remain, and for another twenty small aeons."
 
+爾時世尊復告諸比丘眾：
 
-爾時世尊復告諸比丘眾：「我今語汝，是大迦旃延，於當來世，以諸供具，供養奉事八千億佛，恭敬尊重。諸佛滅後，各起塔廟，高千由旬，縱廣正等五百由旬，皆以金、銀、琉璃、車𤦲，馬瑙、真珠、玫瑰七寶合成，眾華、瓔珞、塗香、末香、燒香、繒蓋、幢幡，供養塔廟。過是已後，當復供養二萬億佛，亦復如是。供養是諸佛已，具菩薩道，當得作佛。號曰閻浮那提金光如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。其土平正，頗梨為地，寶樹莊嚴，黃金為繩以界道側，妙華覆地，周遍清淨，見者歡喜。無四惡道——地獄、餓鬼、畜生、阿修羅道，多有天、人、諸聲聞眾及諸菩薩，無量萬億莊嚴其國。佛壽十二小劫，正法住世二十小劫，像法亦住二十小劫。」
+At that time, the World-Honored One spoke again to the assembly of monks, saying:
+
+「我今語汝，是大迦旃延，於當來世，以諸供具，供養奉事八千億佛，恭敬尊重。
+
+"I now tell you that in a future world, I will be a great King named 'Sagara' who will serve and make offerings to 8 trillion Buddhas with various offerings and services, with utmost respect and reverence.
+
+諸佛滅後，各起塔廟，高千由旬，縱廣正等五百由旬，皆以金、銀、琉璃、車𤦲，馬瑙、真珠、玫瑰七寶合成，眾華、瓔珞、塗香、末香、燒香、繒蓋、幢幡，供養塔廟。
+
+After the passing of each Buddha, I will construct a stupa or temple in their honor, each measuring 1,000 yojanas in height and 500 yojanas in width and length, made of the seven treasures of gold, silver, lapis lazuli, seashell, agate, pearl, and ruby, adorned with various flowers, jewels, fragrances, and banners, to be offered and maintained.
+
+過是已後，當復供養二萬億佛，亦復如是。
+
+After this, I will continue to make offerings and serve another 2 trillion Buddhas in the same manner.
+
+供養是諸佛已，具菩薩道，當得作佛。號曰閻浮那提金光如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。
+
+By making these offerings and following the path of the Bodhisattva, I will ultimately attain Buddhahood, known as the 'Sovereign Golden Light' Tathagata, worthy of offerings, perfect in knowledge and conduct, well-gone, knower of the world, unsurpassed guide for beings, tamer of humans, teacher of gods and humans.
+
+其土平正，頗梨為地，寶樹莊嚴，黃金為繩以界道側，妙華覆地，周遍清淨，見者歡喜。
+
+The land of my Buddha-realm will be flat and even, with Bodhi trees adorning it, bounded by a golden cord, covered with wonderful flowers, and completely pure, bringing joy to all who see it. 
+
+無四惡道——地獄、餓鬼、畜生、阿修羅道，多有天、人、諸聲聞眾及諸菩薩，無量萬億莊嚴其國。
+
+There will be no lower realms of existence such as hell, hungry ghosts, animals, or asuras, but rather many gods, humans, sound-hearers, and bodhisattvas, numbering in the countless trillions, all in a state of adornment.
+
+My lifespan as a Buddha will be 12 small kalpas, my teachings of the correct Dharma will last for 20 small kalpas, and my teachings of the resembling Dharma will also last for 20 small kalpas."
+
+佛壽十二小劫，正法住世二十小劫，像法亦住二十小劫。」
 
 爾時世尊欲重宣此義，而說偈言：
 
