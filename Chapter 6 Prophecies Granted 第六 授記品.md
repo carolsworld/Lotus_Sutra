@@ -2,7 +2,7 @@ A translation of Lotus Sutra from Chinese to English using ChatGPT (date: 20 Feb
 
 妙法蓮華經授記品第六
 
-The Lotus Sutra, Chapter on Prophecies Granted, Chapter 5.
+The Lotus Sutra, Chapter on Prophecies Granted, Chapter 6.
 
 爾時世尊說是偈已，告諸大眾，唱如是言：
 
