@@ -217,41 +217,109 @@ The land of my Buddha-realm will be flat and even, with Bodhi trees adorning it,
 
 There will be no lower realms of existence such as hell, hungry ghosts, animals, or asuras, but rather many gods, humans, sound-hearers, and bodhisattvas, numbering in the countless trillions, all in a state of adornment.
 
-My lifespan as a Buddha will be 12 small kalpas, my teachings of the correct Dharma will last for 20 small kalpas, and my teachings of the resembling Dharma will also last for 20 small kalpas."
-
 佛壽十二小劫，正法住世二十小劫，像法亦住二十小劫。」
 
-爾時世尊欲重宣此義，而說偈言：
-
-「諸比丘眾、　　皆一心聽，　　如我所說，
-真實無異。　　是迦栴延，　　當以種種，
-妙好供具，　　供養諸佛。　　諸佛滅後，
-起七寶塔，　　亦以華香，　　供養舍利。
-其最後身，　　得佛智慧，　　成等正覺。
-國土清淨，　　度脫無量，　　萬億眾生，
-皆為十方，　　之所供養。　　佛之光明，
-無能勝者。　　其佛號曰，　　閻浮金光。
-菩薩聲聞，　　斷一切有，　　無量無數，
-莊嚴其國。」
-
-爾時世尊復告大眾：「我今語汝，是大目犍連，當以種種供具供養八千諸佛，恭敬尊重。諸佛滅後，各起塔廟，高千由旬，縱廣正等五百由旬，皆以金、銀、琉璃、車𤦲、馬瑙、真珠、玫瑰、七寶合成，眾華、瓔珞、塗香、末香、燒香、繒蓋、幢幡，以用供養。過是已後，當復供養二百萬億諸佛，亦復如是。當得成佛，號曰多摩羅跋栴檀香如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。劫名喜滿，國名意樂。其土平正，頗梨為地，寶樹莊嚴，散真珠華，周遍清淨，見者歡喜。多諸天、人、菩薩、聲聞，其數無量。佛壽二十四小劫，正法住世四十小劫，像法亦住四十小劫。」
+My lifespan as a Buddha will be 12 small kalpas, my teachings of the correct Dharma will last for 20 small kalpas, and my teachings of the resembling Dharma will also last for 20 small kalpas."
 
 爾時世尊欲重宣此義，而說偈言：
 
-「我此弟子、　　大目犍連，　　捨是身已，
-得見八千，　　二百萬億，　　諸佛世尊。
-為佛道故，　　供養恭敬，　　於諸佛所，
-常修梵行，　　於無量劫，　　奉持佛法。
-諸佛滅後，　　起七寶塔，　　長表金剎，
-華香伎樂，　　而以供養，　　諸佛塔廟。
-漸漸具足，　　菩薩道已，　　於意樂國，
-而得作佛。　　號多摩羅，　　栴檀之香。
-其佛壽命，　　二十四劫，　　常為天人，
-演說佛道。　　聲聞無量，　　如恒河沙，
-三明六通，　　有大威德。　　菩薩無數，
-志固精進，　　於佛智慧，　　皆不退轉。
-佛滅度後，　　正法當住，　　四十小劫，
-像法亦爾。　　我諸弟子，　　威德具足，
-其數五百，　　皆當授記。　　於未來世、
-咸得成佛。　　我及汝等，　　宿世因緣，
-吾今當說，　　汝等善聽。」
+At that time, the World-Honored One desired to further expound upon this principle and spoke the following verse to the assembly of monks with one mind in attentive listening:
+
+「諸比丘眾、皆一心聽，如我所說，真實無異。
+
+"All you assembled monks, with one mind listen, As I speak, it is all true and not different.
+
+是迦栴延，當以種種，妙好供具，供養諸佛。
+
+This Kasyapa [Buddha] should be adorned with all kinds of wondrous and excellent offerings, supplied to all Buddhas.
+
+諸佛滅後，起七寶塔，亦以華香，供養舍利。
+
+After the Buddhas pass away, erect for him seven precious towers, and with flowers and incense, offer to his relics.
+
+其最後身，得佛智慧，成等正覺。
+
+His final body attains the wisdom of Buddha, achieving perfect enlightenment.
+
+國土清淨，度脫無量，萬億眾生，皆為十方，之所供養。
+
+The land is pure and freed, countless living beings, ten directions all, offering homage there.
+
+佛之光明，無能勝者。其佛號曰，閻浮金光。
+
+The radiance of the Buddha is beyond compare, whose name is called "Vaidurya Light".
+
+菩薩聲聞，斷一切有，無量無數，莊嚴其國。」
+
+Bodhisattvas and hearers, all have cut off everything, immeasurable and countless, adorning his land."
+
+爾時世尊復告大眾：
+
+At that time, the World-Honored One continued to address the assembly:
+
+「我今語汝，是大目犍連，當以種種供具供養八千諸佛，恭敬尊重。
+
+"I now tell you that this Great Maudgalyayana should offer various offerings to the eight thousand Buddhas with respect and reverence.
+
+諸佛滅後，各起塔廟，高千由旬，縱廣正等五百由旬，皆以金、銀、琉璃、車𤦲、馬瑙、真珠、玫瑰、七寶合成，眾華、瓔珞、塗香、末香、燒香、繒蓋、幢幡，以用供養。
+
+After the Buddhas pass away, erect for each of them stupas and temples, a thousand yojanas high, and their base should be five hundred yojanas in width, made of gold, silver, lapis lazuli, seashell, agate, pearl, ruby, and the seven treasures, decorated with countless flowers, jewels, perfumes, incense, banners, and canopies, to be used for offerings.
+
+過是已後，當復供養二百萬億諸佛，亦復如是。
+
+After this, you should again offer worship to two hundred million billion Buddhas, in the same way.
+
+當得成佛，號曰多摩羅跋栴檀香如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。
+
+When you attain Buddhahood, your name shall be "Tamalapattra Fragrance Tathagata", worthy of offerings,
+Perfectly knowing and practicing, well-gone, one who understands the world, supreme, tamer of men, teacher of gods and humans, Buddha, World-Honored One.
+
+劫名喜滿，國名意樂。其土平正，頗梨為地，寶樹莊嚴，散真珠華，周遍清淨，見者歡喜。
+
+The kalpa shall be named "Delightful Fullness", and the land shall be called "Joyful Abode", flat and even with Bodhi trees, spreading pearls and flowers, all around it is pure and those who see it rejoice.
+
+多諸天、人、菩薩、聲聞，其數無量。
+
+Many gods, humans, bodhisattvas, and hearers, their numbers are countless.
+
+佛壽二十四小劫，正法住世四十小劫，像法亦住四十小劫。」
+
+The Buddha's lifespan is twenty-four small kalpas, the True Dharma endures for forty small kalpas, and the semblance of Dharma also endures for forty small kalpas."
+
+爾時世尊欲重宣此義，而說偈言：
+
+The World-Honored One desired to further expound upon this principle and spoke the following verse:
+
+「我此弟子、大目犍連，捨是身已，得見八千，二百萬億，諸佛世尊。
+
+"My disciple, Great Maudgalyayana, abandoned this body and saw the eight thousand and two hundred million billion Buddhas.
+
+為佛道故，供養恭敬，於諸佛所，常修梵行，於無量劫，奉持佛法。
+
+For the sake of the Buddha's path, he offered respect and reverence and constantly cultivated the Brahma practice at the feet of the Buddhas, holding the Buddha's teachings for countless kalpas.
+
+諸佛滅後，起七寶塔，長表金剎，華香伎樂，而以供養，諸佛塔廟。
+
+After the Buddhas passed away, he built seven jewel towers, adorned with flowers, incense, music, and dance,
+Offering them in homage to the temples of the Buddhas.
+
+漸漸具足，菩薩道已，於意樂國，而得作佛。號多摩羅，栴檀之香。
+
+
+Gradually completing the bodhisattva path, he was able to become a Buddha in the Joyful Abode, with the name "Tamalapattra Fragrance".
+
+其佛壽命，二十四劫，常為天人，演說佛道。聲聞無量，如恒河沙，三明六通，有大威德。
+
+His lifespan as a Buddha is twenty-four kalpas, he constantly expounds the Dharma to gods and humans. His hearers are countless as the sands of the Ganges, and they possess the Three Insights and Six Spiritual Powers, with great power and virtue.
+
+菩薩無數，志固精進，於佛智慧，皆不退轉。
+
+The bodhisattvas are countless, firmly committed to diligence, and none turn back from the wisdom of the Buddha.
+
+佛滅度後，正法當住，四十小劫，像法亦爾。
+
+After the Buddha's parinirvana, the True Dharma will remain for forty small kalpas, and the semblance of the Dharma will be the same.
+
+我諸弟子，威德具足，其數五百，皆當授記。於未來世、咸得成佛。我及汝等，宿世因緣，吾今當說，汝等善聽。」
+
+My five hundred disciples, all endowed with great virtue, shall be granted a prediction of their future Buddhahood. You and I have a karmic connection from past lives, so I will now speak and you should listen well."
