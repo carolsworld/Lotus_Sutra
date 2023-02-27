@@ -4,13 +4,45 @@ A translation of Lotus Sutra from Chinese to English using ChatGPT (date: 27 Feb
 
 The Lotus Sutra, Chapter on Parable of the Phantom City, Chapter 7 
 
-佛告諸比丘：「乃往過去無量無邊不可思議阿僧祇劫，爾時有佛，名大通智勝如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。其國名好成，劫名大相。諸比丘！彼佛滅度已來，甚大久遠，譬如三千大千世界所有地種，假使有人磨以為墨，過於東方千國土乃下一點，大如微塵，又過千國土復下一點，如是展轉盡地種墨。於汝等意云何？是諸國土，若算師，若算師弟子，能得邊際，知其數不？」
+佛告諸比丘：「
+
+The Buddha said to the monks:
+
+乃往過去無量無邊不可思議阿僧祇劫，爾時有佛，名大通智勝如來、應供、正遍知、明行足、善逝、世間解、無上士、調御丈夫、天人師、佛、世尊。
+
+"In the past, innumerable and boundless inconceivable kalpas ago, there was a Buddha named Mahāsamudgata Tathāgata, Arhat, Fully Enlightened, Endowed with Wisdom and Good Conduct, Well-gone, Knower of the World, Unsurpassed, Tamer of Men, Teacher of Devas and Humans, Buddha, the World-Honored One.
+
+其國名好成，劫名大相。
+
+His country was called Haocheng and the kalpa was called Daxiang.
+
+諸比丘！彼佛滅度已來，甚大久遠，譬如三千大千世界所有地種，假使有人磨以為墨，過於東方千國土乃下一點，大如微塵，又過千國土復下一點，如是展轉盡地種墨。
+
+Monks! Since the passing of that Buddha, a very long time has elapsed, like grinding all the earth in three thousand great thousand worlds into ink, taking a speck of it and placing it down in a single country to the east, then taking another speck and placing it down in another country, and so on until all the ink is used up.
+
+於汝等意云何？是諸國土，若算師，若算師弟子，能得邊際，知其數不？」
+
+What do you think, monks? If a mathematician or his disciple were to count the number of these countries and their boundaries, would they be able to comprehend it?"
 
 「不也，世尊！」
 
-「諸比丘！是人所經國土，若點不點，盡末為塵，一塵一劫；彼佛滅度已來，復過是數無量無邊百千萬億阿僧祇劫。我以如來知見力故，觀彼久遠，猶若今日。」
+"No, World-Honored One!"
+
+「諸比丘！是人所經國土，若點不點，盡末為塵，一塵一劫；
+
+"Monks! The land that person went through was like dust at the end of each speck, and one speck represents one kalpa.
+
+彼佛滅度已來，復過是數無量無邊百千萬億阿僧祇劫。
+
+Since the passing of that Buddha, there have been countless billions of inconceivable kalpas.
+
+我以如來知見力故，觀彼久遠，猶若今日。」
+
+Due to my knowledge and vision as a Tathāgata, I can perceive that distant past as if it were today."
 
 爾時世尊欲重宣此義，而說偈言：
+
+At that time, the World-Honored One desired to emphasize this meaning and spoke these verses:
 
 「我念過去世，　　無量無邊劫，
 有佛兩足尊，　　名大通智勝。
