@@ -44,22 +44,61 @@ Due to my knowledge and vision as a Tathāgata, I can perceive that distant past
 
 At that time, the World-Honored One desired to emphasize this meaning and spoke these verses:
 
-「我念過去世，　　無量無邊劫，
-有佛兩足尊，　　名大通智勝。
-如人以力磨，　　三千大千土，
-盡此諸地種，　　皆悉以為墨。
-過於千國土，　　乃下一塵點，
-如是展轉點，　　盡此諸塵墨。
-如是諸國土，　　點與不點等，
-復盡末為塵，　　一塵為一劫。
-此諸微塵數，　　其劫復過是，
-彼佛滅度來，　　如是無量劫。
-如來無礙智，　　知彼佛滅度，
-及聲聞菩薩，　　如見今滅度。
-諸比丘當知！　　佛智淨微妙，
-無漏無所礙，　　通達無量劫。」
+「我念過去世，無量無邊劫，有佛兩足尊，名大通智勝。
 
-佛告諸比丘：「大通智勝佛壽五百四十萬億那由他劫。其佛本坐道場，破魔軍已，垂得阿耨多羅三藐三菩提，而諸佛法不現在前。如是一小劫乃至十小劫，結加趺坐，身心不動，而諸佛法猶不在前。爾時忉利諸天，先為彼佛於菩提樹下敷師子座，高一由旬，佛於此座當得阿耨多羅三藐三菩提。適坐此座，時諸梵天王雨眾天華，面百由旬，香風時來，吹去萎華，更雨新者。如是不絕，滿十小劫，供養於佛，乃至滅度常雨此華。四王諸天為供養佛，常擊天鼓，其餘諸天作天伎樂，滿十小劫，至于滅度亦復如是。
+I recollect the past world, countless boundless kalpas ago, where there was a Buddha, a two-footed sage named Mahāsamudgata.
+
+如人以力磨，三千大千土，盡此諸地種，皆悉以為墨。
+
+Like grinding all the earth in three thousand great thousand worlds into ink, taking a speck of it and placing it down in a single country, and so on until all the ink is used up.
+
+過於千國土，乃下一塵點，如是展轉點，盡此諸塵墨。
+
+Taking another speck and placing it down in another country, and so on until all the ink is used up.
+
+如是諸國土，點與不點等，復盡末為塵，一塵為一劫。
+
+This land, whether it is specked or not, all ends up as dust, and one speck represents one kalpa.
+
+此諸微塵數，其劫復過是，彼佛滅度來，如是無量劫。
+
+These countless dust particles represent an inconceivable number of kalpas. Since the passing of that Buddha, countless kalpas have passed.
+
+如來無礙智，知彼佛滅度，及聲聞菩薩，如見今滅度。
+
+The Tathāgata, with his unobstructed wisdom, knows about the passing of that Buddha, and so do the śrāvakas and bodhisattvas, as if they had witnessed it themselves.
+
+諸比丘當知！佛智淨微妙，無漏無所礙，通達無量劫。」
+
+Monks, you should know that the Buddha's wisdom is pure and subtle, free from defilements, and comprehends countless kalpas."
+
+佛告諸比丘：「大通智勝佛壽五百四十萬億那由他劫。
+
+The Buddha said to the monks, "The lifespan of the Mahāsamudgata Buddha was 54 million trillion kalpas.
+
+其佛本坐道場，破魔軍已，垂得阿耨多羅三藐三菩提，而諸佛法不現在前。
+
+That Buddha attained the highest enlightenment sitting under the bodhi tree after defeating the army of Mara, but the other Buddhadharma did not appear at that time.
+
+如是一小劫乃至十小劫，結加趺坐，身心不動，而諸佛法猶不在前。
+
+For one small kalpa or even up to ten small kalpas, he sat cross-legged with a motionless body and mind, but the other Buddhadharma still did not appear.
+
+爾時忉利諸天，先為彼佛於菩提樹下敷師子座，高一由旬，佛於此座當得阿耨多羅三藐三菩提。
+
+At that time, the gods of Tuṣita Heaven prepared a lion seat under the bodhi tree, which was 10,000 yojanas high, where the Buddha was to attain the highest enlightenment.
+
+適坐此座，時諸梵天王雨眾天華，面百由旬，香風時來，吹去萎華，更雨新者。
+
+As soon as he sat on this seat, flowers rained down from the gods of Brahma Heaven. Each flower had a face 100 yojanas wide, and when a fragrant breeze came, the withered flowers were blown away, and new ones replaced them.
+
+如是不絕，滿十小劫，供養於佛，乃至滅度常雨此華。
+
+This continued without interruption for ten small kalpas, and the flowers rained down constantly until the Buddha's passing.
+
+四王諸天為供養佛，常擊天鼓，其餘諸天作天伎樂，滿十小劫，至于滅度亦復如是。
+
+The four heavenly kings constantly beat their drums as an offering to the Buddha, while other gods played heavenly music, and this continued for ten small kalpas until the Buddha's passing, when it continued in the same way.
 
 「諸比丘！大通智勝佛過十小劫，諸佛之法乃現在前，成阿耨多羅三藐三菩提。其佛未出家時，有十六子，其第一者名曰智積。諸子各有種種珍異玩好之具，聞父得成阿耨多羅三藐三菩提，皆捨所珍，往詣佛所。諸母涕泣而隨送之。其祖轉輪聖王，與一百大臣及餘百千萬億人民，皆共圍繞，隨至道場。咸欲親近大通智勝如來，供養恭敬，尊重讚歎。到已，頭面禮足，繞佛畢已，一心合掌，瞻仰世尊，以偈頌曰：
 
