@@ -148,17 +148,51 @@ After arriving, they bowed down to the Buddha's feet, circumambulated him, and t
 
 "Now the Buddha has achieved the highest, peaceful and unconditioned path. We, together with heavenly beings, bow in reverence and surrender to the incomparable, highest being, seeking the greatest benefit."
 
-「爾時十六王子偈讚佛已，勸請世尊轉於法輪，咸作是言：『世尊說法，多所安隱、憐愍、饒益諸天人民。』重說偈言：
+「爾時十六王子偈讚佛已，勸請世尊轉於法輪，咸作是言：
+
+At that time, after reciting verses in praise of the Buddha, the sixteen royal sons urged the World-Honored One to turn the wheel of the Dharma, saying:
+
+『世尊說法，多所安隱、憐愍、饒益諸天人民。』
+
+"The World-Honored One teaches the Dharma, benefiting and comforting countless heavenly beings and human beings."
+
+重說偈言：
+
+They repeated their verses:
 
 「『世雄無等倫，百福自莊嚴，得無上智慧，願為世間說。
+
+"The World-Hero, unrivaled in all things, adorned with all blessings, has attained the unsurpassed wisdom. He desires to teach the world.
+
 度脫於我等、及諸眾生類，為分別顯示，令得是智慧。
+
+"He liberates and emancipates us and all sentient beings, distinguishing and revealing the path to achieve this wisdom.
+
 若我等得佛，眾生亦復然。
+
+"If we attain Buddhahood, then sentient beings will also attain it.
+
 世尊知眾生，深心之所念，亦知所行道，又知智慧力，欲樂及修福，宿命所行業。
+
+"The World-Honored One knows the thoughts and aspirations deep in the hearts of sentient beings, and he also knows the path they should follow, as well as their wisdom and abilities. He desires to help them cultivate virtue and happiness, and guide them according to their karmic tendencies.
+
 世尊悉知已，當轉無上輪。』」
 
+"The World-Honored One already knows this, and he will certainly turn the unsurpassed wheel of the Dharma."
+
 佛告諸比丘：「
+
+The Buddha told the monks:
+
 大通智勝佛得阿耨多羅三藐三菩提時，十方各五百萬億諸佛世界六種震動，其國中間幽冥之處，日月威光所不能照，而皆大明。
-其中眾生，各得相見，咸作是言：『此中云何忽生眾生，又其國界、諸天宮殿乃至梵宮，六種震動，大光普照，遍滿世界，勝諸天光？』
+
+When the Mahāsamudgata Buddha attained enlightenment, the six realms of the five hundred million billion Buddha worlds in the ten directions shook, and the darkest places in his country became bright with light that even the sun and moon could not shine upon.
+
+其中眾生，各得相見，咸作是言：
+
+The sentient beings therein all saw each other and said:
+
+『此中云何忽生眾生，又其國界、諸天宮殿乃至梵宮，六種震動，大光普照，遍滿世界，勝諸天光？』
 
 「爾時東方五百萬億諸國土中，梵天宮殿光明照曜，倍於常明。
 諸梵天王各作是念：『今者宮殿光明，昔所未有。以何因緣而現此相？』
