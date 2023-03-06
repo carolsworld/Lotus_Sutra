@@ -194,19 +194,43 @@ The sentient beings therein all saw each other and said:
 
 『此中云何忽生眾生，又其國界、諸天宮殿乃至梵宮，六種震動，大光普照，遍滿世界，勝諸天光？』
 
+"How did these sentient beings suddenly arise here? And why is there an earthquake in the country, in the palaces of the gods and even in the Brahmaloka? The six types of shaking and the great light illuminate the whole world, surpassing the light of all the heavenly realms?"
+
 「爾時東方五百萬億諸國土中，梵天宮殿光明照曜，倍於常明。
+
+At that time, in the eastern Buddha-worlds of five hundred million billion countries, the palaces of the gods were radiant with a light brighter than usual.
+
 諸梵天王各作是念：『今者宮殿光明，昔所未有。以何因緣而現此相？』
+
+Each of the gods in these palaces wondered, "Why is the palace so radiant now when it has never been like this before? What could be the cause?"
+
 是時諸梵天王，即各相詣，共議此事。
+
+They then gathered together to discuss this matter.
+
 時彼眾中，有一大梵天王，名救一切，為諸梵眾而說偈言：
 
-「『我等諸宮殿，光明昔未有，此是何因緣，宜各共求之。
-為大德天生，為佛出世間，而此大光明，遍照於十方。』
+Among the gods there was a great king of the gods named "Savior of All". He recited a verse for the other gods to hear:
+
+「『我等諸宮殿，光明昔未有，此是何因緣，宜各共求之。為大德天生，為佛出世間，而此大光明，遍照於十方。』
+
+"Our palaces were never this bright before. What is the cause of this sudden appearance? Let us all search for the reason. Perhaps it is a sign of a great being's birth or the Buddha's arrival in the world. This great light illuminates the ten directions."
 
 「爾時五百萬億國土諸梵天王，與宮殿俱，各以衣裓，盛諸天華，共詣西方推尋是相。
-見大通智勝如來處于道場菩提樹下，坐師子座，諸天、龍王、乾闥婆、緊那羅、摩睺羅伽、人非人等恭敬圍繞，及見十六王子請佛轉法輪。即時諸梵天王頭面禮佛，繞百千匝，即以天華而散佛上——其所散華如須彌山；
-并以供養佛菩提樹——其菩提樹高十由旬。
+
+"At that time, the countless numbers of the gods of the eastern lands, along with their palaces, adorned themselves with garments and filled baskets with heavenly flowers. They then journeyed to the west to seek out the source of the wondrous light.
+
+見大通智勝如來處于道場菩提樹下，坐師子座，諸天、龍王、乾闥婆、緊那羅、摩睺羅伽、人非人等恭敬圍繞，及見十六王子請佛轉法輪。即時諸梵天王頭面禮佛，繞百千匝，即以天華而散佛上——其所散華如須彌山；并以供養佛菩提樹——其菩提樹高十由旬。
+
+There they saw the Buddha, the great and wise one, seated beneath the Bodhi tree, surrounded by gods, dragons, Asuras, Gandharvas, and other beings. They also witnessed the sixteen royal sons requesting the Buddha to turn the wheel of the Dharma.
+
 華供養已，各以宮殿奉上彼佛，而作是言：『唯見哀愍，饒益我等。所獻宮殿，願垂納受。』
+
+The gods then prostrated themselves before the Buddha, circled him countless times, and offered him flowers which were as vast as the Mount Sumeru. They also presented their palaces to the Buddha and implored him to accept their offerings and to show them his compassionate mercy.
+
 時諸梵天王，即於佛前，一心同聲以偈頌曰：
+
+Then, with one voice, the gods recited a verse before the Buddha."
 
 「『世尊甚希有，難可得值遇，具無量功德，能救護一切。
 天人之大師，哀愍於世間，十方諸眾生，普皆蒙饒益。
