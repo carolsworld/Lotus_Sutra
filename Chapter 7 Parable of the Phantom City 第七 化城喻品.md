@@ -220,11 +220,11 @@ Among the gods there was a great king of the gods named "Savior of All". He reci
 
 "At that time, the countless numbers of the gods of the eastern lands, along with their palaces, adorned themselves with garments and filled baskets with heavenly flowers. They then journeyed to the west to seek out the source of the wondrous light.
 
-見大通智勝如來處于道場菩提樹下，坐師子座，諸天、龍王、乾闥婆、緊那羅、摩睺羅伽、人非人等恭敬圍繞，及見十六王子請佛轉法輪。即時諸梵天王頭面禮佛，繞百千匝，即以天華而散佛上——其所散華如須彌山；并以供養佛菩提樹——其菩提樹高十由旬。
+見大通智勝如來處于道場菩提樹下，坐師子座，諸天、龍王、乾闥婆、緊那羅、摩睺羅伽、人非人等恭敬圍繞，及見十六王子請佛轉法輪。
 
 There they saw the Buddha, the great and wise one, seated beneath the Bodhi tree, surrounded by gods, dragons, Asuras, Gandharvas, and other beings. They also witnessed the sixteen royal sons requesting the Buddha to turn the wheel of the Dharma.
 
-華供養已，各以宮殿奉上彼佛，而作是言：『唯見哀愍，饒益我等。所獻宮殿，願垂納受。』
+即時諸梵天王頭面禮佛，繞百千匝，即以天華而散佛上——其所散華如須彌山；并以供養佛菩提樹——其菩提樹高十由旬。華供養已，各以宮殿奉上彼佛，而作是言：『唯見哀愍，饒益我等。所獻宮殿，願垂納受。』
 
 The gods then prostrated themselves before the Buddha, circled him countless times, and offered him flowers which were as vast as the Mount Sumeru. They also presented their palaces to the Buddha and implored him to accept their offerings and to show them his compassionate mercy.
 
